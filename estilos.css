@@ -1,0 +1,406 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,400&family=Open+Sans:wght@300;400;500;600&display=swap');
+
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+:root {
+  --verde:          #113034;
+  --verde-medio:    #104b4e;
+  --violeta:        #6255aa;
+  --lavanda:        #8d96cb;
+  --lavanda-suave:  #eceef8;
+  --blanco:         #ffffff;
+  --fondo:          #f4f4f7;
+  --texto:          #113034;
+  --texto-suave:    #5f7375;
+  --borde:          #dcdde8;
+  --sombra:         0 1px 4px rgba(17,48,52,.06), 0 6px 18px rgba(17,48,52,.05);
+  --sombra-hover:   0 4px 12px rgba(98,85,170,.14), 0 16px 32px rgba(98,85,170,.10);
+  --serif:          'Playfair Display', Georgia, serif;
+  --sans:           'Open Sans', system-ui, sans-serif;
+}
+
+html { scroll-behavior: smooth; }
+
+body {
+  background: var(--fondo);
+  color: var(--texto);
+  font-family: var(--sans);
+  font-size: 15px;
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* ── HEADER ──────────────────────────────────────────── */
+
+header {
+  background: var(--verde);
+  position: relative;
+  overflow: hidden;
+}
+
+/* Textura sutil de líneas diagonales */
+header::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background-image: repeating-linear-gradient(
+    -55deg,
+    transparent,
+    transparent 40px,
+    rgba(141,150,203,.04) 40px,
+    rgba(141,150,203,.04) 41px
+  );
+  pointer-events: none;
+}
+
+/* Estrella decorativa grande — elemento Convexa */
+header::after {
+  content: '✦';
+  position: absolute;
+  right: -1rem;
+  bottom: -2.5rem;
+  font-size: 14rem;
+  color: rgba(141,150,203,.07);
+  line-height: 1;
+  pointer-events: none;
+  user-select: none;
+}
+
+.header-inner {
+  position: relative;
+  z-index: 1;
+  max-width: 1140px;
+  margin: 0 auto;
+  padding: 2.2rem 2rem 1.8rem;
+  display: grid;
+  grid-template-columns: 1fr auto;
+  align-items: end;
+  gap: 1rem;
+}
+
+.header-marca {
+  display: flex;
+  flex-direction: column;
+  gap: 0.1rem;
+}
+
+.header-marca h1 {
+  font-family: var(--serif);
+  font-size: clamp(2.4rem, 5vw, 3.6rem);
+  font-weight: 700;
+  color: var(--blanco);
+  letter-spacing: -0.5px;
+  line-height: 1;
+}
+
+.header-por {
+  font-family: var(--sans);
+  font-size: 0.7rem;
+  font-weight: 500;
+  letter-spacing: 2.5px;
+  text-transform: uppercase;
+  color: var(--lavanda);
+  margin-top: 0.3rem;
+}
+
+.header-tagline {
+  font-family: var(--sans);
+  font-size: 0.82rem;
+  font-weight: 300;
+  color: rgba(255,255,255,.6);
+  line-height: 1.5;
+  text-align: right;
+  max-width: 260px;
+}
+
+/* Línea inferior degradé violeta */
+.header-raya {
+  height: 3px;
+  background: linear-gradient(90deg, var(--violeta) 0%, var(--lavanda) 60%, transparent 100%);
+}
+
+/* ── MAIN ─────────────────────────────────────────────── */
+
+main {
+  max-width: 1140px;
+  margin: 0 auto;
+  padding: 2.4rem 2rem 4rem;
+}
+
+/* ── CONTROLES ────────────────────────────────────────── */
+
+.controles {
+  margin-bottom: 2.8rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.fecha-actualizacion {
+  font-size: 0.75rem;
+  color: var(--texto-suave);
+  font-weight: 400;
+  letter-spacing: 0.2px;
+}
+
+.filtros {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.filtros-label {
+  font-size: 0.7rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 1.2px;
+  color: var(--texto-suave);
+  margin-right: 0.4rem;
+}
+
+.chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+}
+
+.chip {
+  padding: 0.3rem 0.85rem;
+  border: 1px solid var(--borde);
+  border-radius: 20px;
+  font-family: var(--sans);
+  font-size: 0.75rem;
+  font-weight: 400;
+  cursor: pointer;
+  background: var(--blanco);
+  color: var(--texto-suave);
+  transition: all .18s ease;
+  user-select: none;
+}
+
+.chip:hover {
+  border-color: var(--lavanda);
+  color: var(--violeta);
+  background: var(--lavanda-suave);
+}
+
+.chip.activo {
+  background: var(--violeta);
+  border-color: var(--violeta);
+  color: var(--blanco);
+  font-weight: 500;
+}
+
+.chip-limpiar {
+  border-style: dashed;
+  border-color: #ccc;
+  color: #999;
+  margin-left: 0.2rem;
+}
+
+.chip-limpiar:hover {
+  border-color: #e74c3c;
+  color: #e74c3c;
+  background: #fdf2f2;
+}
+
+/* ── SECCIONES ────────────────────────────────────────── */
+
+.secciones {
+  display: flex;
+  flex-direction: column;
+  gap: 3.5rem;
+}
+
+.seccion-cabecera {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  margin-bottom: 1.3rem;
+  padding-bottom: 0.8rem;
+  border-bottom: 1px solid var(--borde);
+}
+
+.seccion-estrella {
+  color: var(--violeta);
+  font-size: 0.7rem;
+  flex-shrink: 0;
+}
+
+.seccion-titulo {
+  font-family: var(--sans);
+  font-size: 0.68rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 2.5px;
+  color: var(--verde);
+}
+
+.seccion-linea {
+  flex: 1;
+  height: 1px;
+  background: linear-gradient(90deg, var(--borde), transparent);
+}
+
+.seccion-count {
+  font-size: 0.68rem;
+  color: var(--lavanda);
+  font-weight: 500;
+}
+
+.seccion-vacia {
+  font-size: 0.85rem;
+  color: var(--texto-suave);
+  font-style: italic;
+  padding: 0.5rem 0;
+}
+
+.hidden { display: none; }
+
+/* ── CARDS ────────────────────────────────────────────── */
+
+.cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 1.1rem;
+}
+
+@keyframes fadeUp {
+  from { opacity: 0; transform: translateY(10px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+.card {
+  background: var(--blanco);
+  border: 1px solid var(--borde);
+  border-radius: 6px;
+  padding: 1.2rem 1.25rem 1rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.55rem;
+  box-shadow: var(--sombra);
+  transition: box-shadow .2s ease, transform .2s ease, border-color .2s ease;
+  position: relative;
+  overflow: hidden;
+  animation: fadeUp .4s ease both;
+}
+
+/* Acento superior violeta */
+.card::before {
+  content: '';
+  position: absolute;
+  top: 0; left: 0; right: 0;
+  height: 2px;
+  background: linear-gradient(90deg, var(--violeta), var(--lavanda));
+  opacity: 0;
+  transition: opacity .2s ease;
+}
+
+.card:hover {
+  box-shadow: var(--sombra-hover);
+  transform: translateY(-3px);
+  border-color: rgba(141,150,203,.4);
+}
+
+.card:hover::before {
+  opacity: 1;
+}
+
+.card-fuente {
+  font-size: 0.65rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: var(--verde-medio);
+}
+
+.card-titulo {
+  font-family: var(--serif);
+  font-size: 0.97rem;
+  font-weight: 400;
+  line-height: 1.45;
+  color: var(--texto);
+  text-decoration: none;
+  display: block;
+  transition: color .15s;
+}
+
+.card-titulo:hover {
+  color: var(--violeta);
+}
+
+.card-descripcion {
+  font-size: 0.8rem;
+  color: var(--texto-suave);
+  line-height: 1.55;
+  font-weight: 300;
+  flex: 1;
+}
+
+.card-meta {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: 0.5rem;
+  margin-top: 0.4rem;
+  padding-top: 0.6rem;
+  border-top: 1px solid var(--borde);
+}
+
+.card-fecha {
+  font-size: 0.7rem;
+  color: var(--texto-suave);
+  font-weight: 300;
+  white-space: nowrap;
+}
+
+.card-etiquetas {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.25rem;
+  justify-content: flex-end;
+}
+
+.card-etiqueta {
+  font-size: 0.62rem;
+  font-weight: 600;
+  letter-spacing: 0.3px;
+  background: var(--lavanda-suave);
+  color: var(--violeta);
+  padding: 0.15rem 0.5rem;
+  border-radius: 3px;
+  text-transform: uppercase;
+}
+
+/* ── FOOTER ───────────────────────────────────────────── */
+
+footer {
+  background: var(--verde);
+  padding: 1.4rem 2rem;
+  text-align: center;
+  font-size: 0.75rem;
+  color: rgba(255,255,255,.45);
+  font-weight: 300;
+  letter-spacing: 0.3px;
+}
+
+footer a {
+  color: var(--lavanda);
+  text-decoration: none;
+}
+
+footer a:hover { color: var(--blanco); }
+
+/* ── MOBILE ───────────────────────────────────────────── */
+
+@media (max-width: 640px) {
+  .header-inner {
+    grid-template-columns: 1fr;
+    gap: 0.8rem;
+  }
+  .header-tagline { text-align: left; max-width: 100%; }
+  .cards { grid-template-columns: 1fr; }
+  .filtros { flex-direction: column; align-items: flex-start; }
+  main { padding: 1.8rem 1.2rem 3rem; }
+}

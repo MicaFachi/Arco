@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Arco · Convexa</title>
+  <link rel="stylesheet" href="estilos.css">
+</head>
+<body>
+
+  <header>
+    <div class="header-inner">
+      <div class="header-marca">
+        <h1>Arco</h1>
+        <span class="header-por">by Convexa</span>
+      </div>
+      <p class="header-tagline">Curaduría diaria de economía y política<br>para quienes toman decisiones</p>
+    </div>
+  </header>
+  <div class="header-raya"></div>
+
+  <main>
+    <div class="controles">
+      <div class="fecha-actualizacion" id="fecha-actualizacion"></div>
+      <div class="filtros">
+        <span class="filtros-label">Filtrar por tema:</span>
+        <div class="chips" id="chips-etiquetas"></div>
+      </div>
+    </div>
+
+    <div class="secciones">
+      <section class="seccion" id="seccion-provincial">
+        <div class="seccion-cabecera">
+          <span class="seccion-estrella">✦</span>
+          <h2 class="seccion-titulo">Provincial</h2>
+          <div class="seccion-linea"></div>
+          <span class="seccion-count" id="count-provincial"></span>
+        </div>
+        <div class="cards" id="cards-provincial"></div>
+        <p class="seccion-vacia hidden" id="vacia-provincial">Sin noticias para los filtros seleccionados.</p>
+      </section>
+
+      <section class="seccion" id="seccion-nacional">
+        <div class="seccion-cabecera">
+          <span class="seccion-estrella">✦</span>
+          <h2 class="seccion-titulo">Nacional</h2>
+          <div class="seccion-linea"></div>
+          <span class="seccion-count" id="count-nacional"></span>
+        </div>
+        <div class="cards" id="cards-nacional"></div>
+        <p class="seccion-vacia hidden" id="vacia-nacional">Sin noticias para los filtros seleccionados.</p>
+      </section>
+
+      <section class="seccion" id="seccion-internacional">
+        <div class="seccion-cabecera">
+          <span class="seccion-estrella">✦</span>
+          <h2 class="seccion-titulo">Internacional</h2>
+          <div class="seccion-linea"></div>
+          <span class="seccion-count" id="count-internacional"></span>
+        </div>
+        <div class="cards" id="cards-internacional"></div>
+        <p class="seccion-vacia hidden" id="vacia-internacional">Sin noticias para los filtros seleccionados.</p>
+      </section>
+    </div>
+  </main>
+
+  <footer>
+    <p>Arco by <a href="#" target="_blank">Convexa</a> · Actualización diaria automática</p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
