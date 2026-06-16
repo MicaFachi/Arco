@@ -12,7 +12,8 @@ import feedparser
 
 # ─── Configuracion ────────────────────────────────────────────────────────────
 
-MAX_POR_FUENTE = 8  # limite de noticias por fuente para evitar dominancia
+MAX_POR_FUENTE = 8     # limite de noticias por fuente para evitar dominancia
+MAX_POR_SECCION = 20   # tope de noticias por seccion (se quedan las mas relevantes)
 
 # Fuentes con RSS propio que funcionan
 FUENTES_DIRECTAS = [
@@ -283,6 +284,15 @@ def deduplicar(noticias):
             resultado.append(n)
     return resultado
 
+def limitar_por_seccion(noticias, tope):
+    """Por cada seccion, ordena por relevancia (desc) y fecha (desc) y deja solo las primeras `tope`."""
+    resultado = []
+    for sec in ['provincial', 'nacional', 'internacional']:
+        de_seccion = [n for n in noticias if n['seccion'] == sec]
+        de_seccion.sort(key=lambda n: (n.get('relevancia', 0), n['fecha_publicacion']), reverse=True)
+        resultado.extend(de_seccion[:tope])
+    return resultado
+
 def guardar_json(noticias):
     ruta = Path(__file__).parent.parent / "data" / "noticias.json"
     ruta.parent.mkdir(exist_ok=True)
@@ -313,6 +323,7 @@ def main():
         todas.extend(procesar_google_news(config, conteo_por_fuente))
 
     todas = deduplicar(todas)
+    todas = limitar_por_seccion(todas, MAX_POR_SECCION)
     todas.sort(key=lambda n: n['fecha_publicacion'], reverse=True)
     guardar_json(todas)
     print("\nListo.")
