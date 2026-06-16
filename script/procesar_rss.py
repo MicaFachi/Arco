@@ -13,7 +13,7 @@ import feedparser
 # ─── Configuracion ────────────────────────────────────────────────────────────
 
 MAX_POR_FUENTE = 8     # limite de noticias por fuente para evitar dominancia
-MAX_POR_SECCION = 20   # tope de noticias por seccion (se quedan las mas relevantes)
+MAX_POR_SECCION = 21   # tope de noticias por seccion (3 columnas x 7 filas)
 
 # Fuentes con RSS propio que funcionan
 FUENTES_DIRECTAS = [
