@@ -2,8 +2,9 @@ name: Actualizar noticias
 
 on:
   schedule:
-    # 10:00 UTC = 07:00 Argentina (UTC-3). Corre todos los días.
-    - cron: '0 10 * * *'
+    # 08:40 UTC = 05:40 Argentina (UTC-3). Temprano y en minuto "raro"
+    # para esquivar la congestion de GitHub Actions y llegar antes de las 8am.
+    - cron: '40 8 * * *'
   workflow_dispatch:  # permite correrlo manualmente desde la pestaña Actions
 
 permissions:
