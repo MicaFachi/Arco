@@ -1,32 +1,536 @@
 {
-  "fecha_actualizacion": "2026-08-21T09:18:04",
+  "fecha_actualizacion": "2026-08-22T09:00:44",
   "noticias": [
     {
-      "titulo": "Pampa Energía captó US$138 millones para avanzar con sus grandes proyectos en Vaca Muerta y Bahía Blanca",
-      "url": "https://www.rionegro.com.ar/energia/pampa-energia-capto-us138-millones-para-avanzar-con-sus-grandes-proyectos-en-vaca-muerta-y-bahia-blanca/",
+      "titulo": "Alivio para la economía familiar: Neuquén convierte sus recursos en oportunidades para afrontar las deudas",
+      "url": "https://www.rionegro.com.ar/contenido-institucional/alivio-para-la-economia-familiar-neuquen-convierte-sus-recursos-en-oportunidades-para-afrontar-las-deudas/",
       "fuente": "Diario Rio Negro",
-      "fecha_publicacion": "2026-08-21",
+      "fecha_publicacion": "2026-08-22",
       "seccion": "provincial",
       "etiquetas": [
-        "Vaca Muerta",
-        "Ambiente"
+        "Economia",
+        "Finanzas"
       ],
       "imagen": "",
       "descripcion": "",
+      "relevancia": 3
+    },
+    {
+      "titulo": "Vaca Muerta impulsó un triple récord de producción de petróleo y acerca a Argentina al millón de barriles diarios",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOX0pHN0xxbWRGMURuX1FiSDR6WldlQUg2OTVERUh0Y2dONmZlTTF4VkdnV1NQb3ZuV29KOFhiNzd1MVZoV3RTRTBnN1dDYmpPb19TdHEyU3hZT1A0elpiWUZMYVc0V3hnNmZyRTVFbnhPVm95U1RDNWUxNDg1Y3lXeUl4WFlXZF94a2lTQmZlSTRLSnZPajdBblI1bkdWRVlYeXJNeEFLcmJqZEF3V0xVRldQaTJRdmI0YWdxcDM1VnByd083M2V5emROc0pkRm1rUEk4eGlkczVURFBCVTBuMmIwS3FJNFVWQnlfTU9XQ0NsVHJjaUNLU0VFYlFyZ9IBgwJBVV95cUxOZUk5NGV4dGt5WUhjOGw1YUhXaU1UMXF0VGlJQW1XUGNNdE52d21GYUJVY21XRTF3b1U0bmNyRmpjaXZFQUoyU3Vja0xwVmJQRnJVZzBwODkyTjhYRmRFVk5rVHY3enpaUEprdDdoM0pqcUZUbWVYNUszam9oTGdpNlpwTk9xWFJiVVVjLXNkODc4MEtpcjkyN3BncW1KUFVVNS1mMDR2WjEwNFNtRTJyRnRPXzgyWm1sWF9mbjJVcGg4UFB4N01HRDdreV8wZFFINVRRdzc2ZzdmaFpxdHVwS2UwSmVsOFBxTjFnVWVrZG5iYkw4OTRDZW15YnEzWHkxVXN3?oc=5",
+      "fuente": "alertadigital.ar",
+      "fecha_publicacion": "2026-08-22",
+      "seccion": "provincial",
+      "etiquetas": [
+        "Producción",
+        "Vaca Muerta"
+      ],
+      "imagen": "",
+      "descripcion": "Vaca Muerta impulsó un triple récord de producción de petróleo y acerca a Argentina al millón de barriles diarios&nbsp;&nbsp;alertadigital.ar",
+      "relevancia": 3
+    },
+    {
+      "titulo": "Sectores agro, petróleo y minería impulsaron la economía argentina en el primer semestre de 2026",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNcUVjNHBoeHJwbWh0Ql9XNmFlU2xkM2d1aWZFSXc1WjNLUFA5TVlJRXRIUE85cDNVTnM0eWF1TDYtUXl3WDZpYUpIZXV5cEpGUHdqSDhQRUdlMjl4REV4WjVmdmVmelFCamFieURuTzNGVkNVQ0ZsWmlXUC16QU4zZnZfNU1VUWJpV3ZCeFJMUDZEUElhSE5kZ2VJX3JucGREQTlQajl5X1VPcUFiejdqM0dMMUpTUkdtTVVYRmg0TlhPWU9KNWFsNnBvQWpnazZIV3RPdUxxZi1Udw?oc=5",
+      "fuente": "Noticias Venevisión",
+      "fecha_publicacion": "2026-08-22",
+      "seccion": "nacional",
+      "etiquetas": [
+        "Economia",
+        "Producción"
+      ],
+      "imagen": "",
+      "descripcion": "Sectores agro, petróleo y minería impulsaron la economía argentina en el primer semestre de 2026&nbsp;&nbsp;Noticias Venevisión",
+      "relevancia": 4
+    },
+    {
+      "titulo": "La economía argentina no despega y la insatisfacción social ya pone en riesgo la reelección de Milei",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUUxTQjUxamxEbUFLajVWUkJBVllzU2lUd3k3LW5kbWRJTUFKNjYweGh2WlNvWjZVZXZMaUc5UmpXZ2NGNWo2RHVCRWdZb2JhendNYnhJdFI0X2RrT0JRQ0Y1MElPVTdkRTIzN01RcW5Ob0JuLWRNcWloVmJuZWZjVk5JeDdnWTltTDBKeWV0M1BCaDk3UElqVXd1M0x3VWZaSGJKX3gtWjFZaGszX3NaR2RHeWRNNFlDSU1DdE9JUDJHUklIb2ZxWQ?oc=5",
+      "fuente": "zonazero.cl",
+      "fecha_publicacion": "2026-08-22",
+      "seccion": "nacional",
+      "etiquetas": [
+        "Economia",
+        "Política"
+      ],
+      "imagen": "",
+      "descripcion": "La economía argentina no despega y la insatisfacción social ya pone en riesgo la reelección de Milei&nbsp;&nbsp;zonazero.cl",
+      "relevancia": 3
+    },
+    {
+      "titulo": "Milei negó que la morosidad sea alta y subrayó: “No hay elementos para culpar a la política del Gobierno”",
+      "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxOQkZtSU5VMmVtSmZoalJDU3NXTzE1YWlaeEJjeDFiZFJwRjBmNEFWZHpsLTduOHVFTnhxY3pfTVkyOTg5dGxlYTRadldNM2pTVU54UjhCVjBGQWQxSHdpNzF3T2dxaWJTMTlGVFozMVlGZ2YtVWd3MmFMSDlIODN5VUIyVW5wV0I4eEdRSldpYkM1cnJjMzBENEVRb1V6X2lLVW53a01feVdSN0M1dnc3Rm5YTXVXYUlyN2NzVVU4QmR3Y21BamJCMGJ3Q1p1eTFzRDZQQTlXNXBwWFVmVGMxM0pMVWRUbGdWMDBQbkwzbkFvSF8xMnFLYURSdGFHUk55UjdUaFJMbm1SRk96LTdLclo5VXhiVEpUSHRlVDR2NkFvVXpLbmwySdIBtwJBVV95cUxQaVV6MTdpUklPaVFsZ3VtcXFXYVNoTlpqWm8wSGYzU09KMWhnTGRDYTZjalR0aFRibWVCZkNzcFlKbUlVMGJrRkp0cXB1b3dJTFFlYUlVaEFqYk84dElNWVZ5cE9PaUpYRzRVSlByWUVfa21kV0M4M1dPRkI5RFd3Zjd3dzhXMXZCQWx0ZUtIMk11TW1hcjhYYWY4bDhuZlA4b1NrT1N4VmJzbFVPbVhVQ2s4eTdzcFJWYnpRM2Exd25QLW82M3FJTjhJNG5wRllNdTd3U0dsNUZCUDVaYU9Wek9BMlV6TkpMcmNTQTFkRHZQTDcteWdYRW1PQWRmeWx4VXZUaDExMHowMC1QMGhxREdnR1ZKSDd1SlItcFFjOUxQY0Z4SWlPQUtrUExhaXlWYlE5cEU0RQ?oc=5",
+      "fuente": "Agencia Noticias Argentinas",
+      "fecha_publicacion": "2026-08-22",
+      "seccion": "nacional",
+      "etiquetas": [
+        "Política"
+      ],
+      "imagen": "",
+      "descripcion": "Milei negó que la morosidad sea alta y subrayó: “No hay elementos para culpar a la política del Gobierno”&nbsp;&nbsp;Agencia Noticias Argentinas",
+      "relevancia": 3
+    },
+    {
+      "titulo": "Javier Milei sobre la morosidad de los argentinos: No hay elementos para culpar a la política del Gobierno",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZGgyakQwV3V3dVVPdDJJOGM2QTlsLTllYkV6bjlhdFhueWJqYnc4bF9pa2NXblJCNW9xcGVGS1NsOTl6MkJ5WWZmeTVnVWZFYnpRVXMtZFRrajYtcmtrMjBZQVdZUVZmUzJ4cEFXOFhiakVfTGY5Ni1fTHlfaGtiNDRlYXVJbnlObkxfUld6cjY4NDNnVktITFFTVHlsanhLVmVrRGdUSVEwMFBOLTY0VmwwWlN3WllkRi0xWEtEQm9BNlVwX1FtM2RlT1FpdFE3?oc=5",
+      "fuente": "Los Andes",
+      "fecha_publicacion": "2026-08-22",
+      "seccion": "nacional",
+      "etiquetas": [
+        "Política"
+      ],
+      "imagen": "",
+      "descripcion": "Javier Milei sobre la morosidad de los argentinos: No hay elementos para culpar a la política del Gobierno&nbsp;&nbsp;Los Andes",
+      "relevancia": 3
+    },
+    {
+      "titulo": "Argentina: La economía mileista en datos, agosto 2026",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVXZGNkhVS09SWU9BbEliS19fQ2FOSER3Q2l2V0RTNHRLNHRHNHYxb1kzcDAtam9QZlVLbTRRQ1VDOHp1Z0Y1X0tzaHhERHNPQ3laSGgzdXd5b29uLXZlam5IbDRtR1U3dlhuV0otclRwbVVGYW9kQTJYc2lWdm12UGVwbE9uMGNUa2VScE9PQQ?oc=5",
+      "fuente": "Sin Permiso",
+      "fecha_publicacion": "2026-08-22",
+      "seccion": "nacional",
+      "etiquetas": [
+        "Economia",
+        "Política"
+      ],
+      "imagen": "",
+      "descripcion": "Argentina: La economía mileista en datos, agosto 2026&nbsp;&nbsp;Sin Permiso",
       "relevancia": 2
     },
     {
-      "titulo": "En el petróleo, el mapa hace al camino: Cipolletti ofrece una charla para conocer las oportunidades laborales que abre la industria",
-      "url": "https://www.rionegro.com.ar/energia/en-el-petroleo-el-mapa-hace-al-camino-cipolletti-ofrece-una-charla-para-conocer-las-oportunidades-laborales-que-abre-la-industria/",
-      "fuente": "Diario Rio Negro",
-      "fecha_publicacion": "2026-08-21",
-      "seccion": "provincial",
+      "titulo": "Las sanciones por no pagar horas extra se triplican pero siguen sin frenar a las empresas incumplidoras",
+      "url": "https://elpais.com/economia/2026-08-22/las-sanciones-por-no-pagar-horas-extra-se-triplican-pero-siguen-sin-frenar-a-las-empresas-incumplidoras.html",
+      "fuente": "El Pais Economia",
+      "fecha_publicacion": "2026-08-22",
+      "seccion": "internacional",
+      "etiquetas": [
+        "Producción",
+        "Empleo"
+      ],
+      "imagen": "https://imagenes.elpais.com/resizer/v2/MAXE57BZJFCUDJ335ZRRQHQMTY.jpg?auth=ed18e2362bcfa8530fb86080664c2d5fcad23445db4d1249be906ccde6446b9c",
+      "descripcion": "Las multas de la Inspección pasan de 5,3 millones en 2018 a 15,7 en 2025 mientras volumen de tiempo no compensado se mantiene estable. Los sindicatos calculan un ahorro empresarial de 3.378 millones",
+      "relevancia": 2
+    },
+    {
+      "titulo": "La gestión de residuos electrónicos: una oportunidad para mejorar la autonomía industrial de Europa",
+      "url": "https://cincodias.elpais.com/opinion/2026-08-22/la-gestion-de-residuos-electronicos-una-oportunidad-para-mejorar-la-autonomia-industrial-de-europa.html",
+      "fuente": "El Pais Economia",
+      "fecha_publicacion": "2026-08-22",
+      "seccion": "internacional",
+      "etiquetas": [
+        "Producción"
+      ],
+      "imagen": "https://imagenes.elpais.com/resizer/v2/FOJTBP2BMM2EHBH7C7G3YCDI7I.jpg?auth=4d5860c4b82647b49f7474f2e21bdb8ac89288da88fe5b3407c76f4a7bab9283",
+      "descripcion": "El continente sigue dependiendo del exterior para obtener las materias primas que ya circulan por sus vertederos",
+      "relevancia": 2
+    },
+    {
+      "titulo": "Europa en la carrera por el capital: la oportunidad de la Unión del Ahorro y la Inversión",
+      "url": "https://cincodias.elpais.com/opinion/2026-08-22/europa-en-la-carrera-por-el-capital-la-oportunidad-de-la-union-del-ahorro-y-la-inversion.html",
+      "fuente": "El Pais Economia",
+      "fecha_publicacion": "2026-08-22",
+      "seccion": "internacional",
+      "etiquetas": [
+        "Economia",
+        "Finanzas"
+      ],
+      "imagen": "https://imagenes.elpais.com/resizer/v2/6L3DVIJCGRHUTHPQWTSBUJPQ6I.jpg?auth=30c70a630a24092ec52358e37123a19cbf17cd3346626b061191b43de7535b61",
+      "descripcion": "El continente dispone de recursos suficientes, pero necesita mercados más profundos e integrados para canalizarlos hacia la economía productiva",
+      "relevancia": 1
+    },
+    {
+      "titulo": "Una empresa argentina quedó entre las cinco mejores para trabajar en América Latina | 21 de agosto de 2026",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZXZvTmZVSEkwUWVlOWFZWG1Oc0ZQbjY3TElKQ2VGVE9ERkh5eTNpTVNJaWVnTmQ1NkF0T0RRY0xFU2dLbjZkdTFOX00yU0VIQXV2WFk1RElDS2I3cmRIbTJGMHlVNmt4cHUwX1lYdkhUXzJWUlRmVjN6MFM5bjdtQ0NLWlZSMXRGTTMxTmMwZ1BMc2ZKMmpUTjE5S1lLWHlLMEdsMXg1dTZGREdVVHhjYzF5MXFqZ9IBuwFBVV95cUxOWEVFbFBka0Y0UGl4MmtlR0RySk5jY1VKRGIzMXVMRGRkUnZieHBmTF90N214QlV3V09DQkpJQlkzeUdkMDN0RjBTald4b3NRczBHREVMNkRNckhvQmRxUnRKMHJxTHRmSzc0X2J6ODFaYUJOR19JY3NCSDM4VGNJTERmcWpDeWFueUxvVXlfblFqdG55bDdLRlJoUEk2SWhxeC1zWld1QV9hRVF2VUs5RWpoTWEwNHBqcmdR?oc=5",
+      "fuente": "Hoy Día Córdoba",
+      "fecha_publicacion": "2026-08-22",
+      "seccion": "internacional",
       "etiquetas": [
         "Producción"
       ],
       "imagen": "",
+      "descripcion": "Una empresa argentina quedó entre las cinco mejores para trabajar en América Latina | 21 de agosto de 2026&nbsp;&nbsp;Hoy Día Córdoba",
+      "relevancia": 1
+    },
+    {
+      "titulo": "Canada-U.S. Trade War Escalates as Talks Collapse",
+      "url": "https://www.nytimes.com/2026/08/21/world/canada/trump-tariffs-trade-no-deal-carney-canada.html",
+      "fuente": "New York Times",
+      "fecha_publicacion": "2026-08-22",
+      "seccion": "internacional",
+      "etiquetas": [
+        "Política"
+      ],
+      "imagen": "https://static01.nyt.com/images/2026/08/21/multimedia/21int-canada-tariffs-lgpc/21int-canada-tariffs-lgpc-mediumSquareAt3X.jpg",
+      "descripcion": "Intense negotiations to stave off new levies by the Trump administration ended in an impasse as Mark Carney suspended talks. U.S. tariffs on Canada, and retaliatory tariffs on the U.S., will come into",
+      "relevancia": 0
+    },
+    {
+      "titulo": "El transporte marítimo mundial se atasca entre conflictos y crisis climáticas",
+      "url": "https://elpais.com/economia/2026-08-22/el-transporte-maritimo-mundial-se-atasca-entre-conflictos-y-crisis-climaticas.html",
+      "fuente": "El Pais Economia",
+      "fecha_publicacion": "2026-08-22",
+      "seccion": "internacional",
+      "etiquetas": [
+        "Economia"
+      ],
+      "imagen": "https://imagenes.elpais.com/resizer/v2/OUSMQ26D6NOPTOSJNM4DYAUCRU.jpg?auth=9c60f365c521ab42dabec60c44259322e40ae4ff1b58f07df10febe9d46d0b49",
+      "descripcion": "El precio disparado de los fletes, que suben el 140% desde febrero, refleja la acumulación de bloqueos en el tráfico, desde el estrecho de Ormuz hasta el Canal de Panamá",
+      "relevancia": 0
+    },
+    {
+      "titulo": "¿Están los edificios españoles preparados para un gran seísmo?",
+      "url": "https://elpais.com/economia/negocios/2026-08-22/estan-los-edificios-espanoles-preparados-para-un-gran-seismo.html",
+      "fuente": "El Pais Economia",
+      "fecha_publicacion": "2026-08-22",
+      "seccion": "internacional",
+      "etiquetas": [
+        "Política"
+      ],
+      "imagen": "https://imagenes.elpais.com/resizer/v2/CXLY7LURVRG6NCBJBTLQFYAGCI.jpg?auth=9b52dc08ddfac0389f5e78b2078b2fab0634875a70d6498eeb2ff1e08bb1ac98",
+      "descripcion": "Gran parte de las viviendas se levantaron antes de que hubiera criterios de construcción resistentes a los terremotos",
+      "relevancia": 0
+    },
+    {
+      "titulo": "Italia quiere poner orden en el caos de sus 12.000 playas privadas: más transparencia y nuevas tasas",
+      "url": "https://elpais.com/economia/negocios/carta-del-corresponsal/2026-08-22/italia-quiere-poner-orden-en-el-caos-de-sus-12000-playas-privadas-mas-transparencia-y-nuevas-tasas.html",
+      "fuente": "El Pais Economia",
+      "fecha_publicacion": "2026-08-22",
+      "seccion": "internacional",
+      "etiquetas": [
+        "Política"
+      ],
+      "imagen": "https://imagenes.elpais.com/resizer/v2/6EJRBZND75CORMF62M2NRIH3QI.jpg?auth=ff9bc3f4a0f010577e0200b181d94dd9334428cd06577bc9f2589c3eeeb8d6f9",
+      "descripcion": "Entre el 33% y el 42% de los arenales del país son de pago. El Gobierno de Meloni, presionado por Bruselas, abrirá a concurso su gestión",
+      "relevancia": 0
+    },
+    {
+      "titulo": "La doble maniobra desesperada de MPS tiene más lógica de la que aparenta",
+      "url": "https://cincodias.elpais.com/opinion/2026-08-22/la-doble-maniobra-desesperada-de-mps-tiene-mas-logica-de-la-que-aparenta.html",
+      "fuente": "El Pais Economia",
+      "fecha_publicacion": "2026-08-22",
+      "seccion": "internacional",
+      "etiquetas": [
+        "Política"
+      ],
+      "imagen": "https://imagenes.elpais.com/resizer/v2/REOPM7BQTFLYDPYTIBYLN5AZ5I.jpg?auth=6b21b4a7f817eb74b0ce8c1c7b11914bbde89cadfe8ef6f8002915fd3be8fb09",
+      "descripcion": "Luigi Lovaglio contraataca la oferta de Intesa Sanpaolo con una operación simultánea sobre Banco BPM y Banca Generali",
+      "relevancia": 0
+    },
+    {
+      "titulo": "EE UU estrena la ‘Operación Twist and shout’",
+      "url": "https://cincodias.elpais.com/opinion/2026-08-22/ee-uu-estrena-la-operacion-twist-and-shout.html",
+      "fuente": "El Pais Economia",
+      "fecha_publicacion": "2026-08-22",
+      "seccion": "internacional",
+      "etiquetas": [
+        "Economia",
+        "Finanzas"
+      ],
+      "imagen": "https://imagenes.elpais.com/resizer/v2/MXQE4ESN4FI2PJSTHZCEORJOZ4.jpg?auth=386f9cb139f90574ae0f70994b38f309b9bbe9e426a4eacfd5e66dbf804a1313",
+      "descripcion": "El Tesoro amplía la recompra de deuda a largo plazo mientras la Reserva Federal se niega a dar pistas sobre los tipos",
+      "relevancia": 0
+    },
+    {
+      "titulo": "Red de Empleo Capital: una plataforma para conectar trabajadores y empresas",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTnZmZkQwOTMxYlgtZDRnNDZSejRxWjhGZUZnWU1PMzREMUE2WTlnS00tdHdEaTREOERXaGlkdV9UZEdFbnJYRklMbmk0cXNDNHpSTmJpQTNBaWZxM200V0JLRjlsTlNZVW83SnA4Y2RfUF93aTBOVUNWZVN3dUJNbERSRWZHV2hQa0VQa3VqMHpkUWVtZ05DdnNDRHRUVGhfRXIxb2JkS3luZGJpR3E3akpjamVDSGpJVUUyQm1QUWlyOVQ0RFVUTDJn0gHPAUFVX3lxTFBWZEVlb013SktiakRPU3J3UmpERldQaTlLUTFSd1JXcV8zQ3hETEtuamdxZEo4OXd5QjZXNHBSZlRKb0JpdjVrMFZ6TmxOcmRZTzRqemF4RHlfQUUzTmVRUFUtMDdza0xpRjhtTzdpbFVGeFFWaWFoOXpaX0Z4MmVkZmh4Z1J6eWZ4R21PX0Q1R0VQVGNqX3duRzZyUlo0SjJXX3g0aUgyZnFiYThOMWozSDFfaGtwTVBEaXpXcHFLNlMtYXJKREdZVGZHQThHQQ?oc=5",
+      "fuente": "alertadigital.ar",
+      "fecha_publicacion": "2026-08-21",
+      "seccion": "provincial",
+      "etiquetas": [
+        "Producción",
+        "Empleo"
+      ],
+      "imagen": "",
+      "descripcion": "Red de Empleo Capital: una plataforma para conectar trabajadores y empresas&nbsp;&nbsp;alertadigital.ar",
+      "relevancia": 4
+    },
+    {
+      "titulo": "Gracias a Vaca Muerta, Neuquén y Argentina batieron el récord histórico de producción de petróleo",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQVUZ3eUkzSHg5NzhMUWtYRnd5WDhrZ18tajNVcklzZ1IwMm1uVGtCSmJhN3VZbzZJdFg1eWdrY3ZmZ1A4QzZmVmlXeDc1Qk93OTNmTWExUVNNVjhhd3ZUWmxTQ0tpQkpSeW0wYzFuLTgzT2tQMGhudm01ZWJtRWdHWEUzeWNKS0V4bzN2dkZvOGR2LXptZE8tQkNETUpaTjhUT3BZU0pEc09xemZ2TE1iUG5Hd1VKVjFaUkxaVUFEbjhtczFObWtOR3ZYeGhMcWxydFp3bUVqUlLSAeABQVVfeXFMUFB2TGJRd3JVa0tpanM1cjJYbm1sSk8zenhLR2NPSUNad21FTWFEY0VROHU3UGtzQWZ6OGxnWDdWcW04UDRMUkNFbnZKZmlFZE5TNGh3RTZ0bTJweGljcVIwS0NrZXRsOTNmSlRBbzNSdjhMYkhqUE13dTdVYmFqeVVaNzFCNGU3dW8tUWFjMVdjczMtc3ludl91MFZ3WnNpNWVGcHNaR0U0azZoNy10UzRma1dTNWU3Z3VNbGhiZHZMQXY4VE53aUJXLXFfQjhBY0pFWjNVaC1GZE9MRDFyV1k?oc=5",
+      "fuente": "Diario Río Negro",
+      "fecha_publicacion": "2026-08-21",
+      "seccion": "provincial",
+      "etiquetas": [
+        "Producción",
+        "Vaca Muerta"
+      ],
+      "imagen": "",
+      "descripcion": "Gracias a Vaca Muerta, Neuquén y Argentina batieron el récord histórico de producción de petróleo&nbsp;&nbsp;Diario Río Negro",
+      "relevancia": 4
+    },
+    {
+      "titulo": "Vaca Muerta: las pymes buscan financiar su crecimiento en el mercado de capitales",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMWpZdmpNWTZhVkNXVGpnV0xjSGZocFBuNW1ROGRQY2pPa01QX2pGVWhrLVQyT1FPaHd4NGJLRzJLY3BOaTlKSFBGM1A0R2RWYnhHN3ptdHRVZldZRXFNN0hWeXJtZzRQNGFWS05ERVJwVTJwLTFGRnJjNWRrU0x5TEtqWmZKWm1lbnRINW00NU1zVGJzZHVfLVJjNThBVEtJclNhSmJTc19YUFRxdVVHR3FFV0w3UFVuSW1MMHdDb9IBxAFBVV95cUxQcmlKS1FXLVoxM2ZXbWQyMi0xcnl3SXdxbkxaUHlHdDBXQ1hqdVVYR1ZDWkVHcmI4eXlFYUdQRUlYc0xVNTd3RWx4V0JfSXdpX1k3TUR4NzZzUHFvTWJId1J5SWN0MGgyM0FnY3VOdVU3UG1pRkZqSENDNEhaOFFJM1NURjJmb0xKTzRBUFZZZ3lYZW1JdXRrWHM2cU1paVZLMEVWTlp5TkdKaEljLTlEMS1nNkt2M3F0YVR0cmFfYnF3VHR4?oc=5",
+      "fuente": "Lmneuquen.com",
+      "fecha_publicacion": "2026-08-21",
+      "seccion": "provincial",
+      "etiquetas": [
+        "Economia",
+        "Producción",
+        "Vaca Muerta"
+      ],
+      "imagen": "",
+      "descripcion": "Vaca Muerta: las pymes buscan financiar su crecimiento en el mercado de capitales&nbsp;&nbsp;Lmneuquen.com",
+      "relevancia": 4
+    },
+    {
+      "titulo": "Vaca Muerta duplicó las exportaciones de petróleo y julio cerró con superávit comercial récord",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPM3FYd1NYdkNZdkRhYVRlN3phMW1LY3dEZWlFLW5HSDVRMFJZYkxxS2tqN3k4VnY5QkpsT09RSWVvbzdYWEs4T2c0S29EQzI1UUI5RkNtMFdlRWRpZDlUVGgxUGJwT2RBSG1KdEE3eTNfU0k2dGg5WHUxYUItY29YT1dtalg0OHY3RGdyVXIyelljaWlublM3R01SMHBqMm4xYWZQcWNTOXB0cUFHY0ZIbUc0Z2FxYmRGRVlOTG1aVQ?oc=5",
+      "fuente": "Editorial RN",
+      "fecha_publicacion": "2026-08-21",
+      "seccion": "provincial",
+      "etiquetas": [
+        "Producción",
+        "Vaca Muerta",
+        "Finanzas"
+      ],
+      "imagen": "",
+      "descripcion": "Vaca Muerta duplicó las exportaciones de petróleo y julio cerró con superávit comercial récord&nbsp;&nbsp;Editorial RN",
+      "relevancia": 4
+    },
+    {
+      "titulo": "Neuquén y Vaca Muerta: Figueroa reclamó mayor acompañamiento para sostener el crecimiento",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNZlVDa0V2b1ZTcGJuQnVBRDlNQ0l2MXpRajF6ODFHaEZiYUtMeFNyc3JXLTUwdDV6UEctbnJnQlA1QWtIZGVucExzdDJDU2dwck92YkRpMTRCZEcySHpjQ3laWG9JdW9reUpVcGVuN3diWEFPU0Y2dVB1dldLd1g1T1oxUTNaNWFWc2tPenVoTkM3NkRGTEpFUldTU0FzMTF0RF9Gd0p1VEVZT3E0SkluZnptZEp2Q2JmclR2RDNMVTcwNGgyWjU1blZBN0pjV0pWNmlxQjBUTGhOVzhFcXZNV2tB?oc=5",
+      "fuente": "Minuto Neuquen",
+      "fecha_publicacion": "2026-08-21",
+      "seccion": "provincial",
+      "etiquetas": [
+        "Economia",
+        "Vaca Muerta"
+      ],
+      "imagen": "",
+      "descripcion": "Neuquén y Vaca Muerta: Figueroa reclamó mayor acompañamiento para sostener el crecimiento&nbsp;&nbsp;Minuto Neuquen",
+      "relevancia": 4
+    },
+    {
+      "titulo": "Vaca Muerta duplicó las exportaciones de crudo en julio y la balanza comercial sumó 32 meses de superávit",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNTmJYU1REdHRJTUdFSUxtSWFJSXVoYk5qanR1TkU5bjdKWlJjOG1LR3hieDBYaHdlb0lwRDNTVzFzckZxMkhKb29vNnlKbHZ5ME9tWnJXRktBVkp1ai1VRFpfQ2QwcHRGR2o0R3o2ZTJoU1VCQjV3cTl3VXpXRkRLcnlFdHZmaUNPU0t0NEdDOU5scThuZFcwWVNjYkM5S1E5bzIxRnBJRjkxNlg0Y1NFU004RWRoS0hBM0VDLVQtenduTDFWMWxEc0R2dmk4MGNjeXZMcmY0VmZjdnkzalk1RV9fcjVRZjdqbS1qa3E1Nm5kMFpU?oc=5",
+      "fuente": "Data Portuaria",
+      "fecha_publicacion": "2026-08-21",
+      "seccion": "provincial",
+      "etiquetas": [
+        "Economia",
+        "Vaca Muerta",
+        "Finanzas"
+      ],
+      "imagen": "",
+      "descripcion": "Vaca Muerta duplicó las exportaciones de crudo en julio y la balanza comercial sumó 32 meses de superávit&nbsp;&nbsp;Data Portuaria",
+      "relevancia": 4
+    },
+    {
+      "titulo": "Vaca Muerta y los precios internacionales blindan el superávit comercial en U$S 2.115 millones",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPczlTYk5KU0FwREVnVmpUWHMxaFRtX1lobFRLRGpyM3JxaGlHZXg0UU1DTmJPSzJmQ0VxempmNVhQdG95VVd1bWdVZW5ZVmthaWEwYm9jNm5MNnZzcDNjcGVWUGVwcnN0Tk5kQ1RXWV9sMFdESXhOSXpHTk9QeEpuLUJqczhWN1UwTlJvR05KM0RZMlI1LWFMMURXcDRwdnA2TlNIbkdwcTRsQXZjQk5xZEtKQ2NTLXJ5U0FwUNIBxwFBVV95cUxNZktpbFlGamVNenhUaFdCNVBHNTNsWUpqRWhsX3NKbHR6b0FmWGpZLXhtSC1VejIzeUxiSGt2My1lVnJ2ZlRSZmZ1bG1lMDRGbjNZbkFlRG00WEZSQVdmV20wTVl2OTlyeTk5RS0xeVNYeUtBajlPUDd4TDlvcGhLenRMU29qejQ3eEQ3SkFnd1MybVphdmduejlTMTBGLXJ4eGtrZ2M2Z0JpcGxVZE94VkRyRGVoT3AzSGk1bjhlLW1wSkVHNWVz?oc=5",
+      "fuente": "Memo.com.ar",
+      "fecha_publicacion": "2026-08-21",
+      "seccion": "provincial",
+      "etiquetas": [
+        "Economia",
+        "Vaca Muerta",
+        "Finanzas"
+      ],
+      "imagen": "",
+      "descripcion": "Vaca Muerta y los precios internacionales blindan el superávit comercial en U$S 2.115 millones&nbsp;&nbsp;Memo.com.ar",
+      "relevancia": 4
+    },
+    {
+      "titulo": "Suspensión de Calcatreu: la Cámara de Minería de Río Negro pidió «diálogo institucional» y alertó por el impacto en las inversiones",
+      "url": "https://www.rionegro.com.ar/energia/suspension-de-calcatreu-la-camara-de-mineria-de-rio-negro-pidio-dialogo-institucional-y-alerto-por-el-impacto-en-las-inversiones-4692789/",
+      "fuente": "Diario Rio Negro",
+      "fecha_publicacion": "2026-08-21",
+      "seccion": "provincial",
+      "etiquetas": [
+        "Producción",
+        "Finanzas",
+        "Social"
+      ],
+      "imagen": "",
       "descripcion": "",
-      "relevancia": 2
+      "relevancia": 3
+    },
+    {
+      "titulo": "Nueva plataforma para conseguir trabajo en Neuquén: presentan Red de Empleo Capital",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNXEwUnBkanZmaE92ZVBCeEQxdXVHR1dOOVdpM0NCTFJWcGFyV3MydGZWRDhFNl9YMkQ0VXZPZXV5TXZPeUJaSmpwX3dWZEloSk5rZVVRS1dCSXJHUlpLSkg4TEpiXzFBUXpYU1ZVYy1GX3Y3UTBuTDN6ZXY1M1U1WVpZbWdXZDh2eHlOeXg3X251WmkzWDZDbVg5amRnVmZNYTl0T1ZoNzdZckl3Z3E0Z29vWGlORW5Rd1HSAboBQVVfeXFMUDVxMFJwZGp2ZmhPdmVQQnhEMXV1R0dXTjlXaTNDQkxSVnBhcldzMnRmVkQ4RTZfWDJENFV2T2V1eU12T3lCWkpqcF93VmRJaEpOa2VVUUtXQklyR1JaS0pIOExKYl8xQVF6WFNWVWMtRl92N1EwbkwzemV2NTNVNVlaWW1nV2Q4dnh5Tnl4N19udVppM1g2Q21YOWpkZ1ZmTWE5dE9WaDc3WXJJd2dxNGdvb1hpTkVuUXdR?oc=5",
+      "fuente": "Lmneuquen.com",
+      "fecha_publicacion": "2026-08-21",
+      "seccion": "provincial",
+      "etiquetas": [
+        "Empleo"
+      ],
+      "imagen": "",
+      "descripcion": "Nueva plataforma para conseguir trabajo en Neuquén: presentan Red de Empleo Capital&nbsp;&nbsp;Lmneuquen.com",
+      "relevancia": 3
+    },
+    {
+      "titulo": "Gas de Vaca Muerta: Figueroa abrió fuego contra una multinacional y envía una comitiva a Chile",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcExORjVEZlJvanVyU0k2RHpXOGhRc0NNV0FRRmIzX3JTVzFKb3loeGlZOFN2VkVERXc3Z0J5eWR6T2FaYkN3SVdlM3NIREJqdmtRTW9lYUZCN0xlbmEtMktBM1hUdWNubnBUM25sYzFKWldteWhNMkVVQXV4Uk02RnRYTTc4QkZkQVUtajF1cFRwdG56YUJUY195czM3cURQZ0FVeUlld1FvY2VWN1VaMnljM216cGR1d1FsZlRYdnZJTjTSAcgBQVVfeXFMT3dXMlJCWVlCZFhuUjIwUUtFNmlwVXNnZGEtSldjZHVJZ3JpOXdLeXhuTjJBZk9PYlItRzBPRGMxMnZpdTRUb2YycTYwOF9rZkprSVlqV1VhQng5OV8tYkZlc24waHVlU3BJaWZCWEZCTHVXT3FMWk5ybEZGeVlhd0IxaTVfdW4xUGhqOVlfR2s1bjc0RjhyNXRSUkRVdVBkZzl1cWlVTUxlRHdJTDFwdDdPaUdianBhZkZZeWxxNHJtZklFeVJ2TGw?oc=5",
+      "fuente": "Urgente24",
+      "fecha_publicacion": "2026-08-21",
+      "seccion": "provincial",
+      "etiquetas": [
+        "Producción",
+        "Vaca Muerta"
+      ],
+      "imagen": "",
+      "descripcion": "Gas de Vaca Muerta: Figueroa abrió fuego contra una multinacional y envía una comitiva a Chile&nbsp;&nbsp;Urgente24",
+      "relevancia": 3
+    },
+    {
+      "titulo": "Figueroa agitó la pelea por el gas de Vaca Muerta",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOalBTQ2U0S3hUb3VVb0plZ0JwU1ByWEpfa19qQ0Z2XzJkNEpHQkRpaXdIaUotdDZ2cTgzMDhreVMzdXU0eENIdUZZeFNDdzhzZ2l1enQzM09vVkVGVDdTT3NMTnRPR1QxTlltZzkzcm9PTDRUVzJReUVwTG9tNVpEYXczNVNqSUpySm5VR3BKWGxrcnEwOEYyVDBuaU9DZGhOVURud2U1cWM?oc=5",
+      "fuente": "Identidad Correntina",
+      "fecha_publicacion": "2026-08-21",
+      "seccion": "provincial",
+      "etiquetas": [
+        "Producción",
+        "Vaca Muerta"
+      ],
+      "imagen": "",
+      "descripcion": "Figueroa agitó la pelea por el gas de Vaca Muerta&nbsp;&nbsp;Identidad Correntina",
+      "relevancia": 3
+    },
+    {
+      "titulo": "Vaca Muerta llevó a Neuquén y al país a un nuevo récord histórico de producción petrolera",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNmM1OUdRR3FiREw2dFNOdVd1SFZ1Ql9HZmcyY3NXRHNtUVJJZEtMbkZ1NVp2eDA1SlF1bWFDS0RKTzM5OFNLNDVoSDBVVS01TGd0TEVkRjJUbjVUZldoR2Fud1JlNFNKUjBHemlHMmRfOFZEcWNxOU1Yd3lWdDNMX3ZMT1prWHdCek0zNmNlQU41OEtUWU5hcjZVMk9hNUhyWTFzV2dKWEVMZUltWTB5aHZmT29WSG52UjJWYQ?oc=5",
+      "fuente": "Diario Neuquino",
+      "fecha_publicacion": "2026-08-21",
+      "seccion": "provincial",
+      "etiquetas": [
+        "Producción",
+        "Vaca Muerta"
+      ],
+      "imagen": "",
+      "descripcion": "Vaca Muerta llevó a Neuquén y al país a un nuevo récord histórico de producción petrolera&nbsp;&nbsp;Diario Neuquino",
+      "relevancia": 3
+    },
+    {
+      "titulo": "Deuda en dólares: Pampa captó US$138 millones para financiar Vaca Muerta y urea - El Economista",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQczhIUEJWR2dJMGVGb1MyWGNyeTkzRzFqVnJhWFpuazVKbzlaVklrbHpsbV92RWt1ZjFZZlZHWEJBUUtzdy1mRWpqbkp5YmdJT2pCN1NDNnhiaUZXMUJpYVpCXzlRNW9FbkgxaVZTZG1JZGVSTEZyUjV0QnJqckxHWW9EWDF3YjhVYTRBbEtYR3Q2bGRMeDNUTjExTXVuX3pzNlVUaFFkOW9YcW1ESGI40gG0AUFVX3lxTE5US1ZjcG84cExzajdRQnJEYXR5TDhBd2VKQURENE1OemFXTzBvNmtyQW1fU0N0c1RBYXo3NzU2NFFfM1hGVHZrZ2VmSkdKZklwUDJTamQ3bk5DeGFNOTc2VUZVTkQyOHFwU084ZVpZNy1YT3lHcWYtd1BiNEM1b041NUJOUEtSaDFtbDhnaHh2NTlsZ281SUkzWjFJcGRfcWpsclBNTnlrcXZfS3I1N05TZXBuSw?oc=5",
+      "fuente": "El EconomistaÚltimas noticias económicas y financieras",
+      "fecha_publicacion": "2026-08-21",
+      "seccion": "provincial",
+      "etiquetas": [
+        "Economia",
+        "Vaca Muerta",
+        "Finanzas"
+      ],
+      "imagen": "",
+      "descripcion": "Deuda en dólares: Pampa captó US$138 millones para financiar Vaca Muerta y urea&nbsp;&nbsp;El Economista - Últimas noticias económicas y financieras",
+      "relevancia": 3
+    },
+    {
+      "titulo": "Marval desembarcó oficialmente en Neuquén para acompañar el crecimiento energético empujado por Vaca Muerta",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQT0VYdkxNVzFDcXk1RmVmZmZOQ2l2UnFiVVdvc1FJYVJ6UWxrZXBBUFR4ODRQZWR6cnF0U0Jsa2Nfa0JTZV90NjN4Z3BYUVhYU2FUSjdsRTBTQUw4ZTctbGZ6a2ZLNVFEVEg2emdmdDNaa29GeUNINUlEdEpYQVBXeFdKWklDQ1N6bVMyY3oyYjNlN2dWZmJvc2RIRndta0ZEX3JJSFBmVXNvOVpvdW1SbkxTd1ZKZWNHdm5Tc01NU01tajdHZHE5Wk9xdkNFdGxsU1h3andKYnJwTmZWUHdKMHdFM1lyTkHSAe8BQVVfeXFMTmNFMDE2eERZcGM2YUh1RTE5ZURMRTdMckhCaDBYZlF4SkQ0bk1nak9pWmRRb2R0T2lBN0JKVi1idTA0OXVSenJXSUpmRVh1NE1YOW5HM3B2TFNmX2FaSXVkYWJHWUk4aGtHR1lVM3dBS2JZN0w4eUR3Y0xvUnNpcERadUNac2IxaHB0RWlxVkhVVzVQc01aRjBuQUdvNzB4MklLYmhfZVRzUzR3SGpUV0tJX2RhX0t5SnVOM09qTVhoWmpDdXFWQ2ZhUXVfU2dENWhkQ01IS0hKOFNBenk5QlMxdjF3cUxneTRFTloyT2c?oc=5",
+      "fuente": "Diario Río Negro",
+      "fecha_publicacion": "2026-08-21",
+      "seccion": "provincial",
+      "etiquetas": [
+        "Economia",
+        "Vaca Muerta"
+      ],
+      "imagen": "",
+      "descripcion": "Marval desembarcó oficialmente en Neuquén para acompañar el crecimiento energético empujado por Vaca Muerta&nbsp;&nbsp;Diario Río Negro",
+      "relevancia": 3
+    },
+    {
+      "titulo": "Neuquén busca inversiones en Buenos Aires con Vaca Muerta como carta de presentación",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNUGg4VExxTEpmR3diSkp1bW9YOGk1WnVacGRZQ1JVbGVqVUd6MXBYNHk0cElBOUVyUm5KQ3M3UkI4emtxZ2szYU44V2JsM0hiU0dnTWhoQm10WkJxRzVsUGFnVjM0aHI4UjRpckViLXNRZjItZjQyemdhbVRISXEzMzc0ZF9wb05SUmtaWUtnNl9ZZlFxX1paRk5DNE9mdzVyN0RpNHVwZjdMdnJVcHNRRGtWYXpJcERtVmJHOU5ld3BJbFRrUlcwakx0S2lYenpxUGpWaFNHY9IB3AFBVV95cUxOZVl6VkpHbHY1VURHRWNDRnhHMUpzZkxZdmJib0VDSlRhRk9zcWhtUlJhX2pwTWI0ellXRGpzdDU0X2tDV0tEY0otZVBmVmNDODNPZG1nVkRGaFVZbmNVb1ZDQTB2RkVGMTgxUGZHVGRWdjBub0ZUdGQtYzU2Y0tSOHdWeVd0SGJYQUhTcmZjWkpZVlpaSTF1MFl4UUwyOXdUaHhodWJybUN6RVFmSGpvT2pnTjZRZEpkVHJHRXhxY0NBT3FCTi0takJteXFIeUNKMVNEY3VxNUZJcTln?oc=5",
+      "fuente": "iProfesional",
+      "fecha_publicacion": "2026-08-21",
+      "seccion": "provincial",
+      "etiquetas": [
+        "Vaca Muerta",
+        "Finanzas"
+      ],
+      "imagen": "",
+      "descripcion": "Neuquén busca inversiones en Buenos Aires con Vaca Muerta como carta de presentación&nbsp;&nbsp;iProfesional",
+      "relevancia": 3
+    },
+    {
+      "titulo": "Vaca Muerta no se detiene: las exportaciones de petróleo se duplicaron en julio",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQN0lEMnV0Um9faGtndllvcm9CY1Fid1QxZmZjNWdlZm9BckhWZS1ZYzVxZnQ4bXI2Q1FpclZYakZBenJic05SemhDMlpLX1h3bFZFVW5tRHk2YW42ZjREa29LODA0TlNoM2g4alNoQXNZSm13SUpQOGsydGFrOC15eHBNMzB1N1Y4cUN0QVJOMUlQN25fWW1UajU4ZXFWRnJCQXgzcE5vMGlXejRySVIwUEdSV0h5d2JRbENaTUItc1FMbWNZSW5mend4YXhxUlRYMV9WTg?oc=5",
+      "fuente": "Minuto Neuquen",
+      "fecha_publicacion": "2026-08-21",
+      "seccion": "provincial",
+      "etiquetas": [
+        "Producción",
+        "Vaca Muerta",
+        "Finanzas"
+      ],
+      "imagen": "",
+      "descripcion": "Vaca Muerta no se detiene: las exportaciones de petróleo se duplicaron en julio&nbsp;&nbsp;Minuto Neuquen",
+      "relevancia": 3
+    },
+    {
+      "titulo": "Energía en Argentina: Vaca Muerta, GNL, inversiones y el desafío de la infraestructura",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOVE1UZDVrenJPb3U5cWYzcWY5YVhTMWhpeW0tX2cwb0dzdVNuTEVacU9yMHpKNVFoN0ptNkJjVG1MX1I5djRRSjVVNEg4RUNuQUZUajNoZ1RId01BUW1FUlQ3ZmpOaWVNZjJ0cFgtZWlxQXpJXy1iRWFQLVhENklzekhId0NkSEZQeFBWMTBTNkJERV9mSlA2WEFpclNRRGQ0MUpvTDNtZkJBNkNuTFVuTTdUcF9IVXg5b2FHLTY0endCWlQtbDN5YUdXM1Q?oc=5",
+      "fuente": "La Opinión Austral",
+      "fecha_publicacion": "2026-08-21",
+      "seccion": "provincial",
+      "etiquetas": [
+        "Vaca Muerta",
+        "Finanzas",
+        "Ambiente"
+      ],
+      "imagen": "",
+      "descripcion": "Energía en Argentina: Vaca Muerta, GNL, inversiones y el desafío de la infraestructura&nbsp;&nbsp;La Opinión Austral",
+      "relevancia": 3
+    },
+    {
+      "titulo": "Stock y logística local: la respuesta a la demanda industrial que genera Vaca Muerta",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMnRQV0lTRTB1RkJnM1RXQm0zRjNhYzZYakU0U1pyY3k5aG1ZTGJqeEsyVm5TRmlDbnQzTDZfamhmeXFpclUzUV9PN0xGOW8xc2pENVE5SEpiQ2F5LW5ETlpLWm11R3RscjdFWHFza2IxNUs5bDl6RjVqb05mN0MyeUxCaHU2M1FrekRHd1Mwc2NYZGZMYzF6Qi1RNWFhRlItZ2FFVnBSSUhWUHNPeTBCdTBJRnhKX2pDN0pNX1ZzalNwcmvSAboBQVVfeXFMTlJ4LUVDM0lrbWplQmRCR09iVWdlLUwzSGZSOG9WNVRsWTQ5NkNkdnVrM21Ock1GcHM0N0hzUk5FajVEX1JwZlBfNTEyUFRocXNyNmZBN0lhbVFNWTFYOTZWSlZjc2hZeXZja2dNZ3FjaTl2RGppNGpUa3NrX2ZTQUpCd2oyV0l4d2xMcnFyRlk3cDFCVWF6VVItV3ZLWkFsUTNZWGFRUm9oblFrRFJ4VEtJTFVaNVBBQldR?oc=5",
+      "fuente": "Vaca Muerta News",
+      "fecha_publicacion": "2026-08-21",
+      "seccion": "provincial",
+      "etiquetas": [
+        "Producción",
+        "Vaca Muerta"
+      ],
+      "imagen": "",
+      "descripcion": "Stock y logística local: la respuesta a la demanda industrial que genera Vaca Muerta&nbsp;&nbsp;Vaca Muerta News",
+      "relevancia": 3
+    },
+    {
+      "titulo": "Histórica inversión en Vaca Muerta: el Gobierno dio luz verde al megaproyecto de Techint bajo el régimen del RIGI",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOUGFGRlNhUkJwbXQzcUllc0RQMnZmN2RiLU1wZmlYYW1JWUU2R1k2bU5lODJnWk45T2pKUkxucEREdHZRMHRKZUJOTzRLRkFyR2MzdXB0b1JmVFpZLVJDQmJwTE5xN09PMDFKY3Zva3NnanZUOFhoRkY0VElNNnZUWWVGYVh0VGlGLUo1Vk5JMnZhSkpYSDVHVGZtRkNfbzl1dml6WTBQaFRtbTVvLTVvbTh2eXRnLTAwbXo3QVhsUmp5N2UyNFVzbXhoeFk0clg4OXZra1JYNExNRG9GUnFMdjBXRld3ck5IdTRoWUVn?oc=5",
+      "fuente": "Border Periodismo",
+      "fecha_publicacion": "2026-08-21",
+      "seccion": "provincial",
+      "etiquetas": [
+        "Política",
+        "Vaca Muerta",
+        "Finanzas"
+      ],
+      "imagen": "",
+      "descripcion": "Histórica inversión en Vaca Muerta: el Gobierno dio luz verde al megaproyecto de Techint bajo el régimen del RIGI&nbsp;&nbsp;Border Periodismo",
+      "relevancia": 3
+    },
+    {
+      "titulo": "Agro, petróleo y minería sostienen el crecimiento de la economía",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcGlNcXctc0dUbEtRZF9mSXZoYl9QYjlqMU5nSV96TzNsc0ZBd0ZVMEU0OTlwVE9NWURxeG9KcllRNmkxSmtTVmUwUGs0bWIxZXhWMC1HUHFldmhCVEFPVW9ZSUFPNF9ZUjgzNDNCcm5JeVU3a0hzdVc4THJzcENRWE1nZ01YbUREVXpGWFVTMW1mblNNVmlzTQ?oc=5",
+      "fuente": "Diario La Capital de Mar del Plata",
+      "fecha_publicacion": "2026-08-21",
+      "seccion": "nacional",
+      "etiquetas": [
+        "Economia",
+        "Producción"
+      ],
+      "imagen": "",
+      "descripcion": "Agro, petróleo y minería sostienen el crecimiento de la economía&nbsp;&nbsp;Diario La Capital de Mar del Plata",
+      "relevancia": 5
+    },
+    {
+      "titulo": "Dólar hoy: precios oficial, MEP y CCL del 21 de agosto 2026 y su impacto en la economía",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOQTFwbnB0MXU2NXdWcDZlRmYyclE4bVBjazk3cjNHM3BOTkdhaEdkdzBZSU44M0FQdmYteEt5SVBUc1BkNzZyWWN1Q0xXdzVqWHhBNUhCTXhpRVBPRWVjUkxjMU0zb2RoZ29nOURzcDNqUVhjYVJzQTYxaklQNThab200UGRDMU9zR2E3NkN4ajR3cW5WQl90V2M1Vl9pRURhSXdsUHdDMUotUXd3dy1KU09MSTlLN1JvM0xJdkYyR2RpSnhlZk1lYjBvSdIB0wFBVV95cUxOdEF0d3ppTWVKZDhRNkFKZWRhX3p5SEV6YlRuWktrMzkxNS1qX2NTYkkzYWQ2blVBMDBEQWhGT0J2TkRiQVlRMXhtN21XRmY3WjR0dVM5MTdZSG9zT3pXOWtWMzI3NjRSN0JwNjREcmItMlQ3UXN2ellfYzFidnFXMVd0VVJwSjRzNXhuRHZ3djF1ZFpNb2ZpX0JadnMzbGp3MEtZMnZvUmdNMGZMSFFfbm9vdW5FandxRGlOX0JCWWhxZTdRNDdVT1IzQS1FV0xocGtZ?oc=5",
+      "fuente": "Diario Río Negro",
+      "fecha_publicacion": "2026-08-21",
+      "seccion": "nacional",
+      "etiquetas": [
+        "Economia",
+        "Finanzas"
+      ],
+      "imagen": "",
+      "descripcion": "Dólar hoy: precios oficial, MEP y CCL del 21 de agosto 2026 y su impacto en la economía&nbsp;&nbsp;Diario Río Negro",
+      "relevancia": 4
     },
     {
       "titulo": "Ni el agro ni Vaca Muerta: el inesperado sector de la economía argentina que lidera a nivel mundial",
@@ -44,9 +548,39 @@
       "relevancia": 3
     },
     {
-      "titulo": "Milei aseguró que la economía \"está creciendo\" y atacó a los \"empresarios prebendarios\"",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQYm1EMEJtR29CU2UybEFmLWk2UzFWLTVEal93cE5KWWVnOEk5WWVUQ21JNGE1emtJNkpHNkVBZ29uZFhBQlowLUtBQVU0RDBoZzlZR2Zmak42SFVtUlZJYUVQQVpfZVdadlpTZ2xwbGw5ZmQ5M1JzZFJEb1NHazZ0ZVRyRzAyM0tGa2hiQmp5WXR5NmJMcVB6aWlXVEdKaUFyTG9KWXpBR0JJbUZTTDdmUHE5UmFoZXZ1VlI3Z2REMG4xVTZtazJqV1hobnlKMWVqRXFiNmZRUUkzR3ZrMlZKN1lrbXE1M2lUSVVCbg?oc=5",
-      "fuente": "Mnews",
+      "titulo": "Milei en la Bolsa de Comercio de Rosario: habló del riesgo país, la economía y cuestionó a los medios",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQNGUtY1hBYnFNZjRJN1FGN213R2N2TXd1RzhDX2gwZ3ROQzdFMHJGYlgyeXcwWk5rTXFaM2pGZVVVekxXWHNVVUVwVEZtZEtEWXdOVGpTdkt6ZGlnbUpOcG84cnRQNkc2NTc1TndwNjN4X1RvVTVpX3hERVB3cTJfdTVmUVlhOWd1bl9mOTR4RzVqNzlyajcwXzMwNTdwOUdiQ2pUWFlxY08wc19HZmgySkc4aUIyOTRfWFZBZktlZm5OVEVxN21VTVBwUjBkdGxVSzNwa3F0RW9fRkpwMkxJZXpEdl9pT2U5?oc=5",
+      "fuente": "minutodecierre.com",
+      "fecha_publicacion": "2026-08-21",
+      "seccion": "nacional",
+      "etiquetas": [
+        "Economia",
+        "Política",
+        "Finanzas"
+      ],
+      "imagen": "",
+      "descripcion": "Milei en la Bolsa de Comercio de Rosario: habló del riesgo país, la economía y cuestionó a los medios&nbsp;&nbsp;minutodecierre.com",
+      "relevancia": 3
+    },
+    {
+      "titulo": "Actividad económica en Argentina: por qué el PBI crecería menos del 2,5% pese al récord del agro y la energía",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQcVRHVG9waU40RTFucklfWUp2Mm5NWUpNSy1XNkMyYk9lWEN1OF83dmthOFpwOXBySkQtbHMzT3RvTG1DVlJwRW1fTFdZX2JzOWRkS1lMM2tpUU9qTU5ES1F6VTBCTjZldHNHZjI1M3BVbHdLZllaS3hzR3VuNEJiZFJQQ1NjZHpFM1I0RXkyVThLTmpwRnVqSkVCVW9OMG9QRXphckFybFY0NHpjblFJT0tKMGlESmlmTXhnTG9lZnRTQ1pPdWR5TzdVbnVaNHJwSXowZFh6TmE3YTJFbnB6VkJGckZjUFnSAe8BQVVfeXFMUFBiRS01akVQMWVPOC1WNGc4SVFwNUxJdkJIS1luWTh1M25NbTZJTVR4SDRodlMtS04zdG91YlFFQXFnTmVsa0dqRXlJb0tJTkIteEFRQ3BSYmNnUGNFOVJON1JMUEVaNE5hNGlXNzNyM2dCdldDR3g0Sy1qY3VBWkIzR25QRHpmVHlFZWFRZVVpeUtZVU82bGMwck16ZklQakpnUHJMM0J6VXRXbjJ3U2JnOFRCWnllemJTd0RTSjhRSVM4THZfc2lQX0J0aHkwM0JHMkN5RVVCLVMwMkIycEplZ2JWUDhkLXRWUTd2NjA?oc=5",
+      "fuente": "Diario Río Negro",
+      "fecha_publicacion": "2026-08-21",
+      "seccion": "nacional",
+      "etiquetas": [
+        "Economia",
+        "Producción",
+        "Ambiente"
+      ],
+      "imagen": "",
+      "descripcion": "Actividad económica en Argentina: por qué el PBI crecería menos del 2,5% pese al récord del agro y la energía&nbsp;&nbsp;Diario Río Negro",
+      "relevancia": 3
+    },
+    {
+      "titulo": "La minería se consolida como motor de la economía de Milei: qué lugar ocupa Mendoza",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNUlM2WnVOdldUVnFaR1hrMEEzeDFXdzNJeE1BdWNYcklmN21DLVItUkUwaUYxMnI0R2dtandaRXZNZ1Z2aXE4ZTBYcEJ1b2NpemhzRV9CQ1RDY1VzLTlmVlJzZlNvUWZRN1NkQzBqWEdSYjVRWHpXRWRDc2lpdV9hSFBCYTJKZ3k3M3hGYWlZY3lFWGhmVks1N1NvN3NPUjBuMVN4dF92Y1JfWWM5bXJydlhGWTZMVWJIbjhSc25WSUYzdnlpVGE1UU1ZUWd3RXQ4RTgyZXoyZWotSV9LaGJCeGJCd0xzZGd6ZEdSY3VudVVwUQ?oc=5",
+      "fuente": "El Editor Mendoza",
       "fecha_publicacion": "2026-08-21",
       "seccion": "nacional",
       "etiquetas": [
@@ -55,47 +589,159 @@
         "Producción"
       ],
       "imagen": "",
-      "descripcion": "Milei aseguró que la economía \"está creciendo\" y atacó a los \"empresarios prebendarios\"&nbsp;&nbsp;Mnews",
+      "descripcion": "La minería se consolida como motor de la economía de Milei: qué lugar ocupa Mendoza&nbsp;&nbsp;El Editor Mendoza",
       "relevancia": 3
     },
     {
-      "titulo": "CEPAL proyecta crecimiento del 6,5 % para la economía venezolana en 2026",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNDM3dzlNSUpPZjM5b3ZZczQ2TkZIdVNpTXE1VS1kU21sZmc4amNUeWw4RlJxNFRHQ2ZDYVBWZUJVZjA4RTg3ZktZLU5ZT2xTOVJZQWxaUDB4WVNHcC1oZ0d3Sk01M1lpLUJnbVFYLThZUDRJaU45NVZUMnJpeEZGa0ZRSDltb0ZvNnBXV0JELUNPVllTbS16WVJuTHlSeXcwR2c1ZVJQQ2JzanVLOG44cUxDRGkzVk9Femc?oc=5",
-      "fuente": "Noticias Venevisión",
+      "titulo": "Argentinos endeudados protestan contra tasas de interés abusivas y política económica de Milei",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNWFMyX1NpSXZVSWZyX2lNdVVuQ3JndGYxc1M4LVU4bFB5T1hpRlpzZjBKWVVDbzBLWjk1eXdvZzNGekJIbVpmamhfa1FyR3JxVGJ0UTZXVmp1ZU43b2M3aGNUU3NmZzJyVmxMdEhIT2tFT2RxbUtXNTZxUURMNy1VQ0YtalQzYkVYczQ4M0Q5R2xqcHpQU1p1NXZuZ3hCdC1hVHdzR0dSbE9CdFBqdUFSaTVOQThkSzJ5SlpsWnd3RDdnZ1piSU9vUHFfeW5tY196XzJSbUZQdk9HeW9EaEhsX1pCTUNhYVYwWnc?oc=5",
+      "fuente": "RFI",
+      "fecha_publicacion": "2026-08-21",
+      "seccion": "nacional",
+      "etiquetas": [
+        "Economia",
+        "Política",
+        "Finanzas"
+      ],
+      "imagen": "",
+      "descripcion": "Argentinos endeudados protestan contra tasas de interés abusivas y política económica de Milei&nbsp;&nbsp;RFI",
+      "relevancia": 3
+    },
+    {
+      "titulo": "Argentina Week en París: Javier Milei prepara una agenda con empresarios, inversiones y un encuentro con Macron",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOMndpUEZmQTZfc2lteWZTOUZrbVFYXzFYU0F1NWhQamVQVmlMQ0RnU2E4VFVUZGU1TGFDU3dlTEktR0R3SmVfem9vOENoanFxeWEyOHVUbm85OWJWWHB1UWFaYktNeTJnc3ZHakpSdlJYSTZMTmd0MmJvVmo4OGxqNV8zdmZ6Vm96NmRONDk5bmpYdTl3ZFl6NV9Zckl3d0JzYWJkc3JlVHNuSmNId3o5b3pIbnk3bXBWV0x2SGRUdDRqdndjdUI1NUY0WnM4OVAwMlJTSTFHTG9xNlZzTWZsMHVCVC1TRXM5bnlj0gHzAUFVX3lxTFBJanNrcUxwa3ZCYXp1NWc0VnZ2RU90U2pHZTRyZTU0X2lma3BrTUN4dHVJbE45VGJueGRWZHdWMTFPU09HWEtoX0xhTjRHX20xSGJkVF9ZWTgzSHJNTkxLSkU4QTBrOEplMy00RkJDMUtxMzJqaC1pdjh4MmdsZkwyci10R200N3c3ZllzZFltQVpnZ2RTNWFrQWlYa2JtSjJXQ19JMHozdTRNZC1zQzBUUWk2REtfSGxIZEJXcGVlTmlPYXU1TXJKbll1UDk1MUFoVzJEaVg4RDFlUlJVSG9VZEE2TEcwM0tWWm1BdXZUa0EyTQ?oc=5",
+      "fuente": "Diario Río Negro",
+      "fecha_publicacion": "2026-08-21",
+      "seccion": "nacional",
+      "etiquetas": [
+        "Política",
+        "Producción",
+        "Finanzas"
+      ],
+      "imagen": "",
+      "descripcion": "Argentina Week en París: Javier Milei prepara una agenda con empresarios, inversiones y un encuentro con Macron&nbsp;&nbsp;Diario Río Negro",
+      "relevancia": 3
+    },
+    {
+      "titulo": "Figueroa: Neuquén recibe sólo el 13% de cada barril y con eso debe sostener toda la política social",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNUkJEQXNfOHdvRmsyNVg1UmhoYzFBTW5takNrdnhEdE14bjBRYS1GOHRVMzFYMEd6OVRrLVVmMnJadUpfN0N5dUlURmQ5Q2owa2lGN0hLamphY1NFOVp3WmtSVDJoMnRJQkhqTm9OM2k2N0QwaXhVNk4xcmFiOGFBQ1ZBdlJWS3ozYnRJMXV4dFVwMlNXUnRFejNsM0xyeGVjUFlnVW1GT0VYNG5iNVhCajZZZkMzZ05oejhHa0hidUZlR2xHZTY0elBhdldkZm1VMWM3U2owQUVKVDlsUTJocUpCaEJGOEh1cEJ1eXJOWXBzbU1lU2fSAfsBQVVfeXFMTWdWMUo0UlhsNUxNcjhsdnRlWXpCQmxCdVZsV0pxdVR2UERSWjZZenpXM0FTVy1KRkJrdUw5Q1M5VUthRW93OUNyX3R5WDFoUFR4ZjYydzlvSjFkREpwVkZ3T0VNUXh3T3ZOMTNhYXJTX3QxUWVJZG9MUzNyX1FxbzhyNGRuN1lmdVFjZl9JLVFIUGt5ZDdER0cyQmFhUGlRaTBUTUl2VHNlVk12TnBkbUE1dFhoNDNjRG4tbnpHQmVCQkdzSkNfRGtZYjB5c290ZncxVml2NUR0TXlaXzZsSk1JcGZleDBZXzFxM0FiRjlxLURvVzczNVF6TkE?oc=5",
+      "fuente": "alertadigital.ar",
+      "fecha_publicacion": "2026-08-21",
+      "seccion": "nacional",
+      "etiquetas": [
+        "Política"
+      ],
+      "imagen": "",
+      "descripcion": "Figueroa: Neuquén recibe sólo el 13% de cada barril y con eso debe sostener toda la política social&nbsp;&nbsp;alertadigital.ar",
+      "relevancia": 3
+    },
+    {
+      "titulo": "La industria de las mascotas crece en Argentina: hay 19 millones de perros y gatos y el mercado mueve US$3.200 millones",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOQ2JkSThvdnhQWFBGS3AwUzVrRVUtSXRiYi11Mkd3ZHBRT3A4TGQzOFVVNkYzWURxaHhfTUFDSWFvY0tvZ3NwYjFJb3NIc1FNTUR4MU5OQWFTblQxdDg3TmZVeWc2VWlITjdRSktxR3Z3NzgxVzE3eU1aRVdwdHJ1N1pBckFHNE04YWk2RDc3b0JDNUJHdFp2dmNwY2VUa20zQTRIWXhWRzFhWEZMeHA1OF9jMnJsR0J3ZUhiVFNaNkZDNnF0dXV5bDV3bkFBTm1VTm0zMUtWUmVGV192bDNQSVNHckt4RFFSWTN30gH_AUFVX3lxTE1iRGNtVHQ0ejlvNjJUMnk2Tjk2dmNiSVNTbHMyVnh4Y0dUN2prZ3NxS05mbHJnWnVFbVhrME82MC1wUkZHamhOMVI0NWNQd0k2bGI2Q284bzVxZVE0T3BFWmRKRXc0dWMteXcycXozMGtMVXZvbS1iZW1ITC1HWnRRS204SllkR0RLV3VsUEM2dDVXbzJrYXE0dERvenhkLTQ2Z1EzaXJ4MnVHQ3RzVVVJTk9NMDh0YkVSUG1MNkxnVGRxdUNvWDROMFlTeFcweEJMaWtMRE1famVILTdoRlp0TjRnQ2tPckRjWnBQTHdZOS01UXZ4NFdHNFRmU2R5bw?oc=5",
+      "fuente": "TN",
+      "fecha_publicacion": "2026-08-21",
+      "seccion": "nacional",
+      "etiquetas": [
+        "Economia",
+        "Producción"
+      ],
+      "imagen": "",
+      "descripcion": "La industria de las mascotas crece en Argentina: hay 19 millones de perros y gatos y el mercado mueve US$3.200 millones&nbsp;&nbsp;TN",
+      "relevancia": 2
+    },
+    {
+      "titulo": "Críticas a Milei por sus dichos sobre la economía: \"No sé si está hablando de Argentina o Macondo\"",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQM19zdWRYV2hEOW54RmtUbUhTNFZGdnMxanAzN3BKMksyZTVDWFNNUlZzM2NwQVJrLW04cHZHLTluSG04VDdnQ2FYcExvOTlkNTNaTERyVjBDMEtNY05zclBONkNQTUxJRGJSUGxqSzlSc2Nxa2ZseVlDcUFpc1Z6elFITWdEVTJBMldmWk94RFFSTThaZWJ2V3VVYkJCTmkteXpWaTZwdnhrWGlpTmRSSjVMY0QxZjFMMl9BakVmbEF0dVkzOFVDMXo3X3JTcGFIWjVJcnF0Z0VhUlp1bFVIaUc4ZXdsaWtFMi1WZmZR0gHzAUFVX3lxTE42ekU0SEF0b2poT29aSmtOQnJxVF9vNHBtWV9iT1Q1UXBMdVhiUk44YjdDN18xRnNZQi1PZ28wSnJIZmQ3bklnQ1pJS0JCQWt4R21DbGtfTGlYcklwTHFsYUpLcTNNNkxISE5sWUQzLTdlbWc4eXRZT3NhalJEN1h3ZTlvZUd3czRxd0hMN2d1eFlGVmtuLWZDdzNFeFJTdmF0YmdDQnhhMFJwaE5MYTBya3NhbXBOSXdDaDkxTlp0Z2dEYkhrelZsdEVnUS1BMWlZcFFVVTVnQ1BYX25FZk5NV20yV1hZS3B6ZG5xNlRweVlSaw?oc=5",
+      "fuente": "Cadena 3 Argentina",
+      "fecha_publicacion": "2026-08-21",
+      "seccion": "nacional",
+      "etiquetas": [
+        "Economia",
+        "Política"
+      ],
+      "imagen": "",
+      "descripcion": "Críticas a Milei por sus dichos sobre la economía: \"No sé si está hablando de Argentina o Macondo\"&nbsp;&nbsp;Cadena 3 Argentina",
+      "relevancia": 2
+    },
+    {
+      "titulo": "El titular de la Cámara de la Construcción marcó diferencias con el Gobierno y advirtió por la inflación y la...",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQa3FaOS1rVHVfUW4yN2FDbXhzTUU2ZmFWRFo5dlJpUlhnSzc4NWxTcFNta25aOHlhdzZxNERLMldxcVRuNVd6azY3eUZXbVM3VXdwaFlZMlVWeWptNUt2VkY2cVFYc1VBYlpONndSXzRYUFo0eDk3bmgzb1lTb2hkUkFaZl85NWllUDZjaURMaXlIbGd3VGhhOU9NN1lwMFg3bUx6Z3Y2MG55X2t1MHRVeE1NNXhsTWhtT0hId1d1cFpScnZKemswMi1MeEtJd1lORGlNSjRR0gHbAUFVX3lxTFB3dGltTi1ETWlabWRrZnJXdnVYdTJnT1VHVU9EZndoY1ZlS25jclVxNmc0YTNjYUtENUMwamo1QUxCY0l4cVQwbWwzQ1NmVF9uNjI5cWlCNENPdkJnbjhaLS1vYW03dWcxQ3V5UWpudjJjdldnUGhJMDRQazBLMUU5YmNWTG5YZkhzMm05VWNZV0xyX2hMNzMzMTFOZkIzb2tfWkIxZUtSZmZoVWt6d21rd0UwQU80dGlvLU5Gc3ctemYtUzI3cTFCNXJhekNoXzFoUlpqdkY2eThZVQ?oc=5",
+      "fuente": "Perfil",
+      "fecha_publicacion": "2026-08-21",
+      "seccion": "nacional",
+      "etiquetas": [
+        "Economia",
+        "Política"
+      ],
+      "imagen": "",
+      "descripcion": "El titular de la Cámara de la Construcción marcó diferencias con el Gobierno y advirtió por la inflación y la...&nbsp;&nbsp;Perfil",
+      "relevancia": 2
+    },
+    {
+      "titulo": "Encuestas, tensión en los mercados y economía real",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVG9qRHZGT19NUmlIc2x5Y1prX19PZWduY1B6by1ELVN1SV80THk4MndKR201RmdIMTBlNGp1U0dSMU5uTlBLdnhwN1dyeU1IWkRCcHVjMEVFcE5HY1VBTFR1c19sRmJxemVvd1BHS1ZwRF95SnZtUmpxZVl6Q2VMcTNrQUhZclcxTGRGeA?oc=5",
+      "fuente": "planm.com.ar",
+      "fecha_publicacion": "2026-08-21",
+      "seccion": "nacional",
+      "etiquetas": [
+        "Economia"
+      ],
+      "imagen": "",
+      "descripcion": "Encuestas, tensión en los mercados y economía real&nbsp;&nbsp;planm.com.ar",
+      "relevancia": 2
+    },
+    {
+      "titulo": "La economía crece, pero los sectores que más empleo generan siguen en rojo",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNY3dfdkxfTUxWMzdPNEp5cHBwSldvUTMwQmJ0V0tlY3dUeDVwOWhqQ1lRSXVham1RakpWSDJsV1dUZE9ZX3Z3eUxkOEVmYnlpeG5zalpNWklYN3hmTXpON1hRSFE3RWl0djBvRy1hMTc3WTU3eXAwNU9iMGNlZDlRRlpYNG1Cd2Q0MHhDMUs5UHdCUzllT0N4UXhlcHdUNEpjSElxQVZla2VuUQ?oc=5",
+      "fuente": "La Noticia Web",
+      "fecha_publicacion": "2026-08-21",
+      "seccion": "nacional",
+      "etiquetas": [
+        "Economia",
+        "Empleo"
+      ],
+      "imagen": "",
+      "descripcion": "La economía crece, pero los sectores que más empleo generan siguen en rojo&nbsp;&nbsp;La Noticia Web",
+      "relevancia": 2
+    },
+    {
+      "titulo": "Economía: crecimiento del 1,9% con sectores en baja",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNlVubTYwUGdaV1FOdGpGS3Q2UTRGMXdzOENkT3lRSDBVQmRpQVRaMEZRVVZDZVpBWjhEd1JlakNUWFhwZDc3dTdMeGg5aExha2tJX0s3XzhJRjNJeXg5cnk3RUNURGVNTmtSdEdrSkp6X3ZvWVd1cURPVG9UTWx0SW1ZSU8wLTJ3b0J3cnIwc2pOQjBqaGl3bUpIWXg5SHo4STVueFRGZV9sYUlKY19BRGVRZUtQQQ?oc=5",
+      "fuente": "LA17",
+      "fecha_publicacion": "2026-08-21",
+      "seccion": "nacional",
+      "etiquetas": [
+        "Economia"
+      ],
+      "imagen": "",
+      "descripcion": "Economía: crecimiento del 1,9% con sectores en baja&nbsp;&nbsp;LA17",
+      "relevancia": 2
+    },
+    {
+      "titulo": "América Latina busca convertir su potencial agroalimentario en inversiones para el campo",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOajdxNEE2SklWWElBYVY0bjVQUnNoeHUyNmFQSnRkQjZuTmIwOGVLbTJVczM1NzdhTVBtaFg1SGt3SVQ1Zk9DcDduQlBtWUc4WVdHMGJqcWhEVld3UV9IRzliSmFab0ItdlhBVzBXSGJVNE5ENl9zVldUd05wYjVTU3BVbmpjZXl4V2oxV2FoVzBoWUptMTdSdXNOTWxmNWdBazFHTXI0Vlpicm5lby11QS1MbllmRWlmeThJd0JSX09zcmgtS3NaSnc2T0Y2QnYtdzloRXI1Zlg0MWNDWHdrX1dR?oc=5",
+      "fuente": "Iruya.com",
+      "fecha_publicacion": "2026-08-21",
+      "seccion": "internacional",
+      "etiquetas": [
+        "Producción",
+        "Finanzas"
+      ],
+      "imagen": "",
+      "descripcion": "América Latina busca convertir su potencial agroalimentario en inversiones para el campo&nbsp;&nbsp;Iruya.com",
+      "relevancia": 3
+    },
+    {
+      "titulo": "Venezuela liderará crecimiento económico de América Latina en 2026, proyecta CEPAL",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOM2pMTlNGVEpKY29CWUNzb2pTcU1QSlNxNDNNcTEwUnVRVnJSeV9yUmktV2h0U2NUT09aeHBqdEFyc3YzUEN5bUMtRXlLSzRNTXNUenhUZWp0N25jMEIwc1h5SDNyanJIbUZVREx5ck5WUUcwLVh4bjNkdWFuQjVab0ZDTQ?oc=5",
+      "fuente": "teleSUR",
       "fecha_publicacion": "2026-08-21",
       "seccion": "internacional",
       "etiquetas": [
         "Economia"
       ],
       "imagen": "",
-      "descripcion": "CEPAL proyecta crecimiento del 6,5 % para la economía venezolana en 2026&nbsp;&nbsp;Noticias Venevisión",
-      "relevancia": 2
-    },
-    {
-      "titulo": "Los turistas extranjeros dispararon el gasto en las provincias donde mejor se vio el eclipse",
-      "url": "https://elpais.com/economia/2026-08-21/los-turistas-extranjeros-dispararon-el-gasto-en-las-provincias-donde-mejor-se-vio-el-eclipse.html",
-      "fuente": "El Pais Economia",
-      "fecha_publicacion": "2026-08-21",
-      "seccion": "internacional",
-      "etiquetas": [
-        "Producción"
-      ],
-      "imagen": "https://imagenes.elpais.com/resizer/v2/XSHACUMADNPZXON6P7JGG4VEI4.jpg?auth=e9d3cbc78f1942acd574f01dac59823e0c3a07aa4ab4a880dd280a8f1afce526",
-      "descripcion": "El pago con tarjeta por parte de los foráneos creció hasta un 220% en Soria y un 106% en La Rioja durante la semana del fenómeno natural, según los datos de BBVA",
-      "relevancia": 1
-    },
-    {
-      "titulo": "El diluvio de deuda del Estado y la IA deja secos a los hogares",
-      "url": "https://cincodias.elpais.com/opinion/2026-08-21/el-diluvio-de-deuda-del-estado-y-la-ia-deja-secos-a-los-hogares.html",
-      "fuente": "El Pais Economia",
-      "fecha_publicacion": "2026-08-21",
-      "seccion": "internacional",
-      "etiquetas": [
-        "Economia",
-        "Finanzas"
-      ],
-      "imagen": "https://imagenes.elpais.com/resizer/v2/ONKGGTT77JMXZKUR5GJ5NYYWZM.jpg?auth=4fd1693eb5816d713abd426a844848d5d1b38c686b00daa5788695f37fece568",
-      "descripcion": "El bono a 30 años toca máximos desde 2007 y encarece las hipotecas justo cuando el Tesoro y los gigantes tecnológicos compiten por el mismo dinero",
+      "descripcion": "Venezuela liderará crecimiento económico de América Latina en 2026, proyecta CEPAL&nbsp;&nbsp;teleSUR",
       "relevancia": 1
     },
     {
@@ -112,45 +758,6 @@
       "relevancia": 1
     },
     {
-      "titulo": "Amazon Prime Video invertirá más de US$2.000 millones para duplicar sus producciones en Latinoamérica",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNYnFhcFQ1cWFnaUd2cDRFSGRWV1hsclc2WkFmWTQta05IMlFCaExMNHNCVUw1UU5OcVVMNThaZzE1dzBwbTdDamh6ZTQ2cVhobUxTU3U3Z3dzSG1RQTUzUFZIWmhDVHRUNDRrTlVLMnU2UURDMHF4U1FObzFoa1FVNmpRT0MzeU4wcUJYM1BEdFlhVWM1ZGsyVm4xWjhxODF5X2tGUThudkYyS1hKVmFrSWRuSDFzdHhDSXhiWm5PSWJnZWx0X3NUeDAtMlpXaElNam1iYXh5Y9IB3AFBVV95cUxPNDZJejdIOFBHc0x5N1NjY245VnRIUG9HSlNUOFVacGxSRWZCVUtTUTN2eDR1TlRIaHYyd2F5U0x2X1k0VE9MVVBpU2hBbWRfVzBSQ2M0WFAxdmZzRHdBbG82MGZVaG1JM1VPZFdOUi1BWVpRTzh2c3hoSGV3TUUtMzk4VlRnZU5PMGxJb1ZhVnd1MjZLOUpFSE1VMFp1TkxNZXYzdFJXcFd5V1lMcnJuLXlMZVdockxPcHVfZk8wajdDTjRDY1Uxc09SMFgyRUI1b0F4RzJQaGVpa0tu?oc=5",
-      "fuente": "noticiasdebariloche.com.ar",
-      "fecha_publicacion": "2026-08-21",
-      "seccion": "internacional",
-      "etiquetas": [
-        "Producción"
-      ],
-      "imagen": "",
-      "descripcion": "Amazon Prime Video invertirá más de US$2.000 millones para duplicar sus producciones en Latinoamérica&nbsp;&nbsp;noticiasdebariloche.com.ar",
-      "relevancia": 1
-    },
-    {
-      "titulo": "Venezuela destaca como la segunda mejor economía en América Latina para 2026-2027",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYjBobGpzLWxUXzN3eUpTTnFKbk9LdWNfbVhBYm95Nng2dE0wSjhmdnlzSE5adXZBSDBuV1duUDVYdzNZNmR2eVUwNUt0RzF6UndPU2U1TVAyZG9aZi1YdEt2X0NDTngtWFpaeldRWXQtV0p4LS1FMV9rY3NhYnRRV1ZWN3FpRnpaVFJ4NGVKdS10RXdweW00b3JSdUstdmxsX29WaWZGNFpLUENGWnBWaTFETzByUQ?oc=5",
-      "fuente": "Diario Primicia",
-      "fecha_publicacion": "2026-08-21",
-      "seccion": "internacional",
-      "etiquetas": [
-        "Economia"
-      ],
-      "imagen": "",
-      "descripcion": "Venezuela destaca como la segunda mejor economía en América Latina para 2026-2027&nbsp;&nbsp;Diario Primicia",
-      "relevancia": 1
-    },
-    {
-      "titulo": "Cepal prevé economía RD crecerá 4.0 % en el 2026",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5OZDdPUk5ZVWtodzV2ZGFXVFRTdlpkSnRNUXA4clhMbjdzUVF1X2NGb3Z0S2NzLUdBbFpBaEVwRkZZN19iZlhaMkh5LTdzSTJOYXkyb21XbGZPUWJ6bnRNMDFxd253Wno2TWtXR3hZbFJfclBFZFdN?oc=5",
-      "fuente": "eldia.com.do",
-      "fecha_publicacion": "2026-08-21",
-      "seccion": "internacional",
-      "etiquetas": [
-        "Economia"
-      ],
-      "imagen": "",
-      "descripcion": "Cepal prevé economía RD crecerá 4.0 % en el 2026&nbsp;&nbsp;eldia.com.do",
-      "relevancia": 1
-    },
-    {
       "titulo": "Giorgia Meloni Cuts the Hard Right a Path to Power",
       "url": "https://www.nytimes.com/2026/08/21/world/europe/italy-giorgia-meloni-interview-profile.html",
       "fuente": "New York Times",
@@ -161,6 +768,19 @@
       ],
       "imagen": "https://static01.nyt.com/images/2026/08/11/multimedia/00int-meloni-profile-01-tmfc/00int-meloni-profile-01-tmfc-mediumSquareAt3X.jpg",
       "descripcion": "In a rare interview, the onetime political outcast reflects on her route from “the uncomfortable side of history” to the threshold of leading Italy’s most durable postwar government.",
+      "relevancia": 0
+    },
+    {
+      "titulo": "Germany Identifies a Plot After Finding a Weapons Cache, but Names No Culprit",
+      "url": "https://www.nytimes.com/2026/08/21/world/europe/germany-foreign-plot-hidden-guns.html",
+      "fuente": "New York Times",
+      "fecha_publicacion": "2026-08-21",
+      "seccion": "internacional",
+      "etiquetas": [
+        "Política"
+      ],
+      "imagen": "https://static01.nyt.com/images/2026/08/21/multimedia/21int-germany-guns-qthk/21int-germany-guns-qthk-mediumSquareAt3X.jpg",
+      "descripcion": "Officials were careful not to point a finger, after revealing what they said was a plan for a political attack, at a time when a series of destabilizing actions have been blamed on Russia.",
       "relevancia": 0
     },
     {
@@ -177,420 +797,56 @@
       "relevancia": 0
     },
     {
-      "titulo": "Nancy Kissinger, Wife of Former Secretary of State, Dies at 92",
-      "url": "https://www.nytimes.com/2026/08/20/us/nancy-kissinger-dead.html",
+      "titulo": "5 Deportees Are Flown by US to Equatorial Guinea After they Resist Deplaning in Liberia",
+      "url": "https://www.nytimes.com/2026/08/21/world/africa/us-deportees-liberia-equatorial-guinea.html",
       "fuente": "New York Times",
       "fecha_publicacion": "2026-08-21",
       "seccion": "internacional",
       "etiquetas": [
         "Política"
       ],
-      "imagen": "https://static01.nyt.com/images/2026/08/20/multimedia/20Kissinger-Nancy-plfg/20Kissinger-Nancy-plfg-mediumSquareAt3X.jpg",
-      "descripcion": "A foreign policy specialist, she was politically savvy and well versed in global issues, and traveled widely with her husband, Henry A. Kissinger, on his diplomatic missions.",
+      "imagen": "https://static01.nyt.com/images/2026/08/21/multimedia/21int-equatorial-deport-qfgk/21int-equatorial-deport-qfgk-mediumSquareAt3X.jpg",
+      "descripcion": "At least five of the people flown to Liberia under the Trump administration’s third-country deportation program resisted leaving the plane. They were then flown to Equatorial Guinea.",
       "relevancia": 0
     },
     {
-      "titulo": "El Santander gira hacia la banca tradicional en EE UU y añade 60.000 millones en depósitos con Webster",
-      "url": "https://cincodias.elpais.com/companias/2026-08-21/el-santander-gira-hacia-la-banca-tradicional-en-ee-uu-y-anade-60000-millones-en-depositos-con-webster.html",
-      "fuente": "El Pais Economia",
+      "titulo": "The Dollar's Outer Defenses Have Been Breached",
+      "url": "https://www.project-syndicate.org/commentary/bessent-yen-bond-market-interventions-acts-of-desperation-by-harold-james-2026-08",
+      "fuente": "Project Syndicate",
       "fecha_publicacion": "2026-08-21",
       "seccion": "internacional",
       "etiquetas": [
         "Política"
       ],
-      "imagen": "https://imagenes.elpais.com/resizer/v2/JPI3T3M6BBEZPG5XQND5BWCS2Q.jpg?auth=df9e81c4d08016d8d42fde8cc4930658e8482f3149aead64e0eac20ec68423e8",
-      "descripcion": "La entidad amplía su número de clientes en 3,5 millones y diversifica su negocio con banca comercial y minorista de alta calidad",
+      "imagen": "https://webapi.project-syndicate.org/library/a7d763e988efb675ecf682c8d1db2055.16-9-xlarge.1.jpg",
+      "descripcion": "The puzzle of why the Trump administration is so concerned with a falling yen has historical parallels not to the 1930s or the 1980s, but to the 1960s, when US officials feared that a crisis elsewhere",
       "relevancia": 0
     },
     {
-      "titulo": "Los inversores ‘se pelean’ por el cobre y pagan primas récord por acapararlo cuanto antes",
-      "url": "https://cincodias.elpais.com/mercados-financieros/2026-08-21/los-inversores-se-pelean-por-el-cobre-y-pagan-primas-record-por-acapararlo-cuanto-antes.html",
-      "fuente": "El Pais Economia",
+      "titulo": "Why the World Still Needs Wall Street",
+      "url": "https://www.project-syndicate.org/commentary/us-financial-and-treasury-markets-still-no-alternative-by-jorge-arbache-2026-08",
+      "fuente": "Project Syndicate",
       "fecha_publicacion": "2026-08-21",
       "seccion": "internacional",
       "etiquetas": [
-        "Economia",
-        "Producción",
-        "Finanzas"
+        "Política"
       ],
-      "imagen": "https://imagenes.elpais.com/resizer/v2/2F65IKX2LFLEVMQFK3OUBPPYSU.jpg?auth=26c906733d405bca04ee5cd80c0fe6675d824a8249834b86590321b270faf597",
-      "descripcion": "Su precio entra en ebullición en el mercado de Londres ante la caída de inventarios que provoca su traslado masivo hacia EE UU por la amenaza de aranceles, que se une a un déficit de producción estruc",
+      "imagen": "https://webapi.project-syndicate.org/library/f7472e23ba62d2ef640d6b7a6d9242fe.16-9-xlarge.1.jpg",
+      "descripcion": "Outside of the United States, all other financial systems face major constraints on their ability to absorb large financial inflows. That is why geopolitical multipolarity is advancing faster than fin",
       "relevancia": 0
     },
     {
-      "titulo": "Vaca Muerta transforma el mercado inmobiliario de Neuquén: más inversiones, precios altos y un debate por las nuevas reglas",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPWHZqZ3RGUDNtT3hqa0V6QmhfTFE5VXJjLTNDb2w2UzBBN0VGaURlLWtRMHpiZmtUUjk1T09OdTZ6QjZYTUNBWGNCZXM0Y3FBX0dubU9aWTFzZzlUTVZIeFhDWmswNC05VnZFUXpyTWd0ODhIcnlqbkF2UkdlMGVpQUNoSGFIbVlNU2Etd0hFV0JycnhqYlRjX3M4VXhlbnZONDl6TXUtQVUtQ3F4cDJGUVk4SDFBV2UxVy1YanZmWDJvb19NUUVIdlpQeEtYR25xOThOQXRGY05CTUFMTVFIZlVQV0tyN2s?oc=5",
-      "fuente": "Diario Neuquino",
-      "fecha_publicacion": "2026-08-20",
-      "seccion": "provincial",
+      "titulo": "La CEPAL proyecta que la Argentina crecerá 3,3% en 2026 y 3,4% en 2027, por encima del promedio regional",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPT2s2YkVZLTdvcTdzNkF5VlVuSWtDZUR6ZzJfMFQyTHdSOUZoR2JUbFlFa1F4UzgySEN6eTc2S3FwN081b29pdTlSVnk3djFxQTFYS0FscHRONnJyME14clFacEJwbTZqSDdMODZMeEloV29JZXR6cUFmYlc5RXc2RXpFbVJ0dUxFc00zckhWYzJJSmlwZWM2YS1iWm80TUxHUWdGcHJqSDFxYXE0QUlEVnZwSkduUkZxV0VXR0VOVzZlRFRLRERtR0p2SDJDQkhYSzlZU1pJUzlkdkRMR2c?oc=5",
+      "fuente": "radio3caseros.com.ar",
+      "fecha_publicacion": "2026-08-21",
+      "seccion": "internacional",
       "etiquetas": [
-        "Economia",
-        "Vaca Muerta",
-        "Finanzas"
-      ],
-      "imagen": "",
-      "descripcion": "Vaca Muerta transforma el mercado inmobiliario de Neuquén: más inversiones, precios altos y un debate por las nuevas reglas&nbsp;&nbsp;Diario Neuquino",
-      "relevancia": 6
-    },
-    {
-      "titulo": "Neuquén lanzó la nueva Red de Empleo Capital para conectar trabajadores y empresas",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQN0hmUkRRTzBqWHY3TzBSM1BWY2VpMjI4SHdRMlpsN0RvYTNsZi03cG5qRXR3REZSV1YtU1hCN01uX3pQM2EyYTE3RURNcEpkTmJFLUNWZFZScW45WjloandLZjFjYTVITDAtRlREaUF2Tk5sUmJyUkhJRVZDa1RYbzFNRldvZ2lvUjVSN3JaMWhWUEJKT0I5MTB6anVtUGxUdXpjRHgtaGpzYmktRzgwS19ISzdSOUtMRV9FX0FnODA1ejcyeVhj?oc=5",
-      "fuente": "Neuquén Capital",
-      "fecha_publicacion": "2026-08-20",
-      "seccion": "provincial",
-      "etiquetas": [
-        "Producción",
-        "Empleo"
-      ],
-      "imagen": "",
-      "descripcion": "Neuquén lanzó la nueva Red de Empleo Capital para conectar trabajadores y empresas&nbsp;&nbsp;Neuquén Capital",
-      "relevancia": 5
-    },
-    {
-      "titulo": "Neuquén lanzó la Red de Empleo Capital para conectar trabajadores y empresas",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNcjJ5M0puQjNvcHc0dXd5UzdhcFF4WXFXSXpJMVFsdG5LcEV1VmpPYTg4ZnBBQmRERVJTakVOQktHVFdNR2I3UTYtN2RWSkdWT0kxTUdpc3lUOUlzQV81QmxURXYxeFZoTjVYRUZnWVZpSXFNRHVEOFduQXR5MVFfa2JMYkJXc0FIYnhfVWJpQ29ZVnFRczJRWmRjcl9sNm42TENYcWVBZXg1QXVyNjQ3MF9UWDA0Sk1IQnVDSTB0bmFkUnl2WEZWMHB3bmwtMGfSAdQBQVVfeXFMT1NDUEctVXpUMzJjWUktLXhkc1lESkhYeUVEVXFlRjUycW9xa3RjZWthamJfaG9OYTB1RjlKWGdQTm54SHNRd0NjQlVPYnp5RXRfQng4blRKZ3hOdjdMeFdMQkEzS3Z3MTljb25kYkFyTUpqcnJxeTdIdEN0OE02M1dhN2lESG9jVU1Cc1puWGpNeUd6VmFpZ1l1V2R3TmtzV280U1JPU0hlV2lSOGh4cGRzUlZuV0dvcDNTYXJfSmFoMlc0UGNtVjF0MmxHaVhhM3FhVHA?oc=5",
-      "fuente": "NoticiasNQN",
-      "fecha_publicacion": "2026-08-20",
-      "seccion": "provincial",
-      "etiquetas": [
-        "Producción",
-        "Empleo"
-      ],
-      "imagen": "",
-      "descripcion": "Neuquén lanzó la Red de Empleo Capital para conectar trabajadores y empresas&nbsp;&nbsp;NoticiasNQN",
-      "relevancia": 5
-    },
-    {
-      "titulo": "Neuquén lanzó una nueva plataforma de empleo con 20.000 currículums y más de 500 empresas registradas",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUG5naXNSc1drM2dnYWpITFZLejBlX2NSQ3pBd21UcGdCQTVmMzFKX0pNOWZqeGdpNUh2T2g4Z3lCaEItcHpVMENSVDdtS0lwWXVnLXYtSTRTb01nVXg0UVg3YW5MYTB6S2dram9XbUtGeExEOWtvQXhlWmNLQTYtaWw0TVc0Rmp0YzhtWlQ2LW5FRHFnV21YTjBNYWVqUzRrTlJMb1RaTXRqZ1pkVXlKeW4xUHhBbEtMMU13eDU0Tmg4eHplUEtBM2VpUWo?oc=5",
-      "fuente": "Diario Neuquino",
-      "fecha_publicacion": "2026-08-20",
-      "seccion": "provincial",
-      "etiquetas": [
-        "Producción",
-        "Empleo"
-      ],
-      "imagen": "",
-      "descripcion": "Neuquén lanzó una nueva plataforma de empleo con 20.000 currículums y más de 500 empresas registradas&nbsp;&nbsp;Diario Neuquino",
-      "relevancia": 4
-    },
-    {
-      "titulo": "Neuquén tiene una nueva Red de Empleo: una herramienta para cubrir 20.000 puestos en Parque Industrial",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPTkhGNWdEWE1RMXNmT01vb2R0TTVBenJDRVR3T1hzSFFNcm8zWUxxNXJFZmVJSl9GZlc0X1VyYzhJNWh1LWtCYUotaktfU0VmZjRJZnVmSjdhbW1SRjVIcEljQmZpY25IVWtuSTNrMnhST0FUb2tuWDRfQWV2UjFEWHlwajRoWTNaWXR1RjBjTzNwcmFIdDVjdmNzdWxUVVlHNGQwekFqSzl6TTBldzRGS1hKZjY4T1dSb0w1Rkx3T2kwODc0WWdMRmxwbFZjaXdJNDAwbXJFU1JDa1Np?oc=5",
-      "fuente": "Mejor Informado",
-      "fecha_publicacion": "2026-08-20",
-      "seccion": "provincial",
-      "etiquetas": [
-        "Producción",
-        "Empleo"
-      ],
-      "imagen": "",
-      "descripcion": "Neuquén tiene una nueva Red de Empleo: una herramienta para cubrir 20.000 puestos en Parque Industrial&nbsp;&nbsp;Mejor Informado",
-      "relevancia": 4
-    },
-    {
-      "titulo": "Vaca Muerta duplicó las exportaciones de petróleo y julio cerró con superávit comercial récord",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOR3JsMy10WDlsTG1ld3B0M01QNERnejdqYjlwSWxZNWFma0cxS25LOUptUmpHTHIwenJ0U3BHWUxwQW9XYVJrWW0yb05xR2VELUlINnZCMlJ1N0tqY1ZRZUNZQTh2Y1NiYkd1UFNwT0Q0aTBsUFRIWWlpMnpLWDFEOG1VOHJQQmQyRnVvUi1qdy1TeDEzN0h2VVU2eFppdjR3dUt3VC0yVDdKbGFMZUN2SlhUMnBKMm9fZHB1N3JXTkZmeUFiYjVqdnYydEfSAcYBQVVfeXFMTWJVRG54dHB4RE1Uckxad3JxWDYyM3czazJKOXM0MHFBR2h5bmZCZEtPb1NSRUZrYWc2TUtkbHJmNTM1VldPMndFUDdrcVoyUXp0ZDluMW5XMEJPQ0VsZDZtVHplZEdzMFhmMl90QlVZYTA1NGFkVTRzd0IwZHNTNnN2Sms4OHJ2STFVWGpMOEtMbTl5akI1LXVJa09MOVJSOENMX0JWTmowV1Y5NTRrV09kNnlwd2hFM193dVBUOXhGRVRYQlJR?oc=5",
-      "fuente": "BAE Negocios",
-      "fecha_publicacion": "2026-08-20",
-      "seccion": "provincial",
-      "etiquetas": [
-        "Producción",
-        "Vaca Muerta",
-        "Finanzas"
-      ],
-      "imagen": "",
-      "descripcion": "Vaca Muerta duplicó las exportaciones de petróleo y julio cerró con superávit comercial récord&nbsp;&nbsp;BAE Negocios",
-      "relevancia": 4
-    },
-    {
-      "titulo": "Weretilneck anunció un fondo soberano con los ingresos del petróleo, gas y minería",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQNU5oSTdqMy1scUVkVHdrMHFZdFRMOExmYjR2TWExTHhUMTR6ei1sOHNjNERGanpTREw4d3l2U1dobEF3ODRnX1k5b2k3M3lkaTlMZGR5X1R4WTRRRm54NnU3S1NscnhlSXBjdW5fUUJrckEtWW53a0ZyS2ExZWFWT253aF9mOXU1VEoyUlV1eEZUNGhBQ1ZYMm0tV1F4UUVHLXZhRXh1RllaaWdtZEhsZnk1WmNRYmQ3RG5oSHBZM1NGZjFmUU44Qk1DQlREZGpLUTZIM0w5TU56SUZsVmdz0gHkAUFVX3lxTE4xR3VWOTQtN0s0MjJ3NXczNGJjRzRYUGR4ZmRaRFd1RHJhMEpIWktLc19WbnV3US1STUJQVEdtM3VDcUtmS0l4d2VOZFVaWFVJQ2lGYURmc28yb3AxT2t2a3daU2pBaUhrQ3BETlZlTlJXczd6VlY4T1JZMmtISDZOclU1V3BGRlpZaHRWMVZWYko3dExoOHVMU2hnYkJ5RzZZQmY4aVdJWjdoVGFGVWJjMEptNFdTWktmQi05UG9oT1dXenFCMjF2NVlqbWNOSUNEb3I1UF8tQ0dJTUxFTzJFbWctdw?oc=5",
-      "fuente": "Económicas Bariloche",
-      "fecha_publicacion": "2026-08-20",
-      "seccion": "provincial",
-      "etiquetas": [
-        "Producción"
-      ],
-      "imagen": "",
-      "descripcion": "Weretilneck anunció un fondo soberano con los ingresos del petróleo, gas y minería&nbsp;&nbsp;Económicas Bariloche",
-      "relevancia": 4
-    },
-    {
-      "titulo": "YPF avanza en Neuquén con planta clave para exportar gas de Vaca Muerta",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcXJvZjhzYXBnbkVSTGZ0UnNTSnREbDBmd2xfTkVCSV9YS1NjbHdxYnYtQ294bUFtWmFEOTZnWHNpYWdyN3dveGtuU3ptTDN0QmJ1SDg1a2pHaUNDWHZHN2ZTR29pVWstWEpmdHdjOE42ZFBnTm5VVHlWU01BeVZuOXA3Z0toTnhnaV9HRXRyZ3VZZExneEdYblVocnVfMGVmb1FV?oc=5",
-      "fuente": "Energía Online",
-      "fecha_publicacion": "2026-08-20",
-      "seccion": "provincial",
-      "etiquetas": [
-        "Producción",
-        "Vaca Muerta",
-        "Ambiente"
-      ],
-      "imagen": "",
-      "descripcion": "YPF avanza en Neuquén con planta clave para exportar gas de Vaca Muerta&nbsp;&nbsp;Energía Online",
-      "relevancia": 3
-    },
-    {
-      "titulo": "Una por una de las empresas que buscan quedarse con los nuevos bloques en Vaca Muerta",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWk9pZXl6ZjhUcGQyeXFVcjByVEFlbXpQNjFsdEE2ajNXRE1vYm55WEZLMFBpMGxuUG9VeTZVMm03a0tjZzRWSE04UmN0LXNCb1J2Y0s4VXVsbE15RWxaUndCV1p0SnM5TzUzWUw2ZVhtek5pR2Y0enlaOWpVTE82dldtblR1SXlQV1lZV01OSnN0YVYwdFhWQU9OSHQ4N0VDWklnUi1ReU8zTmVsT1NxdUdMUjVDd0JaVncw0gHAAUFVX3lxTE41SWxYWnMwZXZsU08xTlNXdTY3cHV0N05WYXVra3g4Yy1lY1BpVHUwaWxfclBxczdWMTcyVk5tXzhsMFVkS2dFUmZlRS1IRmVSdUR0ZW1BQWZaMzhobnNaT1B2U0tJRm5CYkE2N21XWTdhQXJheTRfZDFCNUIzUzBiTlNnM0tEbjdoR0VfMWE2VmRnckIxUkxXbjRzRlhYdHM0RTBLbGJfaVNRT3JPTTVPNEo1Mm1McXRpX1owdE1sVw?oc=5",
-      "fuente": "Lmneuquen.com",
-      "fecha_publicacion": "2026-08-20",
-      "seccion": "provincial",
-      "etiquetas": [
-        "Producción",
-        "Vaca Muerta"
-      ],
-      "imagen": "",
-      "descripcion": "Una por una de las empresas que buscan quedarse con los nuevos bloques en Vaca Muerta&nbsp;&nbsp;Lmneuquen.com",
-      "relevancia": 3
-    },
-    {
-      "titulo": "Vaca Muerta: Argentina proyecta 100 años de petróleo y gas",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNM1ZSVUZQWDdwUW1BUktwYy1uOE5obmk0YkhkSXdKQm9NZkVWb0ZSdmRYdy1zVWNZamxraXlTVWIzaENpUG9TNERYUlN5bjNTM1U4X2RsMEZVMGlRaHVYbkljemUzMU55WVV4OHZkV0RiakJvUk1LbVFmS1BqWjNYdTVJWjR5bkxXbFRydDBTUXpQSzljZDdfeGZ0S3luN1NJSjBPektfbmdXZzZZcnFfSTd2UQ?oc=5",
-      "fuente": "LA17",
-      "fecha_publicacion": "2026-08-20",
-      "seccion": "provincial",
-      "etiquetas": [
-        "Producción",
-        "Vaca Muerta"
-      ],
-      "imagen": "",
-      "descripcion": "Vaca Muerta: Argentina proyecta 100 años de petróleo y gas&nbsp;&nbsp;LA17",
-      "relevancia": 3
-    },
-    {
-      "titulo": "El Gobierno proyecta una “fase nunca vista” en Argentina por Vaca Muerta y la reforma energética",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPbkVPWDVtUTNNdkxsRGhOQXNTME9rN2tSUExxSVFvWlppOEx0dS1XNjJVTmxMZHVkbXVyWk95UEQzX1VPVDZabUFWd3BUNU5tX1BuTGVHTENjSEZyV2JmUWl0Z005ZzR2MjdOTXA2MmpnTDFGMXQxY01NTXZSQXd1X25WYktRMDBud24wdUhkOEVqU2ZLNkNMbmRNZjM0bmt6U1JXZ2tKTXVvRjZvLS0zYzYtZktOdUdRN28yZlE2VnY1cktpSjQtc2pRMFpndlZDVF84UC1vc2lfOG5QZVJyQkhDLWZOQjRvek9XcEhkS0RUclo5WDR3M1d30gGIAkFVX3lxTE05a09YUXlYV002M0s4SEdEbmNHU3d0UWN2dy1JNnRYYUdPRTBUQjltbnhqRFB0TVR1cEFfbFJZZnB3cEVmeExpbG9NS3EtVEFjQUNqUGFhQWVpT2JEWkpPNzhIb2xyOFB4bmZ5MHdrd3VLSmpwOHpkc3VtWDR4REdfM05WMHFSbmhibFlGeHk0cTN4ZHZ4bzFrRWNEUGllZVBybXlaWmRmM1dKejdxbFpQVXZHOElyWTBTbmNnUFpMbzhmUEFaeTRiS1ZpV2Z1TTRIbzRnSW1RWVZOODRIXy0yX05ta2sySVR0ZW9PcHprQlRUc0ZYOGFVRDlkLUh2TzNFMHBMVUw5Qg?oc=5",
-      "fuente": "Agencia Noticias Argentinas",
-      "fecha_publicacion": "2026-08-20",
-      "seccion": "provincial",
-      "etiquetas": [
-        "Política",
-        "Vaca Muerta"
-      ],
-      "imagen": "",
-      "descripcion": "El Gobierno proyecta una “fase nunca vista” en Argentina por Vaca Muerta y la reforma energética&nbsp;&nbsp;Agencia Noticias Argentinas",
-      "relevancia": 3
-    },
-    {
-      "titulo": "Vaca Muerta: el Gobierno proyecta una nueva etapa de inversiones para Argentina",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNWm81cFJLTHVfZ2JrdUVnOGRoNnk3dnctREFFSXFUWkhKTjVtZEJxazBWdzRuTnRhUm50cmVGdEhxYXRGeDZMTGE1N1huRmZpdmIwWjNGOU5DVVZPQ0tJYVhkSmNqRlJWSjk4QktRWmI4aWo4NFRTeTVOVVBSdkhOME5Ib3pnQnJFMmFhVEZwMVFXWUZHN2drMEpJb2xCenlSZUpDUURYckt3dkhjaEZfbEJRYmJ5bXJEeFphWTBCMlp4ZEdNaGgxV0xGU09KY2ZqWnc?oc=5",
-      "fuente": "El Esquiu",
-      "fecha_publicacion": "2026-08-20",
-      "seccion": "provincial",
-      "etiquetas": [
-        "Política",
-        "Vaca Muerta",
-        "Finanzas"
-      ],
-      "imagen": "",
-      "descripcion": "Vaca Muerta: el Gobierno proyecta una nueva etapa de inversiones para Argentina&nbsp;&nbsp;El Esquiu",
-      "relevancia": 3
-    },
-    {
-      "titulo": "El \"Rey del Fracking\" , a la conquista de Vaca Muerta con una inversión de 4.000 millones de dólares",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQVWozN0dPcXJZek9jQVJlMGRPS3Q5U0RNSWdnSDJUcnp6ZWJVaTFqZFFGQXUzN0EwX1VwZ2xuTGkzeXl5N3hUMGRHcDVib2I4NWt6RE13R0gtbnowQ2diVVI3d2oyRXNFYlB1cG9qTjBpRXMybm92REpBOE0zWjVjWGRRU09BTnZpT204ZjhHQ1B5X2twWlREX3R1V2UyWDRzSzV1Y3VKbzNoZ2o2WTdFRW9PdjJ5emNTOFJjRi16V2xvM0VFaGFpYVl4aWw1Ym1Ka1VHS05ZOEtlVVhEZHhsU2I2OG9rM0EtMjNVQm1neHk?oc=5",
-      "fuente": "Tiempo de San Juan",
-      "fecha_publicacion": "2026-08-20",
-      "seccion": "provincial",
-      "etiquetas": [
-        "Economia",
-        "Vaca Muerta",
-        "Finanzas"
-      ],
-      "imagen": "",
-      "descripcion": "El \"Rey del Fracking\" , a la conquista de Vaca Muerta con una inversión de 4.000 millones de dólares&nbsp;&nbsp;Tiempo de San Juan",
-      "relevancia": 3
-    },
-    {
-      "titulo": "Vaca Muerta abre nuevas oportunidades para las PyMEs: qué herramientas tienen para financiar su crecimiento",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPVXNRZE0td3VEMHlPTnBiNmktWHFPcDVxUlRTSUJZTlQ5UWtOZktPUXFRTy1KOV92elBrNE9Zd1N5TUoxcnc3RHZDZ3pPLUZNS091R05aUGNjd3JGSUgtWVBfbVhtaV9uVDFET0w4ODlvQzRDQXJaZ2Z4THNDNTZYaVlmdkh4OXctWE00Ylg2Z2lkUEUyQW5xbzFqeEdJWXBrR0prT3dFS0VqaVIwMHYzNXcxMF9BamtvdVNENXdPLUk0TnN6d1FHaVI2T0JIMFdiMnpsVEdvOFU3Q1lQbERyV1J1aXQ1U1NNQmJVNmVwOHlVRDBYRUVaT1BlZ2pMWXZod2cxTkUyOA?oc=5",
-      "fuente": "ADNSUR",
-      "fecha_publicacion": "2026-08-20",
-      "seccion": "provincial",
-      "etiquetas": [
-        "Economia",
-        "Producción",
-        "Vaca Muerta"
-      ],
-      "imagen": "",
-      "descripcion": "Vaca Muerta abre nuevas oportunidades para las PyMEs: qué herramientas tienen para financiar su crecimiento&nbsp;&nbsp;ADNSUR",
-      "relevancia": 3
-    },
-    {
-      "titulo": "Figueroa reclamó mayor aporte nacional para sostener el crecimiento que genera Vaca Muerta",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQUs1YkVpdnNqSE9rSkFfa2p6WlV0LUZ4WXU4UEFjR2lGZTJkX3JRdkJBbFZhUEtIdWUxYi05UExUZV84YnVUdThwNzJGM0VIOXE0SGNZUzV6VFFScWxjdlNZUEFvcG1tWmNabkV0U2ZkRHpzSXRIMlRJdEdudHJrVEprNlNSNC0wZlZpd25SMlZlWWR4Tmdjd3JZdUJ0d0ExcFltaVctZjV2OFVwWE1FeXk0MFI1M2E3dFRCbnRB?oc=5",
-      "fuente": "Diario Neuquino",
-      "fecha_publicacion": "2026-08-20",
-      "seccion": "provincial",
-      "etiquetas": [
-        "Economia",
-        "Vaca Muerta"
-      ],
-      "imagen": "",
-      "descripcion": "Figueroa reclamó mayor aporte nacional para sostener el crecimiento que genera Vaca Muerta&nbsp;&nbsp;Diario Neuquino",
-      "relevancia": 3
-    },
-    {
-      "titulo": "Vaca Muerta acelera: una inversión de USD 6.400 millones promete miles de empleos",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSnlrQWFBZ2JiZW9vRFNrOGc2NXJKWlRFMUhkRXpuV0VGTHdlT0RadFVoQ2hzTGhVVmQ5ZUZnVDFUZ0FVSXdfQWJSR2NQbDFtR1BpN0RjQlZsTFRmQ1h0c0NOcDlaVzRXQ0stbE8xUXl5TlBiYkYzWmhhRlMwcWJqX0QyRnZWcEN6NmRKT1ZxSzlLSmxkSXRqbDdSUWdBaW90cFB5bkY2ZXU2VU42Snc?oc=5",
-      "fuente": "Fuego24",
-      "fecha_publicacion": "2026-08-20",
-      "seccion": "provincial",
-      "etiquetas": [
-        "Vaca Muerta",
-        "Empleo",
-        "Finanzas"
-      ],
-      "imagen": "",
-      "descripcion": "Vaca Muerta acelera: una inversión de USD 6.400 millones promete miles de empleos&nbsp;&nbsp;Fuego24",
-      "relevancia": 3
-    },
-    {
-      "titulo": "La CGT encabezó una marcha al Ministerio de Economía por las familias endeudadas y las pymes se movilizaron contra el cierre de empresas",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOejRhRVFfSmIxRXdmcmtGSkVyOW5lVDlaRGZaWVZQMXRVaGlYOHpHdlRLVHBoR09FRU95TXJkaDVVaUFBQ1QtMUszSEJfMmhReVppdW1VREczMm9mcjBOV1ZJWTZocEEwb1FOTlBVNEhFN0puZ2lHZnpjQlZ1dXNVZ0ZRUXFGeXFLR2xhdTlZc3owc3kwTzVPcTlBV3pHWTlQaG5ibHBzQmJxdkkwejk0cVcxR3J5d2RlbHp6blZJTGNJbEhJQ2s3eHBqWHZfcEVOVC10MnIyZUxrczM4M3IwZnB1R1lhUW1jOS1mWGRB0gGCAkFVX3lxTE0yUmhrcjFaWk94UzlXZ3h5eEdKNXFtcUNQWmdkS1JzbGJhX2l5M1FURkxoNTRGLVNVY25wUDNjY2Y5czQ0d1NwT0o1NkdwQ0JVWTF2bTlOSEFUb2s0TTVnT2RiRG8tS1B4b2tlQUJpbm85UDlpQ1RRNGVkSmhoa1ZDaUhRUGU2SnJzdE4yUTZxa1A2Y3FPbnY4S1FERndmNTlzM0FJM1NicFhxMWtnT1dmamdlQXVvVHNFTDM4b1poWnFlZ1lzSUxSUWRqWEFCX3JJc1d0cXZMcWFOcGVhTVBnZWhFWVpGNzV3amNoclhxcUx6enVpdGZkRy05Z2hsbEZGQQ?oc=5",
-      "fuente": "TN",
-      "fecha_publicacion": "2026-08-20",
-      "seccion": "nacional",
-      "etiquetas": [
-        "Economia",
-        "Producción",
-        "Finanzas"
-      ],
-      "imagen": "",
-      "descripcion": "La CGT encabezó una marcha al Ministerio de Economía por las familias endeudadas y las pymes se movilizaron contra el cierre de empresas&nbsp;&nbsp;TN",
-      "relevancia": 5
-    },
-    {
-      "titulo": "La economía argentina no despega y ya amenaza la reelección de Milei: qué pasaría si las elecciones fueran hoy",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTWJEY3FHMFRndWFhUWVPcUJ6dFc1VWtRTHI4ODhlajN5eHZpbXVrZlBhR0ppLW5zUGZjRGVCNkJFbllhcG5PemllSWhHcFpTOGlwOC1YWE9RUDZOU2JLY3dlYURqY01Zd3NiOWFPczNRX0c3OWFQMVd6ZFB5eGRobWYwckR5Y3k1bTJWMWtKV0steG42bVYtdFF4QjU4LVhLSkRWb2M5a2duRTUxa2lJT3hsRQ?oc=5",
-      "fuente": "Diario Financiero",
-      "fecha_publicacion": "2026-08-20",
-      "seccion": "nacional",
-      "etiquetas": [
-        "Economia",
         "Política"
       ],
       "imagen": "",
-      "descripcion": "La economía argentina no despega y ya amenaza la reelección de Milei: qué pasaría si las elecciones fueran hoy&nbsp;&nbsp;Diario Financiero",
-      "relevancia": 5
-    },
-    {
-      "titulo": "Ni Vaca Muerta, ni el agro, ni la minería: cuál es el sector de la economía argentina más competitivo, según The Economist",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQY203eEQ0WW9ubTdKUDI1bkQ2S2FtZFJqNlhZMlNNekk4Q1BXSnJhXzZxdjdfMlhIRjlCUTNlUjFjWFJqNVN1VWdUb0J2Q29mZmxxSThxM21PanZqckd2VWtoUDJTWElGbUUtSVNzVnFsVkg4TWl2ak9YYUdwNlpNUVBxYXVWZUF3c2hkMTY0cG1waGgyN1ZJUk1uTlFNaG4tVHFtdV94MFUtUlV3TEVjSlZYbGhUczBEVGlPSVM4TXdQZXpjc19hU0MyUkZrbTFvQV9jZ3U2cnBjREptSWFaZm9xRnBfVzdLWFdiNDZYQy03ZlBE0gGPAkFVX3lxTE5FN1Vqb0tSc21rMEtidGNIWU1PcDVlYUxJdXlPbnRrNXVOeG1FWFdjaVZxclNhdFhFb3NNR0szLVlYLWZFZUt6aHVwTWl4ZGt5M3EzOFdyeWdUaXRnY3N4Sk1SQ1I2NUc2VnVqTkJfOUV2a2RSeVY5Y0lSUjdIbUpwYWk5dmV1Z1Rya1VzTE9Jd3J5emZpQ3V4MzRzbzFqd1FYREJ0bjJ0anpPT280bmVXUHpsSjBIb2ZHc1pPMHFubkktVjZMeGE4ZTV1dkVfRG8yMHIyZUtZYWs1eTYyRC15ZU1WVnpVT0dsZjFxTHJOUEQxZWFFWFM1V2VsZUppMEliQkpRUWxlOVNtcEpKVlU?oc=5",
-      "fuente": "Infobae",
-      "fecha_publicacion": "2026-08-20",
-      "seccion": "nacional",
-      "etiquetas": [
-        "Economia",
-        "Producción",
-        "Vaca Muerta"
-      ],
-      "imagen": "",
-      "descripcion": "Ni Vaca Muerta, ni el agro, ni la minería: cuál es el sector de la economía argentina más competitivo, según The Economist&nbsp;&nbsp;Infobae",
-      "relevancia": 4
-    },
-    {
-      "titulo": "El presidente Javier Milei defendió su gestión y sostuvo que cumplirá con el mandato de reducir la inflación y hacer crecer la economía argentina",
-      "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQTlFPdE5HZmpGNTZySlJ0UjBqXzhrRkw2NmxwcEdKZkRjdF8yUlNkVDd4SndOWnl4T2s4LWc5SnNaUjJTR1JENnkxa3BGTm12R2l0VjdkTEV4aUI4WjBsamd0UEpJeWRiclF6SU1xQzR3WWJDa09jamJMU0NWbF85cTAwazdLcURiYkRUcVVmTktPdlRrYUdXdjYwQzdxQWs0SXA1bWtNcmVmTzBySTVGdklPdGhnb1h5enFKa0poeWFVNGJzYXFpZ2hCcm1YTjdWWHByRW5pbTZNRjFwcTIzRXA5TFZrT2Q4OHpRYTNYVEhoQzQydGZVeU42WDFHU0lndnJPX2dJQ0N3cDBOMWpNQmpXLUtWdjU3c0NLU2UtYnJrbllo?oc=5",
-      "fuente": "Diario Nuevo Día",
-      "fecha_publicacion": "2026-08-20",
-      "seccion": "nacional",
-      "etiquetas": [
-        "Economia",
-        "Política"
-      ],
-      "imagen": "",
-      "descripcion": "El presidente Javier Milei defendió su gestión y sostuvo que cumplirá con el mandato de reducir la inflación y hacer crecer la economía argentina&nbsp;&nbsp;Diario Nuevo Día",
-      "relevancia": 4
-    },
-    {
-      "titulo": "Agro, petróleo y minería impulsan la economía argentina en el primer semestre de 2026",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNajU5aFQ4T0k2Q3FCRjhZa3h0dzduVm9nZDlpSU8yOFJ3MFZaRkpuUmFKVThSUklRaXNoMkN5eGdZYWlvUXhLZm9EdXdkdnJXaUx0eG50VzNMemJLVXYzQ1BSNlNRYWRTN0NmY1N4UWZIdEdMUERHLVhqLTdwRWliREFNSlB5RUhFWFF4UG5xV25OMGlrcUtzN19KeUdkeDl1VHdmeTZ3MmpDV3Z4UE94MDBRWjNnak5JTWZfcWctNnNEc19wNmJXckJDbUtjVl90Y0Y40gHuAUFVX3lxTE5yOTRXZkNNVEQxZVRGdDdGTVlEU2tQN21oVVFMVENNcURnMHVteU9fNGcweWt2c1QxMmZnalo5MDJCOERMajNmSklIRGdxNW83bEtaU0pKeHdXbjRuU0g3ZnNRUU5PdC13T05KSkRIb1Jlc3pveE8tR3NvZkNoR3BPWURCZUUtM1BPQ3hYS00yNGVSN0dudDBOSi1xazd5ZHdCM0xKd2VIOGtFUmsyZjE2amlMMUgxdzAydW5Ta1E4cGY2UDZGb09WTl9GNTdHOUU1OVBaT3VjRTFJWE9Ec0xhc0h6V2dkWjFoR0IxdXc?oc=5",
-      "fuente": "Infobae",
-      "fecha_publicacion": "2026-08-20",
-      "seccion": "nacional",
-      "etiquetas": [
-        "Economia",
-        "Producción"
-      ],
-      "imagen": "",
-      "descripcion": "Agro, petróleo y minería impulsan la economía argentina en el primer semestre de 2026&nbsp;&nbsp;Infobae",
-      "relevancia": 4
-    },
-    {
-      "titulo": "Milei destacó el crecimiento de la economía y la fuerte reducción de la inflación",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOHlJM3JPbnJ3d1FvdWhWVF9pdVNXeXZkUXhuNE5tVlZqZERqYW05TXp4TlJEMHZIMDd5dlRxNG5TTnJ1UEFhcXlsZlZub0NRTG9pdWZWd0gxSUl0a0pZLTRzaWd0UW4zS0JRZm9vWFlhTVV4SDJjY05abFRFc1NJVEJWLW1odVA0ZUZSdXRwcUxJRUxuR29ZN1Y3bWc1bkZQN3RCSGVQdlFYTjd0aXhlZGY2SDV0dVA1X0k5NHBVR094QQ?oc=5",
-      "fuente": "Zona Norte Hoy",
-      "fecha_publicacion": "2026-08-20",
-      "seccion": "nacional",
-      "etiquetas": [
-        "Economia",
-        "Política"
-      ],
-      "imagen": "",
-      "descripcion": "Milei destacó el crecimiento de la economía y la fuerte reducción de la inflación&nbsp;&nbsp;Zona Norte Hoy",
-      "relevancia": 4
-    },
-    {
-      "titulo": "La CGT, las CTA y la UTEP marcharon a Economía: “El endeudamiento es una política de gobierno”",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRVA5T2xENmF3NXJCTWZLM000RjRJMHVmRlZLQzhHMXlWc01xbkhZVnUyUFpLQW9jQW1JOEZWSVN5LVRhVEpYMVR4b3Bkcm5DS2Uybl9BSHFYcDYxR08zdE9HSWh4c1EwVnRTdklNbE1mWWI0SFdEQnRFc0NSVVpYdjBxazFQMEZTVEZsUzJkRWxLSW9taWpkU19RSld4eUtBV0pLNWxZRHJIUHA1WFY2THNIcVZMVVNmdW00czhpcXHSAcYBQVVfeXFMUEttVXFBalhsMjBSeEhfTmVoa2NnVnotVXZjM0hTWW4tR2xxU2JEamZvQmpVU0x5cE1OcDRLQXQta0JtdV9YMXVhdndpWTFfeXY5X3dvcFVUVjZ6YVkxak5hRlVWRktsVGlnMmF2TzI5ZWFrMm1wa0dkcnBBOEYwWHFEN1VuUEE4UUdVQVVQX1JJQ2VCeEx3VWhHQTFNcnpTR3BWOUUwZHRlVmVjN0xJLXlIYV80WFBxQklCekN6YjVnTjZKSGxB?oc=5",
-      "fuente": "Tiempo Argentino",
-      "fecha_publicacion": "2026-08-20",
-      "seccion": "nacional",
-      "etiquetas": [
-        "Economia",
-        "Política",
-        "Finanzas"
-      ],
-      "imagen": "",
-      "descripcion": "La CGT, las CTA y la UTEP marcharon a Economía: “El endeudamiento es una política de gobierno”&nbsp;&nbsp;Tiempo Argentino",
-      "relevancia": 4
-    },
-    {
-      "titulo": "El viceministro de Economía defendió el ajuste fiscal y aseguró que \"la inflación va a seguir bajando\"",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVndxUks1emtrN0R4SExQYV92VHphMHo4RTZKQmtWUWc5eTlXUGZHc1Z4Q29HNmF1SGxoTGZCSE9nSFVydDJFNFhPQVVWemVsOTZwbWZ5RXlYUTZ0THJ0Y1FvTFV6cjdJMXdFRzFkLXpSV05VcGF5RWNNdEpIOWJYRFRISEVBV0xhQ004NlI5TEh0NXUtaWhHSHRRR2d1SGxNZGxlblM3U0tVTW5UdUdPbm9CdGVvTTZuVW51bFBicFNXUUZTLU1BVUhUd2hKUdIB0wFBVV95cUxNLWNVVEE4ZEpYVTRDdG9ZWHBHVjAwUVNEQUN3S1dOOG1oZmdEeUdZVElDZnl3a2FqWnZyNzk3NkhDUGxZRjhMZGE4dllDY0tmT1hxQlFtQzlVbURWUEUzRTkzLTRUS2pjOHZ4dDlVMnR4N2hLU3NPMjlpcTZKQUVwTUVFVTF6YjNoT0ZnRzF0WmlpUGhFbWF3WHV3Sm56Y1BFelFWcXAzVWNyYnVBWFJCSXM4a3NfUVJDclZtbnlVeFJTcWNQaDduZ3JsbnhFa0hCYWZJ?oc=5",
-      "fuente": "a24.com",
-      "fecha_publicacion": "2026-08-20",
-      "seccion": "nacional",
-      "etiquetas": [
-        "Economia",
-        "Política"
-      ],
-      "imagen": "",
-      "descripcion": "El viceministro de Economía defendió el ajuste fiscal y aseguró que \"la inflación va a seguir bajando\"&nbsp;&nbsp;a24.com",
-      "relevancia": 4
-    },
-    {
-      "titulo": "El presidente de la Cámara de Comercio habló sobre el cierre de empresas: Si ese es el precio, lo acepto",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOTUU1M3hKcFg0V1B2UktVdXNpQnA1SHBwTGJDYmlGdm9YQVNDOHkteTZ5V1FUVlNIdElKUUNyUzVuZnFJYlhkdXdOSEFNb3RkN3dpTXpPYzdHZnNMT3N5TUNwb0hiaWUxbzF5S0FpallRSXFCVUtvYUNjUkl0enhrQWg5OG9YU096TXMwMEVya3VVa2hmZHhSVTVyQnJJclZHUkpyY1NHdnYzOWpWbHNYcmNVTWFYRUxDencxYkNZZ0VCZGdBRzdCOG0xQnRBZw?oc=5",
-      "fuente": "Los Andes",
-      "fecha_publicacion": "2026-08-20",
-      "seccion": "nacional",
-      "etiquetas": [
-        "Economia",
-        "Política",
-        "Producción"
-      ],
-      "imagen": "",
-      "descripcion": "El presidente de la Cámara de Comercio habló sobre el cierre de empresas: Si ese es el precio, lo acepto&nbsp;&nbsp;Los Andes",
-      "relevancia": 4
-    },
-    {
-      "titulo": "El superávit se dispara en la Argentina de Milei un 69% en julio: \"La economía estaba en uno de los momentos más difíciles de su historia, hoy la situación es radicalmente diferente\"",
-      "url": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxPTXlSQW0tTGhlVWh4QjhxVnZPUjJGTldfYUh3dFgxUkJRWlVBbldZOUpYaWpHcUxwdmgyZi1kYkxzTG11RUZMUkhmeVBOZ0czelV5WlI3dEl2Z2c3U0ZsX0pYcHhFMzlHcVltLWxXQUJBS25xNURwYmltZmpsc0JRZXRLVkxqUUo0MFloWUUzaTlRYl9leFdfOW54eVlvN2pxQzJJNnd2RF9JWXVnR19YeWoxZFdkblIzOXF1R3JGQ1k5RlhBMWljbWxPV01PUi1WVk9vUXFhRVg0aXZmRlFfNzZGQ2J3V2JqZHdraGVucFlVWDA4UXBMbmNIMTI0c3ZiSUdYS2ROSHdIb0NPVnBGeTc5emM2a3lBaHVpNUdlakVGb0NwdksyUU9RT0p2Z1BsbHJxWjlxa2U4S0k2bV8wTDk1UUE5QWhGT0ZWVWxNX0dlbGVWZFppOEhjU18wNTRx?oc=5",
-      "fuente": "El Economista",
-      "fecha_publicacion": "2026-08-20",
-      "seccion": "nacional",
-      "etiquetas": [
-        "Economia",
-        "Política",
-        "Finanzas"
-      ],
-      "imagen": "",
-      "descripcion": "El superávit se dispara en la Argentina de Milei un 69% en julio: \"La economía estaba en uno de los momentos más difíciles de su historia, hoy la situación es radicalmente diferente\"&nbsp;&nbsp;El Eco",
-      "relevancia": 3
+      "descripcion": "La CEPAL proyecta que la Argentina crecerá 3,3% en 2026 y 3,4% en 2027, por encima del promedio regional&nbsp;&nbsp;radio3caseros.com.ar",
+      "relevancia": 0
     },
     {
       "titulo": "RDEco: la economía de Milei enfrenta límites por la caída de la demanda y el empleo",
@@ -608,282 +864,17 @@
       "relevancia": 3
     },
     {
-      "titulo": "Milei aseguró que la inflación se redujo y que la economía continúa creciendo",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSkozUWV6cEtpYTZYbjlvbGdqMnFvUDdLQkRmUGZlbUpjUWxlY1ZZR3AxQ25ESld4LUpLc0VuampjNzk3OGpPcGNDQmljc0h6cXJsSkV3NVUzaTdxcmNldGNMbWxMeUhvR2Vjbk1keWs1ZlRSelhxdkh6bDRrZU1HOW1TOXl6U1JrOWxyUzNHMTBxdk9GR3NpTlZBV1h0LXY0Zm9Xa2stQnPSAa4BQVVfeXFMTTF2OGRTUVRHNF82dEdYeElrZGFVdVo5TUxYYno1eFNNbUVtc3JwV3R2RW9TYmZpZnc1VHlJd0MzejJ3XzBUdUhzU3BHaTJVNGZuMHhwRG1xRnlwSl9DZGpYWnBUWDRqSzNoeXJPYW91RFRsZlg4UXdkN1hwOGNIdEtua2N4MllHbW9Za01Fd1hSYUtjUzlWckpNMWRKSnZyeUE3M3FGVjNsZTR3cE1n?oc=5",
-      "fuente": "Somos Jujuy",
-      "fecha_publicacion": "2026-08-20",
-      "seccion": "nacional",
-      "etiquetas": [
-        "Economia",
-        "Política"
-      ],
-      "imagen": "",
-      "descripcion": "Milei aseguró que la inflación se redujo y que la economía continúa creciendo&nbsp;&nbsp;Somos Jujuy",
-      "relevancia": 3
-    },
-    {
-      "titulo": "Milei defendió el rumbo y advirtió: “No voy a parar la forma de reformar y de mejorar la economía argentina”",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOcFZaMFJCaUxyNW5tVWJTRVdHQ1hsaG9JMUVfVFZUUktoUkJobWpnZ2pFR0ZnczVIclhwa0pMU3k1SkFialVDNlhjT1ZybVFQcXBaRDFlSzVaTmVBeFBFMVlOdy1sVjNCUE4wMUo4UW5sX1JiMEU0c052MFNlRGZ3WTIzLXhJQWZ5R2s4c3VqLVZDZnVXX3k5QnRyckJRdG9zYnUxMGVkc2t6eS1MTEwyeXQtQmJ3NjYwQTljNmpncFBhYzdRSGNTWHc0LUpGWWxOUExzQmc2STQzYVN2bGVSM0YxX0xVXzFGRXZVR1JlcUQ5ajMzTUZjT0xQZzJHZw?oc=5",
-      "fuente": "DataClave",
-      "fecha_publicacion": "2026-08-20",
-      "seccion": "nacional",
-      "etiquetas": [
-        "Economia",
-        "Política"
-      ],
-      "imagen": "",
-      "descripcion": "Milei defendió el rumbo y advirtió: “No voy a parar la forma de reformar y de mejorar la economía argentina”&nbsp;&nbsp;DataClave",
-      "relevancia": 3
-    },
-    {
-      "titulo": "Según el viceministro de Economía nacional, la inflación ya no es un tema",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTUZPeHNqTE5qNjQ5UTRFeUtoWmR5U3dIWEZrTXkxamZXc0hYT1cwcDQ1MEJwUjh3VGQ4YTcwLTRhRDZzMDBDdG1FQ3BVYzhjVFB2eDlxdHd1dFJYVEFIZ3g5YW1iSXF6R3h0Wkt1Y1VQa0RfZkk3NnRLclQ1LVNmamxKTzJiRUJsTTlMWGk5MjhSVWE5Vm85M3BhOHdnQzlwR1Fkd1Z3MzJzeS1GUVhfQUlCMG9hQdIBuwFBVV95cUxQWjJxWGhibWFkZU9qR1VuWTYtMDBjZXBNWVFLY0d0a0JxQkd5bjcwbzVCR2tTeDFYQnY2VmMxMk94WWRSNURBRk44a2FEVUdJODJVelBBUFZva1NjRFhxOTVEcnJKUHNKUjZZX2VNMU1FZ2ZmTlRjR2pia3hKNHhMb011ZmptTmwwN21wekExTGdUZTVzVGRITERYd29hYnhZSmZzMnZ0ZFNiY1laMGkyUUdaM1F4MTA4YjJF?oc=5",
-      "fuente": "La Gaceta",
-      "fecha_publicacion": "2026-08-20",
-      "seccion": "nacional",
-      "etiquetas": [
-        "Economia",
-        "Política"
-      ],
-      "imagen": "",
-      "descripcion": "Según el viceministro de Economía nacional, la inflación ya no es un tema&nbsp;&nbsp;La Gaceta",
-      "relevancia": 3
-    },
-    {
-      "titulo": "“Es el precio que tenemos que pagar”: el títular de la Cámara de Comercio defendió el rumbo económico pese al cierre de empresas",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOSzZ1SEpQWm1iRjhta3pFdDJLT1JBUjN3c1ZqT2wzV0ZzS1J4OUY3blJ6b1RQdDQ4UlVoY0I2YS1oV0psaENrSzlsM21MRHlmTFZRc281SDRMcGt2NWxrQlJ3emdWQWxrX245VDlSemNTX1dHeGRlVW5JcmppbGxFTTBIdjlOOXdCRGZSQ1A2d241UWJfdUpsOUV3TTRzQU16bElPYUxraTJFTVp6eTlFNFk2VXJQd1VzS1JMc2RVdUFXNDJJUDg3dVBmRTZNQVlDQ3VHbkdHWVczQ0VUb3BnaXhRLVZYdzdibUxibWNZWmxXWVc1V1ZNWmpxekYwdG1l0gGIAkFVX3lxTE5wM2czOTFha1JUbHdwTkhrNG9YZTNtSWJ0bTJodkJNV3E2Z3hfaTBoQ3ZuWm1COGVNZllUZm5zUG9nc2szYm94ZzJRVU43ZFhBNmJ6TjhRbjhpYnBVSFhvbl95dWFEVUZtaWFRYzcwUUg2bFBWcnpGMVFpR0ItQXhIVTdtT1BIcGFybGlPRUs0UFk5THR3cnpyZTQ0TEJydkVydkNnTFlva1RJOXdVX1dOUGNaZThKZ2FUZ0NFclhGeE1lUmNQYXNLaVlmRFJ0NEUyZzF1aG5aUnR0WVpkamdzRFJOeXVrc2VUWE5uNDVxVnB5NjdfNkxVb3hCdDBlT0p2TXFhOFZRbQ?oc=5",
-      "fuente": "Diario Río Negro",
-      "fecha_publicacion": "2026-08-20",
-      "seccion": "nacional",
-      "etiquetas": [
-        "Economia",
-        "Producción"
-      ],
-      "imagen": "",
-      "descripcion": "“Es el precio que tenemos que pagar”: el títular de la Cámara de Comercio defendió el rumbo económico pese al cierre de empresas&nbsp;&nbsp;Diario Río Negro",
-      "relevancia": 3
-    },
-    {
-      "titulo": "La CGT vuelve a las calles contra Milei y marcha a Economía por el endeudamiento de millones de familias",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQbHhIYm9MY2Z0OWxIWk1GdkxrSGtpNXBGVURzUHNyTmVDU3pwLTR2bUloLVYyZXNCUlBqR3FwZTJLeWFISXZRWmxnMEV2Z1VsMmUtdzNvV2xKcHdqRWhIMDVlRndmejczeWQ2V2VYM3N3M0g5LXNHMFlkczJaXzNWdjNpdlQ5UW9heFdUNnVGc0dDZ1NrVXJyUVc2SnppbVRwRGk4QjdqZDdVaTI2Vk1PelRxZEFIaGVWLTQ1UUtQNzlEM0xmb0tfWW1seEZYX2IxbTJxX0FudkxremZuYVUwRktKZ2NBUdIB6wFBVV95cUxPUGtGdml1bjE0bDR3elZxaXlycGN1Z1R3LUJKYUJVMXZrQV9JVTRGVUhBbThjNUVFTTZoRzZMQjJGeHZ1ckEtZDFGNkI3V3JYaTBWSFRsQTlrZVFNMXUycGRiemRaMmJudlJ4T2J6X2tzNS0xV1NhbFdOR0Z2TTVPRGFIVVVueXZaTmgyZGNBSnhJY0VaV3UtMVRCLVpsVXJzZzFhSWN6OFYtOHUtaDlKc05OV2I3MTJqWkFYSkkwTTV3V1h2eTZGelJHNTVQVXh1M09JWS12VlpKRUNhR2QwejdIRXNtWTRPNFFn?oc=5",
-      "fuente": "Perfil",
-      "fecha_publicacion": "2026-08-20",
-      "seccion": "nacional",
-      "etiquetas": [
-        "Economia",
-        "Política",
-        "Finanzas"
-      ],
-      "imagen": "",
-      "descripcion": "La CGT vuelve a las calles contra Milei y marcha a Economía por el endeudamiento de millones de familias&nbsp;&nbsp;Perfil",
-      "relevancia": 3
-    },
-    {
-      "titulo": "Milei aseguró que la economía \"está creciendo\" y atacó a los \"empresarios prebendarios\"",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTnp1TkNlZHhSbHhUZXhobjZVaWR2VlUtT1RFVmlNWDc1aTRETU4tTE5fcmxoNjBhdGpTRldPd1dORklvUTFRTG1BUHY5dUtoalZjdVZydFQyTVhLamRIdUV1VlltTFk0dl9oODBNN2VUdHphVUVMSDlsZnVabDRlSFhMdF9IT2VxeEhhdmFnVnY1TjJBdll4QXhmS3lmWlhhc0FxR2VMTEdhX3dnWjQ2dWEwcWNoMFI3X1lxT3hwY2NjSWs3Z1J1ZjR2a9IBywFBVV95cUxOTnp1TkNlZHhSbHhUZXhobjZVaWR2VlUtT1RFVmlNWDc1aTRETU4tTE5fcmxoNjBhdGpTRldPd1dORklvUTFRTG1BUHY5dUtoalZjdVZydFQyTVhLamRIdUV1VlltTFk0dl9oODBNN2VUdHphVUVMSDlsZnVabDRlSFhMdF9IT2VxeEhhdmFnVnY1TjJBdll4QXhmS3lmWlhhc0FxR2VMTEdhX3dnWjQ2dWEwcWNoMFI3X1lxT3hwY2NjSWs3Z1J1ZjR2aw?oc=5",
-      "fuente": "diariopopular.com.ar",
-      "fecha_publicacion": "2026-08-20",
-      "seccion": "nacional",
-      "etiquetas": [
-        "Economia",
-        "Política",
-        "Producción"
-      ],
-      "imagen": "",
-      "descripcion": "Milei aseguró que la economía \"está creciendo\" y atacó a los \"empresarios prebendarios\"&nbsp;&nbsp;diariopopular.com.ar",
-      "relevancia": 3
-    },
-    {
-      "titulo": "Javier Milei: \"Mi mandato es bajar la inflación y hacer crecer la economía y lo voy a cumplir\"",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNby1DQmtuNUh0aUVWZ3hCVUdONDdRbDBvUlNMTThIdVI5T3RJNDJGMUJDYjlkX1BIcFlBc1dNREVrZDktQmZ2dXdjUHVCd2kta2NKSGNhZzVzU0QtX3ZNUWxDb0RTdEZ4OHlCSXFlQzRHdy0zdzRkMEVmUUxEN2NIcUthd0lqMnRqMjI0NHN6MFJ6bGdSeTVhanJMWHJ2N2dnY2RDSF9aMV9fSjdrUmd1Tk5XejdqZXVBTHpmeXl6aVpTUGlNcUdiLVRpVHJjREpFdE5vNFZ3?oc=5",
-      "fuente": "Aire de Santa Fe",
-      "fecha_publicacion": "2026-08-20",
-      "seccion": "nacional",
-      "etiquetas": [
-        "Economia",
-        "Política"
-      ],
-      "imagen": "",
-      "descripcion": "Javier Milei: \"Mi mandato es bajar la inflación y hacer crecer la economía y lo voy a cumplir\"&nbsp;&nbsp;Aire de Santa Fe",
-      "relevancia": 3
-    },
-    {
-      "titulo": "La CEPAL ratifica su pronóstico de crecimiento para América Latina en un 2,2% para 2026",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNGdnN196TTZDX05VSll1b3VmTVpLbUtmWFE0bV85QTV6SF8tRU9EcHI3R2pVRG1qM01tVUxVRjI2RDhpdE8wSHJrVXFEamxPZFhLZDdNaWRsQnBrdDhnYUluR1VqRmwwTFJMRTVZVDhkS0xISW9HbkZic19PU2tpaVhUQkVKUFJSaUJkRGVJaXFNUG0tSVMyR1VpdnY4Yl8taEd1UXRrNm44bnZK?oc=5",
-      "fuente": "ABC",
+      "titulo": "La CEPAL proyecta que Argentina será el país de America Latina con mayor crecimiento entre 2026 y 2027",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNG8zMktzRDFLRUtZUFRSX2F3S0JhdWIzdUhJcmpySFhPRGlwcWFSbno5QTJmUXBfWXBqdG0tTUEzanhZdWltYVIyRTFUODR6VHNVSWNiTDAycUdENVNNNHR2MW8zemdOUTMyVnNEVEYwdFlScFhfQzJBZ0VzMmtaQlI2cVBkUkh0OEpZdWs3T015SXRUS0JadFgyUHoxRzFqYmUyNWNJNzZhWWlEbjRMS045YlRDZnhQYTFDWm5ocS1aTXVvN2pVTWJ5cm05RHVaNWJvOGo2NNIB0AFBVV95cUxPa0FvWnVNQjVBa1B3MWFGYjA1aGV2WU5oLU1wRjIxSTVpaE41ZTNQWUc3MUVkOFg0ZlhJY0FWUUpTb0Z1aGt2b3NjMnN5LVBXb3JPT0pLM2VnS3Ztd0RHRWxKbGo3UTU2eTl5N1hoMnlYaUE3bm1yQ2xUMFZ0dFN5RGdqbVducWN5RGdDbkRMWF9XYVVwX1RVZFBSWVp3ZUFuTXRPSDUwRk5scUxFVG9OeWhkbnhnQXpWaC1RZ25aTDZXN204MVJqTU5IeFk4Zmhh?oc=5",
+      "fuente": "BAE Negocios",
       "fecha_publicacion": "2026-08-20",
       "seccion": "internacional",
       "etiquetas": [
         "Economia"
       ],
       "imagen": "",
-      "descripcion": "La CEPAL ratifica su pronóstico de crecimiento para América Latina en un 2,2% para 2026&nbsp;&nbsp;ABC",
+      "descripcion": "La CEPAL proyecta que Argentina será el país de America Latina con mayor crecimiento entre 2026 y 2027&nbsp;&nbsp;BAE Negocios",
       "relevancia": 1
-    },
-    {
-      "titulo": "Visa lanza un programa para empresarias en América Latina: \"Las emprendedoras no buscan solo ser escuchadas, sino herramientas\"",
-      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPWTVYOF9HRG5oTkt4LVRodWRnRUg5bXFCLXBDa0lUYnc5aFc4dTBmWjA0cDBXWjNwV3NDWjhPY09vb0lmaVlYME91X2JTUHBLa05zdWVwZjFMOGV1UWx4cnRBbnBISDJza3hIaVF2UVpKeERFTFNFaTJ0c01iRWZINzBac1k1ZFgyUWlvVGJHOHNBbnR6VWtFRmVTaFNYSkdUR1VuYlE3a1lMOTNFSDZ2SWRXZkNrRlpMNFFlY29HQ1d0MS00aG5Ra2VwV3MyOG9mOEVZZ2wycnVrdlNvT3Rtd3oyU1UzTV9ROEtRMDBFMEFkSVdrSW1zMGZxNmFqNlgyRU1GZE5ubFZrRG_SAZACQVVfeXFMT0tOYmIxUzhQRGpkQ1RuR1hpMTkxWXVaQmQ0YXhrWUh4eUFQZGhOd1RfVHpkc3hhbkR4UTE5dk1DV0xBNDZobElRcUsyQmFZYURPT0VHbHJOZEpSRzlPMFZzd0xLbS1tSU9wM291Z2VHZlVDcXNxbTlnSFdmOEJjSUd6RDk0dV92d29nQ0ZJallRLXJNclU5UFdUSmQyRDNMekJhOTFwT1JxS25MNlZOY2tITHhCaWxqUmpXaGtUZXh2ekdYSUVfY28tLWtwRUpVZWNqRmZvMVdxS0tRZXN1U2p4N3dNX01xelBGYXB4NkV6MmpmbjBVdW9fVGRWYkNZMzVJVGxzcE5pSllSY0VtWDg?oc=5",
-      "fuente": "El Observador",
-      "fecha_publicacion": "2026-08-20",
-      "seccion": "internacional",
-      "etiquetas": [
-        "Producción"
-      ],
-      "imagen": "",
-      "descripcion": "Visa lanza un programa para empresarias en América Latina: \"Las emprendedoras no buscan solo ser escuchadas, sino herramientas\"&nbsp;&nbsp;El Observador",
-      "relevancia": 1
-    },
-    {
-      "titulo": "Cepal sitúa a Venezuela al frente del crecimiento económico regional para 2026 con un 6,5%",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOME9kRVhVRkJ4LTFOUjVCcDlLOEI5aGhMeGNVQkZ0RlE1TklZQzR6MjNMRm42MERSSzdOYWJlNzVGVDBKNDdxVjk5eXRWY2ZvUnowSzBkaGdrZjAtYU81M2Vsdmo5MDQtcUFORDE3Vl9leTVEbHJDZXdkOWFrTFRka3J4cUQyeHd2Z1daQzhUcjBZbVpseXFVWUUtaXRaN2dkUWJNc0tfT0RTZnNDbzhEY28xS1NrZDNpZV9TZ3NaT3lUZlBOZjh5TEhJMGRsaW8?oc=5",
-      "fuente": "Globovisión",
-      "fecha_publicacion": "2026-08-20",
-      "seccion": "internacional",
-      "etiquetas": [
-        "Economia"
-      ],
-      "imagen": "",
-      "descripcion": "Cepal sitúa a Venezuela al frente del crecimiento económico regional para 2026 con un 6,5%&nbsp;&nbsp;Globovisión",
-      "relevancia": 1
-    },
-    {
-      "titulo": "México está entre las peores economías latinoamericanas en 2026, según la Cepal",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQU54SkVKMVJMZ0ZCcWtOR2JoN0dYYVFUdGxxendEZVJQVFctamFVRURxM0VuRGdPNVM0OWdMVWJNaUNIZ1NEWm1icnBoVDVBb0t0V3ZNay1PWTFTUkxxLUJwdTBSWURTZnc3NW9pYnJWclc4QUxzMmIyR2t0enpjNk0xYS1US0QtUzVuMk1TQmhKTHNwREtMalZQVzJnYVk5LU5xNVF0VVNidFkxaUVIbTZkUmxtMGpTVkhJTEpaMVXSAcABQVVfeXFMTUFOeEpFSjFSTGdGQnFrTkdiaDdHWGFRVHRscXp3RGVSUFRXLWphVUVEcTNFbkRnTzVTNDlnTFViTWlDSGdTRFptYnJwaFQ1QW9LdFd2TWstT1kxU1JMcS1CcHUwUllEU2Z3NzVvaWJyVnJXOEFMczJiMkdrdHp6YzZNMWEtVEtELVM1bjJNU0JoSkxzcERLTGpWUFcyZ2FZOS1OcTVRdFVTYnRZMWlFSG02ZFJsbTBqU1ZISUxKWjFV?oc=5",
-      "fuente": "Cambio de Michoacán",
-      "fecha_publicacion": "2026-08-20",
-      "seccion": "internacional",
-      "etiquetas": [
-        "Economia"
-      ],
-      "imagen": "",
-      "descripcion": "México está entre las peores economías latinoamericanas en 2026, según la Cepal&nbsp;&nbsp;Cambio de Michoacán",
-      "relevancia": 1
-    },
-    {
-      "titulo": "Cepal recorta a 1.3% su pronóstico de crecimiento para México en 2026",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSTBLeUdpQUJDOThaazBXdTV2MDJOZEFUekNjYzdqcnpraUlvV1FKRDhIMUtCX2pOREN5eW5SS3pLYXVrWkQ2VWVXY0gzUEFXLWdNV215NjJ4ZWxxd09xZmZfQ3AwNkNTTHJ4VGxFekVTNDhCcm5EVXNwckw0UUtLdU1JaUNIbTlqcURoV2swZkVTbTRET2huSU16ZTZFY3pFYUFWSE5UWQ?oc=5",
-      "fuente": "Fortuna y Poder",
-      "fecha_publicacion": "2026-08-20",
-      "seccion": "internacional",
-      "etiquetas": [
-        "Economia"
-      ],
-      "imagen": "",
-      "descripcion": "Cepal recorta a 1.3% su pronóstico de crecimiento para México en 2026&nbsp;&nbsp;Fortuna y Poder",
-      "relevancia": 1
-    },
-    {
-      "titulo": "Cepal revisa proyección de crecimiento: 2,2% en Latinoamérica y 1,6% en Chile",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOTzBvS2pONFFTREZYRm1FTlBoU3RwNm13WTMtNUtvYmdjenFtRVd1ZWszSDVHeWFJT1Fzb0c4VXM2clFubkVzdTlGYXREQ051WmZyWDhkckFkVllXY19qYVVabW5DMWM2YkFrQ2UtVDdaT1N3TDI0T3J1XzJWYW5XYzdJcTlaRDdJU2ZobGJDVkpXTk9LM1d5U013bWNFdFVTTG5LM2dpRjExZ0lITlE2VG1pZkltMUdDX25fNF9Xb2RLR1cxa2NxdlFaa0ZtQjF4LWZUYVV3TFpNbkhBSDVOOU1n0gGMAUFVX3lxTE1XYkFGMU45NXpHS25MN0htd2pLbjhNc0d0R1BjeXZkZkRBcnk2R0h3YllqcWVvS29BME1sdVdkNXd3OUpRUTFRc19yZ2F4bENVem5PcjBobHZ3cFNCWk9NcHBUVW55eDZuZHRrOTlmRHVDMWRFQlhSR0RGbFlYM1FyVnpRZFVOUHZtUkNZ?oc=5",
-      "fuente": "Cooperativa",
-      "fecha_publicacion": "2026-08-20",
-      "seccion": "internacional",
-      "etiquetas": [
-        "Economia"
-      ],
-      "imagen": "",
-      "descripcion": "Cepal revisa proyección de crecimiento: 2,2% en Latinoamérica y 1,6% en Chile&nbsp;&nbsp;Cooperativa",
-      "relevancia": 1
-    },
-    {
-      "titulo": "Cepal ratifica un 2,2 % de crecimiento para Latinoamérica en 2026",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNOFc1SEVmVVRhUGlqNFV6b3pabnh3a3J4U0VoZTdqZnJld1hkLWU1TnMwczhybDhoZ1ZFYTRldXAzYnlKVEstSFJJQ1BrSHJxY2pqUlJ2X09ITnQwbmJJNnE2YmpnSTk1aHp1bVFHQVpvbi1fdzJ4aEtCcEFkQVNRQUhLWXlHXzcxT0c0WEJOaDJYMFB0Y1E?oc=5",
-      "fuente": "radioamerica.com.ve",
-      "fecha_publicacion": "2026-08-20",
-      "seccion": "internacional",
-      "etiquetas": [
-        "Economia"
-      ],
-      "imagen": "",
-      "descripcion": "Cepal ratifica un 2,2 % de crecimiento para Latinoamérica en 2026&nbsp;&nbsp;radioamerica.com.ve",
-      "relevancia": 1
-    },
-    {
-      "titulo": "Cepal estima que Venezuela tendrá el mayor crecimiento económico de Latinoamérica",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONUZwd1pDVlFiYzFqcTRBZEI4dnIxZkZEZXZETHkzZlhENFNIa2lFOVJ6S2tUU0tBcG10TjZ0ZU1ZOV96NFV3aTZON0ljdTV2aWRoU0d2MlRiVWpYNUZfM2JlaHV6QXZWcng4Y1BlVkRpUXJQOF9CYUkyUW1JZUI4bnA1dXREdHdncUFnaTFzbXRQWjU5dllnb185WC1JYVJkVkJBOHQ1bE1kQkQtOHNHTWl5cm5VaFY0V0pqQnZhbHVvQQ?oc=5",
-      "fuente": "EL UNIVERSAL",
-      "fecha_publicacion": "2026-08-20",
-      "seccion": "internacional",
-      "etiquetas": [
-        "Economia"
-      ],
-      "imagen": "",
-      "descripcion": "Cepal estima que Venezuela tendrá el mayor crecimiento económico de Latinoamérica&nbsp;&nbsp;EL UNIVERSAL",
-      "relevancia": 1
-    },
-    {
-      "titulo": "Neuquén recibió ofertas por 8 nuevas áreas de Vaca Muerta: cuáles son y quiénes integran las empresas interesadas",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNWWFfR201M3JmR0l5NXFFcU9kX0VWampOa3BYZkFaY2lSTTNTZzY1QWhZNnZONHhYLTBWcGJYZjVGNDFLNXFBR3NmeEVQZ21IeEE3U3RMamN3NmNRakNDTkg4N0xaMkJfOUZ6ZlZORDlYMUxsS3RWVUtpZzAyRmZnRmVhN0l3MWl6enZXeHRBeTRXV1VhMVNwS0FpN3NzanN4dGExYVNOUENZMy1YTDB4REZxRlFHc2NXQ203VDVscFRxYThDUno1Vmpna0ozbS1QU3NDWmhVZUNKQ0hWU1ZIQ3dtcW4tV2h6SkdtUGpn0gH2AUFVX3lxTFBybnNMNjVxd2dBaWl1Vk14R0Y2WDUteWJFSC1YMEVrYzc4SWE0RjRFZkswRW9BVW12Ym8xd0pUeGVGYWE4UldNN3dKem90NThFVFV0WkJrS0VsLWtmNDU2aWVtc2pGRFBibU1vdWJLR095bnpadk1odU5Oc25jYnFEek40OXJnM3U0RXdwbGZpNUlSX09IVkpBNy1hOGJCV0d5eHBQY3RlRklUbFp2WmhZR3ItMWtRSnF0Ym84cW50WEtQTl9haUFWQVM3YThXa2xzM1J1aWhicjBvLTIyXy1ZVEJmZEdWU2czcTFnODlMYlN1cGhHQQ?oc=5",
-      "fuente": "Diario Río Negro",
-      "fecha_publicacion": "2026-08-19",
-      "seccion": "provincial",
-      "etiquetas": [
-        "Producción",
-        "Vaca Muerta"
-      ],
-      "imagen": "",
-      "descripcion": "Neuquén recibió ofertas por 8 nuevas áreas de Vaca Muerta: cuáles son y quiénes integran las empresas interesadas&nbsp;&nbsp;Diario Río Negro",
-      "relevancia": 4
-    },
-    {
-      "titulo": "Otro RIGI para Vaca Muerta: el Gobierno aprobó una inversión de u$s6.400 millones",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNelJxYlVxX1U5Z0lWMy1lYmNpajMxSnJjckxlQUF4NjR3RGNrWVRlNWZ2dVVsS3ZweXUzTzgtMTNsOHNKSkJLdmF4VmxyMnVOX3Zsajh6UW9XSXM2WWpJMUg4MzRSMGVCUzNUdjlqRXVFYzNaZG5acUJNTHhYUjFrSmh1ZGRWQnZRTmpOT2gxNkJTR1VneGFPam5Zc1EwLVhxTGQxTVIzTm9PajVmSlk0?oc=5",
-      "fuente": "Ambito",
-      "fecha_publicacion": "2026-08-19",
-      "seccion": "provincial",
-      "etiquetas": [
-        "Política",
-        "Vaca Muerta",
-        "Finanzas"
-      ],
-      "imagen": "",
-      "descripcion": "Otro RIGI para Vaca Muerta: el Gobierno aprobó una inversión de u$s6.400 millones&nbsp;&nbsp;Ambito",
-      "relevancia": 3
-    },
-    {
-      "titulo": "Diego Santilli se reunió con el gobernador de Neuquén y sumó apoyo a la eliminación de las PASO y a la reforma del Banco Central",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQQkM3dlVSd1lqQ1N4bjl2RDQ4d1hYOWxhQzlMS0FMUXpMOHNIZ2E3elRUM3c3SGhKUUM0ckhQbFdQN0NQMDd5TW5hTktyczZ0Ymt2SzZQWEc0ZHo3SVpiODE1ZTNTVktDbEJTdlphTzBUWFFSTHpqUllBd2FKa2l0Q2RNaHRQeVBCeUo0NUotQjRycWpxVGVWaFRGX0p2clNrSGhXVml2MGlZWXd1Wm9ESlVHbVZlTS1pU3NnMjNsdnR0MFBJRG1iS3IwMVJUc2c3TDZLSWl4bXhKaktZc0NjckhPQnpwcVc1aTlRcGdrTkNGd9IBhgJBVV95cUxQdUpQZ1VMb0o0dERocDJRUHoxdjM4UWRJcHNHdEY3RmFPT3BuR1Q1ZFlUTGQ4dFhlZ0RTaUxzU24zdFlhRzZ2RUtpb3lZVDZZVlFLZkItM2lXVFBvZ011MXJpeDZrREVsUEw2c0ZJeXVoN2QzU0NHbDc2OVY1Z185eXNoQkFITzF4dk9oc083ZHJLbGs4eFdXYS0wRGdrTjk3UW9JZHBIMWFYemRHM3c5OTA3M1ZfYTZSbGQwRTRLb3BXcGhpQjFLdTVYY2JFSGNyX0F0QTJyNHZnN0JSVWpaVWR5ajREaGtrblBPN044RW5fUVBtOGRPMG1WQkFxeHktQU1MbC13?oc=5",
-      "fuente": "TN",
-      "fecha_publicacion": "2026-08-19",
-      "seccion": "provincial",
-      "etiquetas": [
-        "Economia",
-        "Política"
-      ],
-      "imagen": "",
-      "descripcion": "Diego Santilli se reunió con el gobernador de Neuquén y sumó apoyo a la eliminación de las PASO y a la reforma del Banco Central&nbsp;&nbsp;TN",
-      "relevancia": 3
-    },
-    {
-      "titulo": "Inflación, créditos en dólares e inversión: Javier Milei expondrá ante empresarios para disipar dudas sobre la economía argentina",
-      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOUk5PQXVtYlRaRDJRXzZ3cFJwSTFLNFRaR1ZDclk1ZU16eENldmNVNnAycTdxYUtLdUtrZ05wUlJiRFpyZ2ZjMVhaZ01GRHVuOUd1UWs5d2Rua2ZNZXVhVjNwZVF1bDk1T2ljUzRVZzJLaWRDZnkzeTUtTXFRUkdlTmtabFF5TXZrOHFiQ2F6VWdrQ0VsMUZNYjFxOWg0RXk5eVVKQlhKd2J1YUU2V01KcXllUjN4UXJlSW10Z0VwaDNLQnJrSHY4Yi1NbzdudkdvYVl4dUtVQ3UxaENjTUJoeWZuaW83TDI4RW4ya1ZmRDdNR3Q1elAtd0h3N3F5ZTFqWlE?oc=5",
-      "fuente": "Canal26",
-      "fecha_publicacion": "2026-08-19",
-      "seccion": "nacional",
-      "etiquetas": [
-        "Economia",
-        "Política",
-        "Producción",
-        "Finanzas"
-      ],
-      "imagen": "",
-      "descripcion": "Inflación, créditos en dólares e inversión: Javier Milei expondrá ante empresarios para disipar dudas sobre la economía argentina&nbsp;&nbsp;Canal26",
-      "relevancia": 6
-    },
-    {
-      "titulo": "“Tenemos dólar para rato”: el diagnóstico de Emilio Ocampo sobre los riesgos y el futuro de la moneda que más obsesiona a los argentinos",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQTEt6aVpRaUtmWmJZa2xrMVl0YjV0TVh1c0NSLXF5MW5aa3ExYkU5aG5SckE2QnZmcGxHWlN0bWxnN05NMnhrSVlRWExBVEpWUzFWeVRRMU9ValZlXzdrbGRtcnMzV0xPVVN0azU3MmVkM0tmVE52N0FaZ2ZZbF9penFHdzBmczlBc2pmaDdUekk4aG1wQmlpZ1QwRHZQVUVWbTMyVWtkcEJWTTJ2bkxKWnF1ajlNZW92RThrclNSYzlWazM4ekFUQ0txQzFTTWV4T3VhVUlZcEoxUFNCdUNrbUF3?oc=5",
-      "fuente": "La Nación",
-      "fecha_publicacion": "2026-08-19",
-      "seccion": "internacional",
-      "etiquetas": [
-        "Economia",
-        "Producción",
-        "Finanzas"
-      ],
-      "imagen": "",
-      "descripcion": "“Tenemos dólar para rato”: el diagnóstico de Emilio Ocampo sobre los riesgos y el futuro de la moneda que más obsesiona a los argentinos&nbsp;&nbsp;La Nación",
-      "relevancia": 2
     }
   ]
 }
