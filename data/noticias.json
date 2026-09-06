@@ -1,19 +1,438 @@
 {
-  "fecha_actualizacion": "2026-09-05T12:01:07",
+  "fecha_actualizacion": "2026-09-06T12:19:02",
   "noticias": [
     {
-      "titulo": "Neuquén busca en Houston nuevas empresas y tecnología para Vaca Muerta",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcDJENk85dTZ5Q2JoQWpJTnpfampuM1RMbXMzaTZRaG5HNVhLUjU2b2I3TkhYNFhha2YxclRfQmlqejdJZERoMEd2SGR3NkRlSC1MZFFNdjdaR1JaeFBydGdWYzZXSGx5U0t1SWZxd1IzMi1lM2F5ZVVUVFNEQmlWVnVkZkdYaGRUeVM2VXN4V1NmdmtzSFhDQndLV2JnY2JST3RV?oc=5",
+      "titulo": "Vaca Muerta tiene trabajo, pero cada vez exige más: qué perfiles buscan las empresas",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQ19xMHlPX1JsMzcwNWg2UnhDd0d0Tk9wNFZlLTJwUFkycnYzcDQwMDhodWpsa28yd2pVTXRxQlVlVDVMbHkxakJoRGZIbmVCejc2SFB0WWdNcEt6al9BbmlwRDc1X2lidzBBc3JLUjJ2MnJNTlhmc25DZWM4amlNTVZxRFIyLU9tY3NUeXJlZTJRMXBaS0NvLWZ2RDlUWUVxdExCLUUtVF93ZE1qUDBSRGJWcFBPM2tqOGNmdTQ2RGs?oc=5",
+      "fuente": "Neuquén News",
+      "fecha_publicacion": "2026-09-06",
+      "seccion": "provincial",
+      "etiquetas": [
+        "Producción",
+        "Vaca Muerta",
+        "Empleo"
+      ],
+      "imagen": "",
+      "descripcion": "Vaca Muerta tiene trabajo, pero cada vez exige más: qué perfiles buscan las empresas&nbsp;&nbsp;Neuquén News",
+      "relevancia": 4
+    },
+    {
+      "titulo": "Neuquén lideró el crecimiento del empleo privado registrado",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWDRrTGgzUTVyWE96SDJEc09JU3VXdkxKZ0dPZGRnUEotUHhnZlpCQzZjR0dySWhCQW1MY3d6UVlYWlBVdnplMjNYdTFEcTNOSEc5SUQ3TExqZzRjbWhlWXZybWttaF9XX05ZUDhYYXhZb0dUVmhjMndSbXlydlJ3MHBLNTI3OENIRWVkMTZpUXJnMmtZ?oc=5",
       "fuente": "Diario Neuquino",
-      "fecha_publicacion": "2026-09-05",
+      "fecha_publicacion": "2026-09-06",
+      "seccion": "provincial",
+      "etiquetas": [
+        "Economia",
+        "Empleo"
+      ],
+      "imagen": "",
+      "descripcion": "Neuquén lideró el crecimiento del empleo privado registrado&nbsp;&nbsp;Diario Neuquino",
+      "relevancia": 3
+    },
+    {
+      "titulo": "Neuquén lidera el crecimiento del empleo privado registrado en la Argentina",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQajRvd05ZVElBc0IyMGFBaGZoT0xBUi1pTHJHWGpfRnlVMDZNalMxeGFCV1NiRnZwNl9yeXNmcXpCdFI2aUZBczhLTVhxQ0p6R3NFcmhDVzJjZ3VuQ1FONWNMYkRZN2R6dXVsYV9xckVWYlhaX3VORXhOZzBhS0s1ZmdTc3pMTDhkN0pDS05ULWZ3N0NHRHp1NFplSXd1NVpxYThjZW9nUE5fUE1tTjh4SDQtcG9YWFJmV1pr0gG7AUFVX3lxTFBqNG93TllUSUFzQjIwYUFoZmhPTEFSLWlMckdYal9GeVUwNk1qUzF4YUJXU2JGdnA2X3J5c2ZxekJ0UjZpRkFzOEtNWHFDSnpHc0VyaENXMmNndW5DUU41Y0xiRFk3ZHp1dWxhX3FyRVZiWFpfdU5FeE5nMGFLSzVmZ1NzekxMOGQ3SkNLTlQtZnc3Q0dEenU0WmVJd3U1WnFhOGNlb2dQTl9QTW1OOHhINC1wb1hYUmZXWms?oc=5",
+      "fuente": "Lmneuquen.com",
+      "fecha_publicacion": "2026-09-06",
+      "seccion": "provincial",
+      "etiquetas": [
+        "Economia",
+        "Empleo"
+      ],
+      "imagen": "",
+      "descripcion": "Neuquén lidera el crecimiento del empleo privado registrado en la Argentina&nbsp;&nbsp;Lmneuquen.com",
+      "relevancia": 3
+    },
+    {
+      "titulo": "Neuquén presentó en Houston el nuevo Parque Industrial y el Polo Tecnológico",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOajN0eFh4M2VZNGp0V01NN0FBUkZRMWhva29laHc3SS1FazhEZ3FpUUs4YW55eU4zZVZYRWkzRF9iSlNrYlQyb08xQXNqUnNPelFrTERwQ1oxNk9Xc1dMRFdGam1KZ3J6bGRpb2JPTnh5aDFmTGo3dmhPZ1lvT21GcmZiVkp3c2ViRmdjaVoxN3hMcjNZZzd2OThLNXB6bUxOUDRJT1Bidl9oa1U?oc=5",
+      "fuente": "Diario Neuquino",
+      "fecha_publicacion": "2026-09-06",
+      "seccion": "provincial",
+      "etiquetas": [
+        "Producción"
+      ],
+      "imagen": "",
+      "descripcion": "Neuquén presentó en Houston el nuevo Parque Industrial y el Polo Tecnológico&nbsp;&nbsp;Diario Neuquino",
+      "relevancia": 3
+    },
+    {
+      "titulo": "Empresas de servicios petroleros con fuerte presencia en Vaca Muerta afirmaron que no operarán en Malvinas",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWkJWM0xyYWJyN0lQOVR0MVdlZ0pBci1FRkxPYVNMZW5ocmxzSzlLOGRNSUwwaW5PZjZGU1VCb3JKSWZ2eTBORzBncE9ZSWlXeHF0N1Q3QmdMQjQyNzhpS3VQZ3I2bkV1M3FnN1F3LU14U2Q5SzRKZ1BNa1NrQlkzLVVfZEZCMVZTWGZUQTRLZ01LNUtqZm5IWU1jM0x0RjNCbWtLQ3pxWEVVNXpTay1xedIBxAFBVV95cUxPeUxnSGhCMzBPYmo4ZTRmc1FMWV9lZU5SNUVkZXY4SDFwMHU5SW1kY19uYmdPeWJqNG4tOENPWTF3Y0d3RmlURjNGUWNDMUZDUXF4OEc4a1N0SFhZZDdtUk4xam9JMFVlTnQ2TTNCU0dKNlloUlF6TXcwQ1dXMWp4SFEtLTg3SUFiNzl2MFRDaGNMOFoySEMzaE90TGFqLUI1YzRhaS1mQXlsLXJFaE9hWU5WaHpJeVY4NVFjOERndGhhcmVQ?oc=5",
+      "fuente": "El Destape",
+      "fecha_publicacion": "2026-09-06",
       "seccion": "provincial",
       "etiquetas": [
         "Producción",
         "Vaca Muerta"
       ],
       "imagen": "",
-      "descripcion": "Neuquén busca en Houston nuevas empresas y tecnología para Vaca Muerta&nbsp;&nbsp;Diario Neuquino",
-      "relevancia": 4
+      "descripcion": "Empresas de servicios petroleros con fuerte presencia en Vaca Muerta afirmaron que no operarán en Malvinas&nbsp;&nbsp;El Destape",
+      "relevancia": 3
+    },
+    {
+      "titulo": "Vaca Muerta: Revolución energética impulsa inversiones multimillonarias en minería, petroquímica y más",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNTG52OHlScFhnR3FVVjJCdUdTTXZYVWhHNWN5NFZXcHRvRldqSWh6Vm1IblFQOVItVzJYV0NaVHdfdnlWM3RGMENocllGcXlRNDFfQkxudkF6cXp1dnZlREwxb1RVU3dId0pOaFVERUk4M0RscjZJLU5EdGZNSkdodmFXNmtvR0ZlalhwVVdFdEdmemxaU1lZYk5NaURMWDluV2pIQmtsWHZNZExlM2ZfMzQ0WlBrMjFlelQtby1EektBOWJqNHFHUTg4eVNIRVFpWFE?oc=5",
+      "fuente": "rosariofinanzas.ar",
+      "fecha_publicacion": "2026-09-06",
+      "seccion": "provincial",
+      "etiquetas": [
+        "Producción",
+        "Vaca Muerta",
+        "Finanzas"
+      ],
+      "imagen": "",
+      "descripcion": "Vaca Muerta: Revolución energética impulsa inversiones multimillonarias en minería, petroquímica y más&nbsp;&nbsp;rosariofinanzas.ar",
+      "relevancia": 3
+    },
+    {
+      "titulo": "El gas de Vaca Muerta, del subsuelo a los hogares",
+      "url": "https://www.rionegro.com.ar/contenido-institucional/el-gas-de-vaca-muerta-del-subsuelo-a-los-hogares/",
+      "fuente": "Diario Rio Negro",
+      "fecha_publicacion": "2026-09-06",
+      "seccion": "provincial",
+      "etiquetas": [
+        "Producción",
+        "Vaca Muerta"
+      ],
+      "imagen": "",
+      "descripcion": "",
+      "relevancia": 2
+    },
+    {
+      "titulo": "En solo 16 meses, los argentinos metieron al colchón tantos dólares como los que Vaca Muerta produjo desde que existe",
+      "url": "https://www.rionegro.com.ar/economia/en-solo-16-meses-los-argentinos-metieron-al-colchon-tantos-dolares-como-los-que-vaca-muerta-produjo-desde-que-existe/",
+      "fuente": "Diario Rio Negro",
+      "fecha_publicacion": "2026-09-06",
+      "seccion": "provincial",
+      "etiquetas": [
+        "Economia",
+        "Vaca Muerta",
+        "Finanzas"
+      ],
+      "imagen": "",
+      "descripcion": "",
+      "relevancia": 2
+    },
+    {
+      "titulo": "Llegaron desde Buenos Aires y echaron raíces en el campo: tres generaciones después siguen produciendo en la Patagonia",
+      "url": "https://www.rionegro.com.ar/rural/llegaron-desde-buenos-aires-y-echaron-raices-en-el-campo-tres-generaciones-despues-siguen-produciendo-en-la-patagonia/",
+      "fuente": "Diario Rio Negro",
+      "fecha_publicacion": "2026-09-06",
+      "seccion": "provincial",
+      "etiquetas": [
+        "Producción"
+      ],
+      "imagen": "",
+      "descripcion": "",
+      "relevancia": 2
+    },
+    {
+      "titulo": "La producción de arenas de Río Negro para Vaca Muerta intenta recuperarse de la caída de 2025",
+      "url": "https://www.rionegro.com.ar/energia/produccion-de-arenas-de-rio-negro-intenta-recuperarse-de-la-caida-de-2025/",
+      "fuente": "Diario Rio Negro",
+      "fecha_publicacion": "2026-09-06",
+      "seccion": "provincial",
+      "etiquetas": [
+        "Producción",
+        "Vaca Muerta"
+      ],
+      "imagen": "",
+      "descripcion": "",
+      "relevancia": 2
+    },
+    {
+      "titulo": "El gas de Vaca Muerta, del subsuelo a los hogares",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTmgwYjMwbTZ5eW10LWk2NktseERDc2UtVDlVR2NvTlRNd0NyNkRSOVAwWkZMNDJwWTR4U2NCdC01aTVVcHZ0Y01rMVRGRDhaMWQwb2hXZF9SWlpuQjR2TEZiRlB5cklNZWNJaGticWhlSGdEcThoeFpnRUF5dlZTRi1VX1d3U0U5TVJuZkxTZktxVHg3WE5SdkZBbHBnUW03NkhJ0gGrAUFVX3lxTE9jTGRIVl9IQlVQOEhPcGE3RURZU0tuMF91bEw1VV9aOUlORlNYTTEtUjQ3NVRjeXpjU0RHb3ViY2g1MWlGTkk5TTlYdkIwdnBZX0hTelpOQ21vdHVkTW5kR05ibWRvZEJ6WHpINEpnSkFOaTdBYUpWdWI0VVlIU3Zla3NVRlR3U19YNUJWdW1kSHZFWF9pdWpTV241VTIycTJ6b1VjZzk2VlFhQQ?oc=5",
+      "fuente": "Diario Río Negro",
+      "fecha_publicacion": "2026-09-06",
+      "seccion": "provincial",
+      "etiquetas": [
+        "Producción",
+        "Vaca Muerta"
+      ],
+      "imagen": "",
+      "descripcion": "El gas de Vaca Muerta, del subsuelo a los hogares&nbsp;&nbsp;Diario Río Negro",
+      "relevancia": 2
+    },
+    {
+      "titulo": "Añelo: venta ilegal de terrenos fiscales en Vaca Muerta",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOYlN2NV90QWtrU3A3ekpxbVJVZHF6d0lXNjJ0Yl9weEtqYXU4M2ZtTGtvSjdHN25RMXh1SWdTZFNMR1UzWmtSNzNhbmt1d2RNeU9RV0JaazR3S1pfelJ6ZnRiRksyekF4TFprZDNRVkFjQXBsb0N1Zmo2NjAxdXlnMmktQ1M2NDRXNmhjbUNyRUdxdTNMNS1wdkRKSjZvVVpWa2JLelVzWl96X21xNDhXT3ZON3NyQQ?oc=5",
+      "fuente": "LA17",
+      "fecha_publicacion": "2026-09-06",
+      "seccion": "provincial",
+      "etiquetas": [
+        "Economia",
+        "Vaca Muerta"
+      ],
+      "imagen": "",
+      "descripcion": "Añelo: venta ilegal de terrenos fiscales en Vaca Muerta&nbsp;&nbsp;LA17",
+      "relevancia": 2
+    },
+    {
+      "titulo": "Sanciones de Milei a petroleras de Malvinas impactan en la trama de traders y servicios de Vaca Muerta",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPelRqMkV5Sl9OTzZSM2JOV1BqLWNBMWZrQzVPeW1iTkM5eVdMWm5FWkJHVnd2aHd4M3U0SzRVQnNEYVoxWnBXb1RFTE5wT0VQWGxkbV9jQVBRX3p5ZjUtVlNYTEVGZ3BVWGQ2aVA0eHF4ZEdyZlM4N3pGcUoydVZBNFJKTlJoUGM0cGZmd3N2a1oyWFlmZk15RVRpaVpudlZRNkFqRkVrX1Mtc2Rablk1TWtsV1Y0N1ZaUVlhNE81UWhtZk1qRVpwTzNB?oc=5",
+      "fuente": "CHACODIAPORDIA.COM",
+      "fecha_publicacion": "2026-09-06",
+      "seccion": "provincial",
+      "etiquetas": [
+        "Política",
+        "Vaca Muerta"
+      ],
+      "imagen": "",
+      "descripcion": "Sanciones de Milei a petroleras de Malvinas impactan en la trama de traders y servicios de Vaca Muerta&nbsp;&nbsp;CHACODIAPORDIA.COM",
+      "relevancia": 2
+    },
+    {
+      "titulo": "La producción de arenas de Río Negro para Vaca Muerta intenta recuperarse de la caída de 2025",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQa3labmJKczdFbTY5bkxCbjFqak5XN1hBck1HekZ2QUNKVF9UeDhaa1hDcXoyN2IyTHdsQW9KcjIzTGJhUkpiRThBbW1ZWVJYTHFFS3ZEVFo1aFZiTXVXZXhScTdjQTh1TXFWblhTdkJYRWNmLWNrVDFjLXZaU1FoN3BnTWdOaTROUW9GazFFNm90QVhaSTJXTk5qdjFXeEZFMV9hOEVnN0tCYlBhRjBB0gG3AUFVX3lxTFBYTkttSTRqd1I5eUg5bWxhcHl0RjZZRXp2aUs3dm8yZVlUaU1NY2JEdnBrcjZWb0JyQ0c4aHZobDFuOTBYRWtsUDJnSHhVVzVwZjFRd2g3SjRsR0gxcjlDcHdHYlcydzFFN3R2QWcwRjlNUkFkVVIxc0tSUnF1SWpHMk5zLUQxdGdxZVVma1RwQ2tnZ0FfdVl0bHRDdV9uTnBCTnlueTlZYUh6Q1U3SDZVMkxqbXRrSQ?oc=5",
+      "fuente": "Diario Río Negro",
+      "fecha_publicacion": "2026-09-06",
+      "seccion": "provincial",
+      "etiquetas": [
+        "Producción",
+        "Vaca Muerta"
+      ],
+      "imagen": "",
+      "descripcion": "La producción de arenas de Río Negro para Vaca Muerta intenta recuperarse de la caída de 2025&nbsp;&nbsp;Diario Río Negro",
+      "relevancia": 2
+    },
+    {
+      "titulo": "En solo 16 meses, los argentinos metieron al colchón tantos dólares como los que Vaca Muerta produjo desde que existe",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQWkxibWFfREFuT3VNYnkxdDA3RWZ5eWl1cFowb20tSHd5T0tDejJJTUlobFVGU1pOZFIyY2I3ZURGVnFxNEx2M1hCTDdtYnZROHdhY3R4U1hzMkllVldXeVI2TnBrMmFIRWdQUHVzbDN1TmstUm5KblNsSHZYUnJmVkJsYmNOZ25WWlFidHBJa21PVjEtd0p4S3NQTUVhRlpJcy1XN2lCRWhITWFQZ0VWV0VXVmVMa3ZpT0ZTdE1uT3UxTUM3WFZWQmpTcGQyMGpTSE9VcWhYRVg4TGphWVAtTjRYQ3U4UXFRNHfSAfIBQVVfeXFMTjVvSVdORG0wVVZtekMzMXlIei1XWHNCVTQ2MFBOTEpOVy1aX1hId1lFYXVDQ2l3TmlhMklZR2Q0aWZBb2cwbFk3S1M1QkFrd0g3eFdKeGNJa21GMmRlNTg2aXJzN0lSMFpfM2p1N0FKOVczZ2VBU2ZVUWdhbDAzaGxtcGh5cWFOaGEwM2VDRm1NdjBLSmdSYklJTFUtaWZlWTNITmZhdEJaUUcyeUNEZ0ViQVFDcUU2SGQxTDNfYllzM2p3aTlLTl9tRWY4ejZ5RlVfS0pBYzg0M0RXR2VZbjZzMUZqc0o3TjFESjNmcHB1N0E?oc=5",
+      "fuente": "Diario Río Negro",
+      "fecha_publicacion": "2026-09-06",
+      "seccion": "provincial",
+      "etiquetas": [
+        "Economia",
+        "Vaca Muerta",
+        "Finanzas"
+      ],
+      "imagen": "",
+      "descripcion": "En solo 16 meses, los argentinos metieron al colchón tantos dólares como los que Vaca Muerta produjo desde que existe&nbsp;&nbsp;Diario Río Negro",
+      "relevancia": 2
+    },
+    {
+      "titulo": "Primer resultado del mensaje de Javier Milei: Vaca Muerta llegó en auxilio de la causa Malvinas",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNb3FWLTExS0x2aEgxX0JKQkxLZndYUVZNOVdQSDNVSEhFWmV1OEEzcVVpbExybkdzQzNaUnJBdE9ZdUhjcmpuYzcxd05zR2pBM0VXQ193UU1BeUQtazNpYVFxNDBDQXgzdE5JcnhVM3IxVnpsSThDVlpxMS1ESmxxZEctbVliX0ktR3FwRk1SM0xhd1YxY0ZTVl9KaVpOS05vOFdSTkFkZ3VuTHlQLUxXNE9YYUhHbFpqNW83aXBBZUNEUGfSAcgBQVVfeXFMUEJhSllHaEJZYXpRR21yQW5YaVRZWWEwbWJBRHBQOHJYd1dPWnZkVndETy1kb2FHbGZBc0xtTm5ra0hkNjhHcG0zRkZGRG10UEtvNWlpdno0b2V5dGFhUElhWjFhZ29iWEc3OXYxT0xoVFB2VHFIQWpUQUZPQXZyUGVTcGh4LUl1Ui02WV9XS2FyVTdYQTdfQU1IWE9FU3VlQk4zNWY2elI1ckJKNnVEdGlTd2hfejJ2WE9uYnY4Q2U5N1B5QUh3Zmk?oc=5",
+      "fuente": "MDZ Online",
+      "fecha_publicacion": "2026-09-06",
+      "seccion": "provincial",
+      "etiquetas": [
+        "Política",
+        "Vaca Muerta"
+      ],
+      "imagen": "",
+      "descripcion": "Primer resultado del mensaje de Javier Milei: Vaca Muerta llegó en auxilio de la causa Malvinas&nbsp;&nbsp;MDZ Online",
+      "relevancia": 2
+    },
+    {
+      "titulo": "Milei cumple 1.000 días de gobierno: los números de la economía argentina",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBrVFJqSTNpS3FIWXBDSGl2MWVTRXYwU0lHdU54Q0RESk9Hd0U0U0pSWXg0M1l3RHBIVHRQLXhSV0FTZmxVNkRURHZ4YkJtWHlPaWc5NkNHX2ZyR1pBUFF2ekNRRVp5TEEtSjdwaTFQeEhFckFxekJGRkZVelU?oc=5",
+      "fuente": "Revista Códigos",
+      "fecha_publicacion": "2026-09-06",
+      "seccion": "nacional",
+      "etiquetas": [
+        "Economia",
+        "Política"
+      ],
+      "imagen": "",
+      "descripcion": "Milei cumple 1.000 días de gobierno: los números de la economía argentina&nbsp;&nbsp;Revista Códigos",
+      "relevancia": 3
+    },
+    {
+      "titulo": "Clima de Negocios: guerra entre industriales y catarata de cumbres del círculo rojo, en medio del impensado “efecto Lo Celso-Trump”",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOUGg0RE1YTC1WSlhEQjhLdjJMd3BYalVfSDdXblhNVEdydVlFZEpLVFVEdXhDWUxyYjRaWlBtOGJfWGlRcmZmaGNiR2dIdDNZaGcwMkRaa00zNHVYeHVBZi1Bd01waXVaZDZpUVdhMUxMaEE4V3g3WF9oUmppakN0dk1NQXo1QkY3MlJrS1k0VVV4eUdKV1FWbkx2dlF6eUJ5Z0o1SG1VbG01LVRjNTFmUm44QTNiZGdTOXh6OUJZb3VPaTkycmlHRzBtYWlkUWpJZ3h0LU9waVVtb0dOY2VZSG12MXlia3J5WXE3VEY4RE1aN3lLNmpzNS1GLWFqVVdEbWfSAZwCQVVfeXFMT3pqRUt0VFczVTh4N0w0eUhMUjNDZjJaOTBGYXVGdzY2dnJnMHQyTjRfN0RyenNtSWxiWm84ZHRRZ2hSNl9iT2kyV1B6eU0xWmNUVkxMSW9hQURKVVk3emlLcUJTWldvTkFhek9vV2RpSnM2QkxMSk4zVTUwTnFRZ2ZQTmk3alVjNmpvZXBOY2FzT2hlZF82UUpRTUVfeXk2OXdyUzJQTXBZRkkwbk52VFVKU3BXYWNCRWdic19vTE5WLTJPSUExQV9KR3lyRF9MRFM2OUQyUmRyWUpTSVE3amtaODE0VHRGcWRnT3E1QThHV3RtTnptSWtHUkFLeXc2Z2R3cnVVNHdqZUc5bjhta2JnN0xrVnkxQVczZGg?oc=5",
+      "fuente": "Infobae",
+      "fecha_publicacion": "2026-09-06",
+      "seccion": "nacional",
+      "etiquetas": [
+        "Producción",
+        "Ambiente"
+      ],
+      "imagen": "",
+      "descripcion": "Clima de Negocios: guerra entre industriales y catarata de cumbres del círculo rojo, en medio del impensado “efecto Lo Celso-Trump”&nbsp;&nbsp;Infobae",
+      "relevancia": 3
+    },
+    {
+      "titulo": "Los empresarios del G6 respaldaron el reclamo de soberanía sobre Malvinas del gobierno de Milei",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOLXhHQ0FhVmFjcEJaTGxzeHpjV2RqZDhTNUtoQlZldHE0MUFXWFQxNlBxcFJKSVYzLXFLZmoyZk9OQjI1Mk5yYWcyNElPSkpNeW81eFRKa2dhZF9sTTZYMDhMTWw5ZE54NzY4RFhDQnRndnY1M2ZnRXVKazRRZ0FGVWZYU09wNVh4NjZKYTZadUtCRHItWG40OHY1bGJBMkFGbEx1YnpsU3lfcUJaSENTRENSLTB3MVdoLUtxWndBYTVyMWhENG5LYW5ub1Q5X0FzeW1KYktrRjB0Tm1ScGc?oc=5",
+      "fuente": "La Nación",
+      "fecha_publicacion": "2026-09-06",
+      "seccion": "nacional",
+      "etiquetas": [
+        "Política",
+        "Producción"
+      ],
+      "imagen": "",
+      "descripcion": "Los empresarios del G6 respaldaron el reclamo de soberanía sobre Malvinas del gobierno de Milei&nbsp;&nbsp;La Nación",
+      "relevancia": 3
+    },
+    {
+      "titulo": "1000 días libertarios: con Malvinas, Milei gasta su última bala de plata",
+      "url": "https://cenital.com/1000-dias-libertarios-con-malvinas-milei-gasta-su-ultima-bala-de-plata/",
+      "fuente": "Cenital",
+      "fecha_publicacion": "2026-09-06",
+      "seccion": "nacional",
+      "etiquetas": [
+        "Política",
+        "Producción"
+      ],
+      "imagen": "https://cenital.com/wp-content/uploads/2026/09/Cenital_Rediseno2026_Portada-Notas_Sistema2_29.jpg",
+      "descripcion": "“Es ahora”, escuchó Javier Milei el lunes. Un comentario de cuatro segundos de Donald Trump, displicente pero nada azaroso, sirvió para poner en escena una operación que el Gobierno activó reservadame",
+      "relevancia": 2
+    },
+    {
+      "titulo": "Los 1.000 días de Milei: qué cambió en la economía - Diario El Norte",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQlBmYnh0Y2dfNnpfYzR1dnhZNWgtMGJtMEFQQlFERkhNd3BlM2F3UEVqQVpjMXZhelp5NHVTclBkOXhjOW12RkhSa0hKZnZGQ0ZabkZQV3FXZ1lEYlVQLUg5UEdmcWRjZDQwRGRTVEUzNTdldmRVYUpmMndHMWNBY1lmTGJBQQ?oc=5",
+      "fuente": "Diario El NorteSan Nicolás",
+      "fecha_publicacion": "2026-09-06",
+      "seccion": "nacional",
+      "etiquetas": [
+        "Economia",
+        "Política"
+      ],
+      "imagen": "",
+      "descripcion": "Los 1.000 días de Milei: qué cambió en la economía&nbsp;&nbsp;Diario El Norte - San Nicolás",
+      "relevancia": 2
+    },
+    {
+      "titulo": "Por qué los argentinos postergan tener hijos: el peso de la economía, del trabajo y de la vivienda",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQci1hWlpORjI3QW1FTzZoRmNNdFY5SHkya2M3NTlYRXNVM1NXSGNSbmd1QlF4b0JhcFpfYS1vQy1wb2lSQ0pVWFBUUkxkY21oWHpsRFBWVFduYm9rZHZvQ0pHU1VxdHAwNFl5RzlORTRFNTdPQlhDbE02YkpfZk5KbnRYNnpYemdGYlpSSnJHTWdZaktMWGZPQ2pMaldybk1UcnphU1Y1WXIyY1dEODVHMG0zaWYzRGJER3VZdmpUXzlRYUprWE1ZbEJPXzRHUzNXQ0N0RC1LMlgwaHPSAeABQVVfeXFMTk1Rel9nemtaenNzb19makxIRENaYU1MNlAtajBYOGJWMEhLZDhtZWRRZDYydVllMnpNUUdGMUZkVG5PVXdjVDRpVWp3RDYzVElxRXp2cTc4VnlTWmpBb1E5RGh6dXpIWGhYV0NUMS1yVEhyTFdyUklOZFgxWnpySUJHdUUtRjhNRzZKV2lSZG5zc2ZXWmtEVmtaZGg0aHdmLS1HVGk0SHBjTG5nQVJTTzMyWUpMVm90UC1JbWstUmFUaGJ6TG12bjVDODZ2OS1sQkFudTE0aV9xMjNwRzBRX2o?oc=5",
+      "fuente": "Perfil",
+      "fecha_publicacion": "2026-09-06",
+      "seccion": "nacional",
+      "etiquetas": [
+        "Economia",
+        "Empleo"
+      ],
+      "imagen": "",
+      "descripcion": "Por qué los argentinos postergan tener hijos: el peso de la economía, del trabajo y de la vivienda&nbsp;&nbsp;Perfil",
+      "relevancia": 2
+    },
+    {
+      "titulo": "El Gobierno afrontará un amplio debate en el Congreso por la soberanía argentina en Malvinas",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMXZsWW5BMDJ3Wkl3Q1Y5MnFkdk1lN1RmV290cUlmeFgwRDFjemJ6VmRKTHBfcUlpWmJQVFR6dFp1ZXktdDJHUGs4Wm80RjFUR1c3dHUtWThFNExJWmdxY1dwczR1d1lvcWhqV1EtV1ZnZ2NFa04ybl90S2hFaWYyaFBvNkhnUll1dl9oRnY5NnlydGFUdVFOTVI3bTc3UzdXOGc1X0IxZmZGejR4eGtQOFVOOUpwalJDOVNVeEp3RjFGVTdQSWpuVDFIekLSAcwBQVVfeXFMTzF2bFluQTAyd1pJd0NWOTJxZHZNZTdUZldvdHFJZnhYMEQxY3pielZkSkxwX3FJaVpiUFRUenRadWV5LXQyR1BrOFpvNEYxVEdXN3R1LVk4RTRMSVpncWNXcHM0dXdZb3FoaldRLVdWZ2djRWtOMm5fdEtoRWlmMmhQbzZIZ1JZdXZfaEZ2OTZ5cnRhVHVRTk1SN203N1M3VzhnNV9CMWZmRno0eHhrUDhVTjlKcGpSQzlTVXhKd0YxRlU3UElqblQxSHpC?oc=5",
+      "fuente": "diariopopular.com.ar",
+      "fecha_publicacion": "2026-09-06",
+      "seccion": "nacional",
+      "etiquetas": [
+        "Política"
+      ],
+      "imagen": "",
+      "descripcion": "El Gobierno afrontará un amplio debate en el Congreso por la soberanía argentina en Malvinas&nbsp;&nbsp;diariopopular.com.ar",
+      "relevancia": 2
+    },
+    {
+      "titulo": "Viajar fuera de temporada alta: los precios, la masificación y el clima cambian el turismo",
+      "url": "https://elpais.com/economia/2026-09-06/viajar-fuera-de-temporada-alta-los-precios-la-masificacion-y-el-clima-cambian-el-turismo.html",
+      "fuente": "El Pais Economia",
+      "fecha_publicacion": "2026-09-06",
+      "seccion": "internacional",
+      "etiquetas": [
+        "Economia",
+        "Ambiente"
+      ],
+      "imagen": "https://imagenes.elpais.com/resizer/v2/HKSRPT5N6FDL7MW3MQZNXJ4OTE.jpg?auth=b042185261ae9d659c3d677e75fa25469e2d0b59e4fc032c9a9768deca6d2a8d",
+      "descripcion": "Los turistas empiezan a contratar sus vacaciones en otros meses distintos a los tradicionales, y optan mayoritariamente por mayo, septiembre u octubre",
+      "relevancia": 3
+    },
+    {
+      "titulo": "Los tres países que más están impulsando la producción de petróleo en América Latina en 2026",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbWZXdkI5bFBtODNGZW9SRDlZd1Y4bXBxa3FOU3NjYjFHYnZzUDBoUDM2VUdrcGc2VUd6aklHaHh6NXBhdU95TkgxMENtQm5mRXNDczJiaTcyc2c3WlFvZ3hIN3JvRjFWeW9La0V2UW0xY01wc3cwSTNRdzdRUmNwQjh2WGdjMW9pbFZaY1JUMm1fSndoOGNaeHpaTC1nRGRaSkNmRk81ZFMwSzJBc1Zyc1pHSFdJLTlaOUVIY3hCWkNOQ0gyaUZBb3dhNm1MZ9IB4gFBVV95cUxQS1p2cU9zV1Jya0J3c3BlR05NNEk2Um16dW1ReWlSRlFCS1FmdDBTN3hwUVY2eV9MOXBzcHItbXVCeFVtSVJ2OUdoTTI4U0dtdEdGeml3aC1wenBfdFZpSklZdlF2NUdqNDNWU29lajlGRUZCVGs2U01zZVcwUkJXOEt4djNiV3hTR1VWajRzcjNBbEE0RWotTzJxVVpTUGtXdUM0RHBDLWNJenRzdktGVjRIMWtBNnJkc2tvRHlkWG81MEpKa2ZVZ1NHUzg3eXl5VUVKelVIYmxKUmV6a0lZMVhn?oc=5",
+      "fuente": "Bloomberg Línea",
+      "fecha_publicacion": "2026-09-06",
+      "seccion": "internacional",
+      "etiquetas": [
+        "Producción"
+      ],
+      "imagen": "",
+      "descripcion": "Los tres países que más están impulsando la producción de petróleo en América Latina en 2026&nbsp;&nbsp;Bloomberg Línea",
+      "relevancia": 2
+    },
+    {
+      "titulo": "La economía catalana tiembla ante el posible fin de la marca Seat",
+      "url": "https://elpais.com/economia/2026-09-06/la-economia-catalana-tiembla-ante-el-posible-fin-de-la-marca-seat.html",
+      "fuente": "El Pais Economia",
+      "fecha_publicacion": "2026-09-06",
+      "seccion": "internacional",
+      "etiquetas": [
+        "Economia",
+        "Política",
+        "Producción",
+        "Empleo"
+      ],
+      "imagen": "https://imagenes.elpais.com/resizer/v2/SYQBVGMIUSK2WCI7KNNUYYFNDA.jpg?auth=c2b6d792a2a10d4125eb512924ab55997bdc0397fa88c99ff57979853a613311",
+      "descripcion": "Empresarios, trabajadores y políticos confían en la continuidad industrial de la fábrica, pero admiten que el impacto de perder la enseña puede ser mayor",
+      "relevancia": 1
+    },
+    {
+      "titulo": "La deuda, de la levitación al aterrizaje",
+      "url": "https://elpais.com/economia/negocios/2026-09-06/la-deuda-de-la-levitacion-al-aterrizaje.html",
+      "fuente": "El Pais Economia",
+      "fecha_publicacion": "2026-09-06",
+      "seccion": "internacional",
+      "etiquetas": [
+        "Economia",
+        "Finanzas"
+      ],
+      "imagen": "https://imagenes.elpais.com/resizer/v2/MY254P64XVBKLIP2UBDN7477ZA.JPG?auth=afccfd66ec7d816001add614707288c95a8588f5b0f2aa6b7a4742e9df3303a7",
+      "descripcion": "La financiación de los Estados se encarece abruptamente estrechando su capacidad de acción",
+      "relevancia": 1
+    },
+    {
+      "titulo": "El precio de la incertidumbre: cuando la volatilidad vuelve a abrir oportunidades",
+      "url": "https://cincodias.elpais.com/opinion/2026-09-06/el-precio-de-la-incertidumbre-cuando-la-volatilidad-vuelve-a-abrir-oportunidades.html",
+      "fuente": "El Pais Economia",
+      "fecha_publicacion": "2026-09-06",
+      "seccion": "internacional",
+      "etiquetas": [
+        "Economia",
+        "Finanzas"
+      ],
+      "imagen": "https://imagenes.elpais.com/resizer/v2/3FTPBO6CH5PWPPIAYMZ2PHHRWI.jpg?auth=09654a8e46b7d8618a901ca68569bd7ffc5d1bc1a51764ccad8093519d7f3f0c",
+      "descripcion": "El repunte de las rentabilidades de los bonos ha devuelto atractivo a la deuda corporativa de corto plazo, sobre todo a los pagarés",
+      "relevancia": 1
+    },
+    {
+      "titulo": "La carrera por la presidencia del BCE arranca soterrada y con los candidatos en el limbo",
+      "url": "https://elpais.com/economia/2026-09-06/la-carrera-por-la-presidencia-del-bce-arranca-soterrada-y-con-los-candidatos-en-el-limbo.html",
+      "fuente": "El Pais Economia",
+      "fecha_publicacion": "2026-09-06",
+      "seccion": "internacional",
+      "etiquetas": [
+        "Política"
+      ],
+      "imagen": "https://imagenes.elpais.com/resizer/v2/NCLQJPJRA5ABPPJZ7EPGKYN5UM.JPG?auth=6bdf42c38275797b3f873097b78a43ab3b210c1da7637faef1af32821bce3e21",
+      "descripcion": "Las señales de que Lagarde acorta el mandato aceleran los movimientos, con España esta vez en primera línea",
+      "relevancia": 0
+    },
+    {
+      "titulo": "Wang Xingxing, el niño que suspendía inglés y ahora lidera la robótica humanoide",
+      "url": "https://cincodias.elpais.com/opinion/2026-09-06/wang-xingxing-el-nino-que-suspendia-ingles-y-ahora-lidera-la-robotica-humanoide.html",
+      "fuente": "El Pais Economia",
+      "fecha_publicacion": "2026-09-06",
+      "seccion": "internacional",
+      "etiquetas": [
+        "Política"
+      ],
+      "imagen": "https://imagenes.elpais.com/resizer/v2/VGFZ535NCVFRDHEAKHSI6674A4.jpeg?auth=f56ae1995e6a13146a11ab6083d1e27fa857a5bf469b32a52b4009cbdcbe9f49",
+      "descripcion": "El fundador de Unitree pasó de trastear con motores caseros en un pueblo de Zhejiang a vender más máquinas bípedas que nadie en el mundo",
+      "relevancia": 0
+    },
+    {
+      "titulo": "Las claves: los modelos de IA ejecutados en local, o cómo tener internet en una caja",
+      "url": "https://cincodias.elpais.com/opinion/2026-09-06/las-claves-los-modelos-de-ia-ejecutados-en-local-o-como-tener-internet-en-una-caja.html",
+      "fuente": "El Pais Economia",
+      "fecha_publicacion": "2026-09-06",
+      "seccion": "internacional",
+      "etiquetas": [
+        "Política"
+      ],
+      "imagen": "https://imagenes.elpais.com/resizer/v2/CTW4APYGSNOZPOT2QJAOVVACSI.jpg?auth=1a74e72e9449508ca62d0a4d42198edbf6f9ad1ab4d1fe3cae9236cee90998cb",
+      "descripcion": "El código abierto permite guardar la inteligencia artificial en el disco duro y consultarla sin red",
+      "relevancia": 0
     },
     {
       "titulo": "La trastienda de la cadena nacional sobre Malvinas y el dilema del Gobierno con las empresas que tienen negocios en Vaca Muerta",
@@ -31,30 +450,84 @@
       "relevancia": 4
     },
     {
-      "titulo": "Desde Houston, Figueroa afirmó que Vaca Muerta es la oportunidad para transformar Neuquén y poner de pie a la",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQRjlYOEVhRndEdjFvOC1aTEpvcXpLcmE3azBCbExHcWJMRkVvcktRUnA5UkZSN1VWM1RfZHc0ODZkQlNGa0p4anB0blBxMTVfQUlyY2JCNzhtVmVCRmZFNm1oeGc5bTVoSmZXZU12QXY3T05pMHBnbmpUN2M5NC1YZldrWjNmanc0SWdBY3ZxS0pNYVpzTjlQM2xSWkU4YkFVZUUwUHZTeHN2NFM1SGFKbDg2TlZFd2ZBVVFNRlZoUnJqYzQ5V1RZTUFjZ2RCam5wNW54S0p0VdIB1wFBVV95cUxQRjlYOEVhRndEdjFvOC1aTEpvcXpLcmE3azBCbExHcWJMRkVvcktRUnA5UkZSN1VWM1RfZHc0ODZkQlNGa0p4anB0blBxMTVfQUlyY2JCNzhtVmVCRmZFNm1oeGc5bTVoSmZXZU12QXY3T05pMHBnbmpUN2M5NC1YZldrWjNmanc0SWdBY3ZxS0pNYVpzTjlQM2xSWkU4YkFVZUUwUHZTeHN2NFM1SGFKbDg2TlZFd2ZBVVFNRlZoUnJqYzQ5V1RZTUFjZ2RCam5wNW54S0p0VQ?oc=5",
-      "fuente": "MejorInformado.com",
+      "titulo": "Vaca Muerta y el futuro de Neuquén: Figueroa planteó una hoja de ruta hacia 2030",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUWFEdzRNU2dfVm4wTFRlYzBBWlh5djVkM3N0bnI1MFVybTlweUhRLWlCaEFNRS1CeGUwUHFaTEVaRDAwZlZYMzRJZ3Q3TF9qZVJmeVd4ZDlCSVZRWXQwMnNxbUEzUXlUUkN3WTlmczUwSHY2QmlKSS1PVVFaMDREVVRwcElHanotZFh6eXo5UUlESWJuSFo3ZWxVbjg3YVp6QjBQenh6dkVYZlFOYXo5UE1LbkVuT1JxSzQ4WU5TMFI1bl9ZQ0FpWnNMckItZHl00gHWAUFVX3lxTE9ON1piWFduSnlhYXRkUVB5WENqT1ZGMWJpMUpwcU51V1FTTVN6aTJvektTc214QVRfTThRZk1LQW9zQlp0eF9CWTg2dHYtTGdYT3c5Z0tiZUp1UXRqeTlOZ05laWozUzJEVTg2VUpGeFF2UVBiNlFoTlJwMXRqWDR0bVRPUDZFWGZVU3NQcG5aekU1VGx6ZU91M3d0QXA4MElneFhQdjJvbjBwU0tCNVozMDRLcnR2VDJWaDhuZndLRTE4akY2SnRhNGdxOTBwTU9oRnMxQUE?oc=5",
+      "fuente": "alertadigital.ar",
       "fecha_publicacion": "2026-09-05",
       "seccion": "provincial",
       "etiquetas": [
         "Vaca Muerta"
       ],
       "imagen": "",
-      "descripcion": "Desde Houston, Figueroa afirmó que Vaca Muerta es la oportunidad para transformar Neuquén y poner de pie a la&nbsp;&nbsp;MejorInformado.com",
+      "descripcion": "Vaca Muerta y el futuro de Neuquén: Figueroa planteó una hoja de ruta hacia 2030&nbsp;&nbsp;alertadigital.ar",
       "relevancia": 3
     },
     {
-      "titulo": "Neuquén y Río Negro ganan lugar entre las oportunidades de inversión en la Patagonia",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOG9JdGJZbVRfakZOeXdUbkNuQ1BoYy14ZVVTMkJzMVdqWjdpem90Zm1xUWZrOEZYVEJPMzJYM2ZQN3NLdlJJZjdEbzVHOUQzNXZya3dNTFpMcEFEQ0ItU054YmpGU0dHZHF3RTk1ZHg1OXhxVmVIaWJqOXJ4Q2NjaFVSU3ZYOFEwOUZaNExnLXJiQVc0WHlsTHU4dnJvZXdmLTBiUEFtUm15bTV0NW9fT0taZlVNZw?oc=5",
-      "fuente": "Diario Neuquino",
+      "titulo": "Una de las empresas que opera en Vaca Muerta no participará en proyectos de Islas Malvinas",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSjlnUnJhZnZjMm92dkZwdUQ4U3lwQkdwMFRNYlNBV3ZvclBsd1dMSFRHcFk3azdOMEd4ZS1UWGVfd2pFdkNSRmpFd3dXN2xsRnVPd0V3MjMzYmh2NXRHcUE4dHFLU29kTDFxWVNvaktNay03N0VuNGVJR254U3NDRXdtODBvSk5wcHE5OWJGd0Fvc005TkdnaUtzemVKMmVCdzZiay0wNUswZURvVEJhLVpCM0FYbDR5UEdFbkdB0gHDAUFVX3lxTE00ZG5SWXFqRjBnYUhRZl9KOG1XRzBNRDEzczItTWxQQ1lSU01zYkFCRGM4WnhZRFZRcE15VnBwMjBGTGNyb1BkMHdUZE9GazRyMFlWMGxhT3U4NVREVG0xY2NYa1ZQOHJKdUxzOURTa1l1bzdBV2hLdERsbk5jOVMwTlM0MFA4b0wwLXVFb0VaMG1maUFXbHZPTVhiRHM2ekFRX1NHZVQ0dUdRU1YwRXU0a21hVVR2aEhFVmxSNWJnZW1TTQ?oc=5",
+      "fuente": "Lmneuquen.com",
       "fecha_publicacion": "2026-09-05",
       "seccion": "provincial",
       "etiquetas": [
-        "Finanzas"
+        "Producción",
+        "Vaca Muerta"
       ],
       "imagen": "",
-      "descripcion": "Neuquén y Río Negro ganan lugar entre las oportunidades de inversión en la Patagonia&nbsp;&nbsp;Diario Neuquino",
+      "descripcion": "Una de las empresas que opera en Vaca Muerta no participará en proyectos de Islas Malvinas&nbsp;&nbsp;Lmneuquen.com",
       "relevancia": 3
+    },
+    {
+      "titulo": "Vaca Muerta tendría petróleo y gas para más de 10 años",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE93SWotZWMwSEFJUjVlNGtTYXAyWW5wQ1JObDlDNW9HLUJBbGhNMEhNemE0bkVtcVI4Y3hjNjhLUEl1cVFIcXd0cjJYeURBaGVuVFlJdU1pTGdGeTgySGxDbFQ4dWRVRkE0OERZSHE4QnJDZG9sMVE?oc=5",
+      "fuente": "Inspenet",
+      "fecha_publicacion": "2026-09-05",
+      "seccion": "provincial",
+      "etiquetas": [
+        "Producción",
+        "Vaca Muerta"
+      ],
+      "imagen": "",
+      "descripcion": "Vaca Muerta tendría petróleo y gas para más de 10 años&nbsp;&nbsp;Inspenet",
+      "relevancia": 3
+    },
+    {
+      "titulo": "Presentan 35 cursos de oficios gratuitos en Neuquén junto a gremios provinciales",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOM2didS16XzNrcV9DbkFIRURsLWlnLW9XMW52V3dPX2ZSaEVtdjY4a0RlSktUeEFVUjZsWUFLaEhEM0xBNVFHRTJ0SmtNNXdhaDlIenU3VTZfZ0ZXZjdhNjhmcnZRSkhkOWFaX2NTWTN2dzBVVG5GeXhlRUdfeHZVSGZMQVZFeWdUU05FNnRiT1JuWmZ1bkVRS2VEQWYzNElsZ1pUNFBJYXUzOFdQRkRKOUhscHVZdGZ5dkl1VnpYU2JTTW1s0gHMAUFVX3lxTE5IRWxEaU9WS2hpRW1vV1lWaVFvZTdZMWxjUnltVGU5M2Z4ZmdyT2hyVVExXzhKVUQza3FLNVBEQURMWHkwM3N4a3ZEV2JnVnlBLUpaRkdMR3VBdXVCSExNREt6YVJ0TjhERzJodmdlb0I0X2JUVjBjTzRUZEZIOVEwUldJREt2QjlYa2dyVFRoakoxTUJ2LUdfVDVnSnhrNkMxdWo5b0lCWGZhTDdHOEJUUE5vUnEzQWw1WWt2VVg5TUU1TFluS1lTdHR5aw?oc=5",
+      "fuente": "Diario Río Negro",
+      "fecha_publicacion": "2026-09-05",
+      "seccion": "provincial",
+      "etiquetas": [
+        "Empleo"
+      ],
+      "imagen": "",
+      "descripcion": "Presentan 35 cursos de oficios gratuitos en Neuquén junto a gremios provinciales&nbsp;&nbsp;Diario Río Negro",
+      "relevancia": 2
+    },
+    {
+      "titulo": "Inflación estable y menor crecimiento: qué espera el mercado para la economía argentina",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQd1YtR3lRLXE0cmtsVHo1a002clJxbWlGNjVVSnotVHRhY0J6cDUwU2pMNXl5aDFkM0NOcXRKVmNxakxGOTZ4eUhjU1g1V0RhQ3FTMVBZWFRHUzJ1cndTYkRDNWlVdXQzR0thU0NLQnY0VWxhekFXWEx6WUxHbXF2MXBuZFBBeko5RkNWT3dXcFVtb1RWcDlRWUIxNXBSQmszTHE2aVNMdFNVUTd3NmFZcjhyT0JsYVZWTS0tUg?oc=5",
+      "fuente": "Diario El Sol Mendoza",
+      "fecha_publicacion": "2026-09-05",
+      "seccion": "nacional",
+      "etiquetas": [
+        "Economia"
+      ],
+      "imagen": "",
+      "descripcion": "Inflación estable y menor crecimiento: qué espera el mercado para la economía argentina&nbsp;&nbsp;Diario El Sol Mendoza",
+      "relevancia": 4
+    },
+    {
+      "titulo": "Estabilidad en los precios y rebote heterogéneo: qué prevé el mercado para la economía argentina",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMngzU2JRVEZ4V3hZX0ZtS25XNlFJX0tOWTY0NlhvOENWNmpSc0JIaGU2VzhUMExXR1VVQ0lzWjhqRlJJOHE0Y093aGlsZ19YNFYteS1VcWxKNS15TzlDT1pTaXFJbjZpc21LUm5fbVlCbU1RZjdCSy16b3FTZndGcVdSWE1mSlhu0gHKAUFVX3lxTE1hbGp1RkpURXlxbGduQWNhdzVEQ1lyZ1FQcjVQV1VlcVBVRGxIdFI2by1CN05PYkluVWNQTFJmZHJWcXBJaXpqU0otYUI4SmN3dUdHelU2NTZhT2puM1A0SXBQN0F0cWlRd090Uml2RWdxTjJBdjJ3RnFIbldpTW9pbUk1TjRHdjlIRDFadmJ3UUpkRmxJb1dYeU5QSkhDRHJ3b0xQVkEzMmR5TWtnX0R0X2x6d0RoSW81TDZxZDBaUzdSOUt1UUVIY1E?oc=5",
+      "fuente": "Memo.com.ar",
+      "fecha_publicacion": "2026-09-05",
+      "seccion": "nacional",
+      "etiquetas": [
+        "Economia"
+      ],
+      "imagen": "",
+      "descripcion": "Estabilidad en los precios y rebote heterogéneo: qué prevé el mercado para la economía argentina&nbsp;&nbsp;Memo.com.ar",
+      "relevancia": 4
     },
     {
       "titulo": "Milei ratificó que no cambiará sus políticas por las elecciones: “No voy a borrar con el codo lo que escribí con la mano”",
@@ -68,6 +541,20 @@
       "imagen": "",
       "descripcion": "Milei ratificó que no cambiará sus políticas por las elecciones: “No voy a borrar con el codo lo que escribí con la mano”&nbsp;&nbsp;La Nación",
       "relevancia": 4
+    },
+    {
+      "titulo": "Deuda y exportaciones: qué riesgos enfrenta la economía argentina ante un endurecimiento financiero global",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNOXN4LUVCTDVpejBadzlhS1BVZ0FuYVJIT0VJNVRlczdjdmJObGI1a3psR2FHRFBUV051N0xNcjBiUkVmd3BZRFhHMjd3Zmk5eHRpVXBWR3ZEUWtVaWVKdzNQZFdLcDU1VnZPN01aaXVCcTg1SVp4WVVxZFE1X3E4cThWYWdwMGNVTUxzVS15ZXdRQTA3cTJlRHNvRGdld3R4OGJjbUhGUDZ5cXd1STFXNHp4VWdIdXdpY01NUml3RzN4TkhsZTdfX0ZTTTZNZklOLUlQQ0dQdGxlTU4xcXFR?oc=5",
+      "fuente": "Filo News",
+      "fecha_publicacion": "2026-09-05",
+      "seccion": "nacional",
+      "etiquetas": [
+        "Economia",
+        "Finanzas"
+      ],
+      "imagen": "",
+      "descripcion": "Deuda y exportaciones: qué riesgos enfrenta la economía argentina ante un endurecimiento financiero global&nbsp;&nbsp;Filo News",
+      "relevancia": 3
     },
     {
       "titulo": "El FMI inyectará 7.000 millones de dólares en la economía de Bolivia, según su presidente",
@@ -85,23 +572,22 @@
       "relevancia": 3
     },
     {
-      "titulo": "Los especialistas del BCRA estimaron que la inflación de agosto será del 1,7% y el dólar cerrará el año a $1630",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOQm1hbUxZZlI3Tm5KU19ORndqVHQ3YmtXeE81STVvbkNOdEExYmRRVVZYMTlFQ05OODNKY1RVYzY0RTV4LUxhTFVveFkwalVCZXdpMlFNOGR5WVZwbkFtV196MGVjd09YS1dLLUxNbEEyYnQ4UDk4enZTcTloZUtDdHkzMzlUcGExMldFQXcxa1h4bFBtNzJaM21ZWWN6TlBQeTY3cm11UEZqRlZxRWdUN2dGdjBCa0hWeTdWLWQybTd4REZ0WnMyczdsUGo0Sm9VUmtSVXYycEx2UW5pU3RMVw?oc=5",
-      "fuente": "La 100",
+      "titulo": "Murió Alberto Iribarne, exministro de Justicia durante el gobierno de Néstor Kirchner",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQM0xyYUdwZ0pwQzBHMGYyQUJLY1lBZ2JwcnpyTWVvQlBPQVBHX1VFTEpCUURTQWdZUjBSRlItOEZkaS1QQnkwNzZQVGFIZC0tamtBOElRQU9GQWV4ZXREUW5hQ25KeGtCd1dWMEtxemlSa0V5T3lCNGI4RFM1cmxMbFFVV2pIV3NUSkp5Y1ZXREh5ZGRwbE84eUtmalh0WFJSczR3d3RRM0JOVldZRHVrNmdYd3kxSHRVNHFV0gHAAUFVX3lxTE5rUEZUdGpBczNvTjBWVGlMcTNXMUVRWC1haV9rNTZQZVI3VFJ0WnA1RmNIeTVnMDdWZ0Z5WXN4bmthZEUzZUYyMFdfdUNXdzJFcGtCU01QVzVEbzZES2kwRVRnRkNZTk00bkE3U3J5V0lFeHNKbmMtTFdlUWhQbmVUR2U0Sy0yMWRfVHNQWFF0RUlMTjBJXzFNY1JWNzg4WXRCMDByTXM4SUpkTVhhSEF0SmRWaWVNSGFUd2RscEVRZA?oc=5",
+      "fuente": "sitioandino.com.ar",
       "fecha_publicacion": "2026-09-05",
       "seccion": "nacional",
       "etiquetas": [
-        "Economia",
-        "Finanzas"
+        "Política"
       ],
       "imagen": "",
-      "descripcion": "Los especialistas del BCRA estimaron que la inflación de agosto será del 1,7% y el dólar cerrará el año a $1630&nbsp;&nbsp;La 100",
+      "descripcion": "Murió Alberto Iribarne, exministro de Justicia durante el gobierno de Néstor Kirchner&nbsp;&nbsp;sitioandino.com.ar",
       "relevancia": 3
     },
     {
-      "titulo": "¿Cuántas empresas podrían ser sancionadas tras los anuncios de Javier Milei sobre Malvinas?",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPVUl0b3YydlRId1J5bDlXZTl5enBEVHRaNzhFMkF6Q2R1X3E0YUhlMnVxS3ZKYU8wMFZWbURqUk92TllldzExQVFQTHZEZWstamI4bG8xSHh4MG1OSVJXMk9WY3czNGVscFhaeWZSUzZlb2sxUUZYQTllZzFmUTBrYWpPQTRuYXd3cS01MmhiU2VFTmYwNWxBMVF3SGZEU2ItSkF6RnhuZlI5bXl4YUpBOHRGTVNCWTJWcUxaM25saFJ2cXhKdUlXUFdFNVpVM1JYVlR6cTlMcVBDZWFPemtWNjVlWnZ0WU03ak5Pd3Z30gH8AUFVX3lxTE8wUmd4aWg1OHhoZWRnOENnbmVteU54b1plVUxfT3E2RW9MRlhHRFZCRkctWnZhc3BkVllmd0hyZE44WXp3XzNDc3R4NDVQX3p6SDNzZmJaNHBVaW5KWUgtd2YyWFBmOU4tWGdEWVR3YXVCdE1tOFh1NkNzVG8zc3JUNXBoYmliZG5CNVI1bVdodjk5Rllta1BCcHc0Vm53ZGpqMlQ2Mlh0TE5Pa2hxb1poWDNoWWp2M1NpcWNkeDNhZUZUTmdzWEJUN1p6QnVFUVBTR2JGbksxM21NekJnelJIX3VmTmxDNmNGNlJ0NG5rMjBwSmltRG9XSHZlNg?oc=5",
-      "fuente": "Diario 13 San Juan",
+      "titulo": "Malvinas: el Gobierno CONFIRMÓ SANCIONES contra 45 empresas y personas",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNFBILUF0OUMxaGhSeDIwcjBXYlpLMGRFTVdYdm9UVzhvSk15SVQxckNYLWEzd2hOVzlDaXU0TGk0ZkJySmc1ZGJMdkdJSUN2cFlGTzRtTXlhbms2YVdvU1UzS1g2WFctVXZ6VDF6WnlrT0s3NWxpNW9PRm84Z25tTEtFUHd3dHdCeXlYZEJjM3RILUZpci1UWEsyWQ?oc=5",
+      "fuente": "Mendoza Post",
       "fecha_publicacion": "2026-09-05",
       "seccion": "nacional",
       "etiquetas": [
@@ -109,21 +595,7 @@
         "Producción"
       ],
       "imagen": "",
-      "descripcion": "¿Cuántas empresas podrían ser sancionadas tras los anuncios de Javier Milei sobre Malvinas?&nbsp;&nbsp;Diario 13 San Juan",
-      "relevancia": 3
-    },
-    {
-      "titulo": "La lista de empresas y accionistas que sancionará el Gobierno por operaciones en las islas Malvinas",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQOWc2MVQ1MW4yR0gzOE55dWpfSVJya1paTXZaZHozUlpmekd2R2lGaXgzeS03UkFoUVZyb1AzbnNtV2JoS1NKT3NveTVJMHFub3ZKdklSc2RYWjN6c1RTZ0FsV29tYXdKQTFYMHlSZVdiZVY5VWMyZjFXRktjR0JjSUJ2ZkdDQk9jSi00akJydkxwYWQwTWdCU25kV0pjTVZyWEtUcVJleEY5VjJLZ1BmUHlrLTBqbm9xMG9YNmRmOVhQWmNxeEJuSFlFMk5kblBHb3lCdnZQZlY3WjdtRV9pZU9wUQ?oc=5",
-      "fuente": "La Nación",
-      "fecha_publicacion": "2026-09-05",
-      "seccion": "nacional",
-      "etiquetas": [
-        "Política",
-        "Producción"
-      ],
-      "imagen": "",
-      "descripcion": "La lista de empresas y accionistas que sancionará el Gobierno por operaciones en las islas Malvinas&nbsp;&nbsp;La Nación",
+      "descripcion": "Malvinas: el Gobierno CONFIRMÓ SANCIONES contra 45 empresas y personas&nbsp;&nbsp;Mendoza Post",
       "relevancia": 3
     },
     {
@@ -143,650 +615,110 @@
     {
       "titulo": "El Milei malvinero, una estación más de la vuelta del Presidente a la política",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSncyRlk1aHBLMUpqMFZqTGpjXzhsRmdNeTFtNExkT0NNNkZIejd5YlY5WHlHVFFlbjN3Y2pjZTk4Z3AzQ2V5RU1IUWU0S2RyRWYxNy1oV2ZaeDZFcU1BOGRxOXF3dC1SMWhwUU9qaEdjb0JRUEpxVDFsaTJGdWVnVnNsN3pZUDFKbnBKLWZ5ZU1Ybkk3Q25CMzFVVGZ6Y3JKV0dVVThHcUlJQW9j?oc=5",
-      "fuente": "clarin.com",
+      "fuente": "Clarin.com",
       "fecha_publicacion": "2026-09-05",
       "seccion": "nacional",
       "etiquetas": [
         "Política"
       ],
       "imagen": "",
-      "descripcion": "El Milei malvinero, una estación más de la vuelta del Presidente a la política&nbsp;&nbsp;clarin.com",
+      "descripcion": "El Milei malvinero, una estación más de la vuelta del Presidente a la política&nbsp;&nbsp;Clarin.com",
       "relevancia": 3
     },
     {
-      "titulo": "Malvinas: el Gobierno inició acciones contra 45 personas y empresas por la explotación petrolera",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOZktyWVVyZktuQ1JPd3J5N0F5bFZGam1nR282VnhzR21TT3Q5UVBKMTBTdE44WXZNSEV0YU1hLVYyYVdvaDlydHhVQVlldE8zWHE0M2xGR3Z2VHI1YkJtVlozSjBYODJ0UUgtcUhUMy1SM1IxbUJzVUNzTUNVYkl2X2NvNEhaTF9lMkpfLVFOeXViOGpzYzUtUFB1dTc1TVRCekJrNmg5WE1yS0pPaDFuVjJTX1cyajlDX01MN2tzQzEtOFFGX2JUZU5OUk1ibFNnQXdFWmZ0cmJVMDhvUEVRatIB5gFBVV95cUxOOXgyaWw5V3Z4d2kzSUZtTU9nRFhIenBqYXFWX2EtOGxOZGJnWnlMOXpHczBMbXZCc2tKa3hnTWVEelR6MnQ5eUdCaDlDUHZEeUpiMUJkbzJLb0hJRlE5Qy0wSVVnR2cwOE5zSXFjQXMxdGZrMVJrWjVrX1prNVJ3eW9rN3RoLXZqS1dmWjhUdWxZa1NBWG5Wd0k1eno4OFpQWDN3SklZYWhoVVZjSkt0VU1TcURma2NQSVkza0tXVDRXUkNWRmpTcV9FcXdvYUxzZzQ4bVdnTWNMcG03eGZZX0Z6dGR4dw?oc=5",
-      "fuente": "El Litoral",
+      "titulo": "Murió Alberto Iribarne, exministro de Justicia durante el gobierno de Néstor Kirchner",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNaHREOEtZU0N6dUJzUWlIdC0wNUZra0Z5TVNDSWw4OHBxeS1iRXlBTm1UNmQzVTJTRmNwMl9QYWhNMTZoSHBhdTB1THQ3V3g1dXNZckdtbDcxNzVPNUEyN0dKcEgyNUJmbVhCbUtNUDk3YV9HMnl5RzZicUZzQ0Jydk5vVUJvUUd2YUJPYTg3WWxvWFFwTDVUTmhhV215aXFIcEk4WjVFa0Q3YWxiTmlFZXdFaUczU0FqLXBxOXhJTDA2dlNiZkhtLUpsd9IB0AFBVV95cUxPQ0hLUTE0NGRYenNMR25EOTZxZ0c2cjhTVmtxb0k4TTJac1E0UHltX2ZSbzNtT3ZCR1lSUHZrRmF5NENoTTdhcGIxc3Z6UnFvek1jcF9NWkozaDhXNVlRcV9MRjZ5YkFYaDZpSXlpMlVTb3lMRTdEUWlHSHNlWnI0c2FLSlFNS0dPMTVNNXJOV2Q1YUwzeGw4RVp3R3JpRXdsZXVRLVhTR05UZ3BIeWo2bGFpWXc0d3N2UHpRbmlic2NTY1FhbTdhMlplZHBfZG04?oc=5",
+      "fuente": "Perfil",
       "fecha_publicacion": "2026-09-05",
       "seccion": "nacional",
       "etiquetas": [
-        "Política",
-        "Producción",
-        "Finanzas"
-      ],
-      "imagen": "",
-      "descripcion": "Malvinas: el Gobierno inició acciones contra 45 personas y empresas por la explotación petrolera&nbsp;&nbsp;El Litoral",
-      "relevancia": 3
-    },
-    {
-      "titulo": "Malvinas: el Gobierno CONFIRMÓ SANCIONES contra 45 empresas y personas",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNFBILUF0OUMxaGhSeDIwcjBXYlpLMGRFTVdYdm9UVzhvSk15SVQxckNYLWEzd2hOVzlDaXU0TGk0ZkJySmc1ZGJMdkdJSUN2cFlGTzRtTXlhbms2YVdvU1UzS1g2WFctVXZ6VDF6WnlrT0s3NWxpNW9PRm84Z25tTEtFUHd3dHdCeXlYZEJjM3RILUZpci1UWEsyWQ?oc=5",
-      "fuente": "Mendoza Post",
-      "fecha_publicacion": "2026-09-05",
-      "seccion": "nacional",
-      "etiquetas": [
-        "Política",
-        "Producción"
-      ],
-      "imagen": "",
-      "descripcion": "Malvinas: el Gobierno CONFIRMÓ SANCIONES contra 45 empresas y personas&nbsp;&nbsp;Mendoza Post",
-      "relevancia": 3
-    },
-    {
-      "titulo": "Islas Malvinas: el Gobierno inició procedimientos contra 45 personas y empresas por actividades hidrocarburíferas",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOczdrdVlXbHowSldpd0xySWNLa2E2LVhPTW5mekk4S3RqU3FUNWpVWHp1Y3VwVzRPdVhyUXNSSXMzZGpjZDlsUzJBRmVza2hSZF80ZzkwWkgzQWJ4VDFyNFlyRDFBWHhrVjUycllROU9ScC1Tc2VsRVlzRFFhVFZMTmJEWGJ4VmtobHVDaXgxSzhfTmR2V1lXSHhWOUtWbDhmY2Y4alhmcHQxb19fUGpCMWllUWhrbHNwR3NEdnF6bE1vS0ZTZ2hmVE5WcEJRQVpyUm5KNmxkRnRSdGJqbkRJWlhXODBKNHhWMmQ2NjJR0gHzAUFVX3lxTE5JT0owbVhTNU9oYkV1ck43S09XZUVldWt2YXlfVGRvSjVKNFotV09oRnY5Ymg1amR3U3UwdnRIZXJvaW1URlljNFdpSy00UUNLYWRSRmtrRUNibHZCU1FvQ1IyVmhBWEZ1ZG80bWlCY2x1Qm9CSmdPUWpoOGM5T3o3OGV2YjJZVlpVTEhyanNqdlZiQVN2UEtBR0xmQnRIUFdwVWJUaUVXTEZhVThKUlVmUVZoSHNIMGFHd0pGNVhxWVVjLWtqS2NScmIwT09hVG1OX0FIVjZOLWd4WkY4V2RrcEdaYmVlaEpPMlItN1NYb0hIcw?oc=5",
-      "fuente": "Sitio Andino",
-      "fecha_publicacion": "2026-09-05",
-      "seccion": "nacional",
-      "etiquetas": [
-        "Política",
-        "Producción"
-      ],
-      "imagen": "",
-      "descripcion": "Islas Malvinas: el Gobierno inició procedimientos contra 45 personas y empresas por actividades hidrocarburíferas&nbsp;&nbsp;Sitio Andino",
-      "relevancia": 3
-    },
-    {
-      "titulo": "Así es iPronics, la empresa valenciana en la que ha invertido el gigante Nvidia",
-      "url": "https://elpais.com/economia/2026-09-05/asi-es-ipronics-la-empresa-valenciana-en-la-que-ha-invertido-el-gigante-nvidia.html",
-      "fuente": "El Pais Economia",
-      "fecha_publicacion": "2026-09-05",
-      "seccion": "internacional",
-      "etiquetas": [
-        "Producción"
-      ],
-      "imagen": "https://imagenes.elpais.com/resizer/v2/ROUICWI6P5FFTGBRHJ5RQSXNSM.JPG?auth=91c863f294d6fa193ff5b20d19602f05bdda98550d531b81dd8819f81ea562bc",
-      "descripcion": "La tecnológica, que trabaja en la mejora de la eficiencia de los centros de datos, acaba de cerrar una ronda de financiación de 107 millones con la firma de chips, Criteria, Maverick Silicon y Light S",
-      "relevancia": 1
-    },
-    {
-      "titulo": "La Bolsa se escuda en los resultados ante la marea de los tipos",
-      "url": "https://cincodias.elpais.com/opinion/2026-09-05/la-bolsa-se-escuda-en-los-resultados-ante-la-marea-de-los-tipos.html",
-      "fuente": "El Pais Economia",
-      "fecha_publicacion": "2026-09-05",
-      "seccion": "internacional",
-      "etiquetas": [
-        "Finanzas"
-      ],
-      "imagen": "https://imagenes.elpais.com/resizer/v2/46H2S5DTDNKNLKXOITP3C3OZIE.jpg?auth=30fdf3a0b0ed084f1ae5c85f218ecccc19a25e7bf26442cac9fbb4a5642567a4",
-      "descripcion": "Quince años de subidas ininterrumpidas en Wall Street afrontan su prueba más seria con el encarecimiento del bono estadounidense",
-      "relevancia": 1
-    },
-    {
-      "titulo": "Economía formal está siendo infiltrada por actividades ilícitas en América Latina",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPb21Hb2R2QkgyOTNicWdHS2NoXzdIUHE4SGJTT2NfQ1BsN0lDckQ5Snl4bGl3RFJHRmFiR0tIR1pScTAzbVB4T2NNODVIcElfQWo3RUh5dkpSNDdLMW5hUTdDdFRwM3ladkEwVnZ3bVFvSHhmaXRXZWxqODY2MFlUeVIxV1p2cXhwbnhIams0RnpoM3FkVW5QVFM0d0JPbVg1SEJHc0dOZkk0S0hDZkw2LWVBSmlNb0pjYTU3NENCU09pS1hJQVNEeF9TV3kzZEtHbDM5Yk93?oc=5",
-      "fuente": "notiperú",
-      "fecha_publicacion": "2026-09-05",
-      "seccion": "internacional",
-      "etiquetas": [
-        "Economia"
-      ],
-      "imagen": "",
-      "descripcion": "Economía formal está siendo infiltrada por actividades ilícitas en América Latina&nbsp;&nbsp;notiperú",
-      "relevancia": 1
-    },
-    {
-      "titulo": "La nueva financiación autonómica inicia su recorrido legislativo con la vista puesta en Junts",
-      "url": "https://elpais.com/economia/2026-09-05/la-nueva-financiacion-autonomica-inicia-su-recorrido-legislativo-con-la-vista-puesta-en-junts.html",
-      "fuente": "El Pais Economia",
-      "fecha_publicacion": "2026-09-05",
-      "seccion": "internacional",
-      "etiquetas": [
-        "Política"
-      ],
-      "imagen": "https://imagenes.elpais.com/resizer/v2/AWBK3Z7XPBH7VBPD5SM3JD6I3U.jpg?auth=d7472b6d04dfa52d133d45c8a1e3089777ce5a3780fcb110f05a38d54dac9528",
-      "descripcion": "Hacienda llevará la reforma al Consejo de Ministros en las próximas semanas tras recibir el voto favorable de solo dos comunidades y sin una mayoría parlamentaria asegurada",
-      "relevancia": 0
-    },
-    {
-      "titulo": "El renacer nuclear alarga la vida de las centrales. Construirlas es otra historia",
-      "url": "https://elpais.com/economia/2026-09-05/el-renacer-nuclear-alarga-la-vida-de-las-centrales-construirlas-es-otra-historia.html",
-      "fuente": "El Pais Economia",
-      "fecha_publicacion": "2026-09-05",
-      "seccion": "internacional",
-      "etiquetas": [
-        "Economia"
-      ],
-      "imagen": "https://imagenes.elpais.com/resizer/v2/HJHHM64LRRBTJMX5C6ITVGNJXA.JPG?auth=498160263ed0ffb7bbe7843a7f60dec042206fa7a4c705777db88d105a158897",
-      "descripcion": "Numerosos países, especialmente asiáticos, reavivan proyectos atómicos en busca de precios estables e independencia energética, aunque los expertos advierten que no siempre se consigue",
-      "relevancia": 0
-    },
-    {
-      "titulo": "Camas colgantes y muebles multiusos: cuando no hay más remedio que estrujar cada metro cuadrado en un minipiso",
-      "url": "https://elpais.com/economia/negocios/2026-09-05/camas-colgantes-y-muebles-multiusos-el-reto-de-estrujar-cada-metro-cuadrado-en-un-minipiso.html",
-      "fuente": "El Pais Economia",
-      "fecha_publicacion": "2026-09-05",
-      "seccion": "internacional",
-      "etiquetas": [
-        "Política"
-      ],
-      "imagen": "https://imagenes.elpais.com/resizer/v2/2GRIEF5FD5DYZIKVEDTAX6RGUE.jpg?auth=fa8db1ee6ee86c2d1ae0f391713a4bd0f087a51c15ad641e5481393e7f7cd449",
-      "descripcion": "Espacios diáfanos que integran cocina, salón y comedor y módulos para aprovechar el más mínimo recoveco son algunas soluciones para las viviendas pequeñas",
-      "relevancia": 0
-    },
-    {
-      "titulo": "La ‘trumpflation’ agarrota al BCE",
-      "url": "https://elpais.com/economia/2026-09-05/la-trumpflation-agarrota-al-bce.html",
-      "fuente": "El Pais Economia",
-      "fecha_publicacion": "2026-09-05",
-      "seccion": "internacional",
-      "etiquetas": [
-        "Economia"
-      ],
-      "imagen": "https://imagenes.elpais.com/resizer/v2/Y2JE2CM4ANK2BDV3R4NVUPF5ZM.jpg?auth=22d9f3c98d625f15bac20ff8ae4fa5f238fb5ea608c2533140f6e8a4017ead85",
-      "descripcion": "El argumento de que con el interés actual la inflación no volverá al objetivo del 2% es falaz, porque en realidad dependerá de la guerra, no de los tipos",
-      "relevancia": 0
-    },
-    {
-      "titulo": "Devolver los viajes por Europa en tren al imaginario español",
-      "url": "https://cincodias.elpais.com/opinion/2026-09-05/devolver-los-viajes-por-europa-en-tren-al-imaginario-espanol.html",
-      "fuente": "El Pais Economia",
-      "fecha_publicacion": "2026-09-05",
-      "seccion": "internacional",
-      "etiquetas": [
-        "Política"
-      ],
-      "imagen": "https://imagenes.elpais.com/resizer/v2/MKHWLVGQHRA6DOXGVXRXFKBVC4.jpg?auth=bdf75a482d09c66177c7321f52fac56f3bcad2f307eed412cbb5a3190d38e789",
-      "descripcion": "La escasa conectividad ferroviaria transfronteriza\nes una vulnerabilidad estructural nacional",
-      "relevancia": 0
-    },
-    {
-      "titulo": "El plan de rescate de Volkswagen mete primera",
-      "url": "https://cincodias.elpais.com/opinion/2026-09-05/el-plan-de-rescate-de-volkswagen-mete-primera.html",
-      "fuente": "El Pais Economia",
-      "fecha_publicacion": "2026-09-05",
-      "seccion": "internacional",
-      "etiquetas": [
-        "Política"
-      ],
-      "imagen": "https://imagenes.elpais.com/resizer/v2/EB7IYO7HLBLC5CQBTMZJRT3VG4.jpg?auth=9435c9905c6c31e24327b75a01304106f93126d5c9acc9277448ef2187cfc220",
-      "descripcion": "Oliver Blume no explica cómo pasará de un margen del 2,8% al 9% que promete para 2030",
-      "relevancia": 0
-    },
-    {
-      "titulo": "La estrategia de EE.UU. para desplazar a China de sus sectores estratégicos y las oportunidades para Argentina",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQZkN1LU05Rm85d3czU1dmekNoZnFZaFUtRV9aR0IzSDdoVmQxOWQ5VWsxaVlOTklhaUZsNW15RTJHLU5jTXpQY3plZ0l5MHRGYm5Wdzd3c1FNZHhHd3F6TjNxcVFMWng4MzJIU2xTQVBsb3Q1MmFsUWstZkxVN2NKa2M2UEo4VVhlYnZsTTRnT1VQamJxZVdfVmFLQ0ZfT25saTVEYWVQV25UZWhnSXpKZW1DSU5admNiWkEzdEd6c3RXUHVOajA1TUVaNl9GMkdpdDJpMm1DQVd0QVc5bk16LVVqR3hpVFU?oc=5",
-      "fuente": "El Cronista",
-      "fecha_publicacion": "2026-09-05",
-      "seccion": "internacional",
-      "etiquetas": [
         "Política"
       ],
       "imagen": "",
-      "descripcion": "La estrategia de EE.UU. para desplazar a China de sus sectores estratégicos y las oportunidades para Argentina&nbsp;&nbsp;El Cronista",
-      "relevancia": 0
-    },
-    {
-      "titulo": "Vaca Muerta concentra el 36% de los salarios privados de Neuquén y mueve otros sectores de la economía",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOY0o1RXVSVVVtY1VDZlRKR3IzNzNoNS1xbjlsV0Rab19ERVNIaVdzNktualg0a1AtVjhOOEZXc3lpT2lwTmUtN3hZdllvMncxWGxXZGh6WmhDV3NXZmd1ZDNSaFhnSUZJZUZQdUw2eUxMQmgxcGxfN0QwcEJnSWVmemZUTklHVmtKYzBTMFk5TlNDWUttaS0tdHQzMXEwWk5oVUtrcm8wNVJUMG1RYWkyVUdreDhCekJNbEdRTEp1NmJPU09BYzVKMWYtSzQ?oc=5",
-      "fuente": "Diario Neuquino",
-      "fecha_publicacion": "2026-09-04",
-      "seccion": "provincial",
-      "etiquetas": [
-        "Economia",
-        "Vaca Muerta",
-        "Empleo"
-      ],
-      "imagen": "",
-      "descripcion": "Vaca Muerta concentra el 36% de los salarios privados de Neuquén y mueve otros sectores de la economía&nbsp;&nbsp;Diario Neuquino",
-      "relevancia": 5
-    },
-    {
-      "titulo": "Neuquén licitará más áreas para explorar el gas de Vaca Muerta: el anuncio de Figueroa en Houston",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQWFBsTXl5dTc5Uld1RnZucTBTbG82NGxMQjNmdjVpVEFXX1phMnB2U2hfZ2p2SU5VRTh0dlIzWENjT01QX2N5ZDJlbVB3bDBmbDN1U0t3Y0hVY2xSWmpoRVZGd3FkR2RGU3hyN2lXUUl5U1Jhd2d5WlB6c2gwdXhFUmtGV05uOUVYdEI4TjVwNVZMVDZRRE1uQUFUTmpxeXE3VU1UNS1CVGw2RzUyX1ZjdWxaTTRMRVJsb0thYjI2bk9aRWxXOUh5cVUtWjVEeFJ2OERhZXNPaFRFU2Z1dUl30gHkAUFVX3lxTE1ZV05rZTFPNUdpSWc4QUR4ZWJsdGJhVV9Mbk1USml1S3FLQk1kZWU3TEhFSjktbzF3Q0ZSU2ZHUkY2UGxrWlcxdUpPX0pJRmR3bXVVQ050aF9EYllvSmZ2dlh0d2d2NjVpeHNlMUI0aVQ1UFE2RHRMOWdwb3cxeDBZeXVJbnVkLUZET0g5TUNkQVBiVkJESDlPREhNR0czQ3FxOXpEdkZvY294Vks1VnIzLXBoSU95M1NxVThmYlhVeDhRcXg3SEIzX0tlaF96SkNfOGNmMXdMamJwYnc2SERucU1lWg?oc=5",
-      "fuente": "amcumbre.com",
-      "fecha_publicacion": "2026-09-04",
-      "seccion": "provincial",
-      "etiquetas": [
-        "Producción",
-        "Vaca Muerta"
-      ],
-      "imagen": "",
-      "descripcion": "Neuquén licitará más áreas para explorar el gas de Vaca Muerta: el anuncio de Figueroa en Houston&nbsp;&nbsp;amcumbre.com",
-      "relevancia": 4
-    },
-    {
-      "titulo": "El peso de Vaca Muerta: más de un tercio de los salarios privados que se pagan en Neuquén provienen del sector petrolero",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQakp2ek80NUltSWsxanA4WmllTE41VEZDUlVrbEthVWZfa09MQVlaZTUzM2tSSGtsWXhJZ2VLYk11dWtIOEx4ajd5a19TaEhsUEJDU1Y3aTRIbjdDNktHU1VwejBJRVVjRHJEbkEzQUVCRldhcmV2RzdHTzhGLW51T3ZYZW1aSmNKQnhHSmpmcVBQeVZXWV9KZXZ6ODNYbnhic0UzNlBBOEdqUEh4YmJqdFRHaVV0cEhUNDBrdWcyV2xjME9sSW51UGdvbkpaRUNPV0dLbS0well4NXNqQUl3dEg1NUtrUHUzU01OT9IB9AFBVV95cUxPWnNIdnAzbVJfcGEydnVUMm52N3VyV3ZUTlRDSnR3cjdZa0J6YTVGWW1BcGVfUDFjSi1ZRVM4amxpYlpjZzN0b3NRS2JIaGN6dzVaT0pGT1lMczFCN3BRa3VrbmJYc1JpQjNUcnRpSnZHd19LdUpUNGFfRUo0NjNVT2xDNnpvZklmWXhJSlFjeVZTWS1MZmRLak1YXzE4bXVDYVZmSS0teDMyRkJKRk1GX1hYYTd5eEhUb3B4ZG1ZMFBaNHNxLUlkNHQ0TmR5SWUyelNLRjZjUkU1N0ZSSnNtYXdSWkYyX0hZeW5GbEJEdmNJQXNB?oc=5",
-      "fuente": "Diario Río Negro",
-      "fecha_publicacion": "2026-09-04",
-      "seccion": "provincial",
-      "etiquetas": [
-        "Vaca Muerta",
-        "Empleo"
-      ],
-      "imagen": "",
-      "descripcion": "El peso de Vaca Muerta: más de un tercio de los salarios privados que se pagan en Neuquén provienen del sector petrolero&nbsp;&nbsp;Diario Río Negro",
-      "relevancia": 4
-    },
-    {
-      "titulo": "Vaca Muerta explica más de un tercio de los salarios privados de Neuquén",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdE55NFBhQ2VTNTFocWYyVzdRZTdUQVJ4eDl5N3VCR19mY0RfQ0drLWl4ekZWV3FvZl80ekpjR2UySktjM3VjMEtob1VKV3dDMC1OS2ExdzBIV1ZjZWR3c1pJMFJmdVBKTHVIQTkzOFk5aFBQbUlQNXFCc2tTUllXd21HS1Y2UmZSdGtoX0RNa0tCbGFKSk9lSnVVTWxpaFBMcEFDaDRMYmdXSjhmVGE0R1diTW53aEE?oc=5",
-      "fuente": "Neuquen Post",
-      "fecha_publicacion": "2026-09-04",
-      "seccion": "provincial",
-      "etiquetas": [
-        "Vaca Muerta",
-        "Empleo"
-      ],
-      "imagen": "",
-      "descripcion": "Vaca Muerta explica más de un tercio de los salarios privados de Neuquén&nbsp;&nbsp;Neuquen Post",
-      "relevancia": 4
-    },
-    {
-      "titulo": "Malvinas o Vaca Muerta: el Gobierno puso a 180 empresas ante una disyuntiva",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOb00wZXhwOUV3SDduVV9Nb1ZyeHdpX29KRmhkeElON3phX3ZudzlwOTZ6N1pDRlFnWlZKUUYwV01KczIxdUFoMi1qdHVTU04xZWpUWDhIaEhjWVBUUUFkUU9wTFFjZmllTUx1ZkRZSmNCOVdZcGI1T1dJcEFfQmNaeWNXTXp1bmF6VFZGN2k2bTNfbXJ2cUE1NDM2RGxPaGJENkJlSklFUzd0UWNYTmx2UE1ibU9aSlIz0gGyAUFVX3lxTFBQcjYtYXNXY1A5SmYyQ09kY3gtNUZSdzctSmxnTGwtc0o4NlFQazFPVWtNYkxJUnJSLVE5U2JkbkcyclBFNnEyYzdCUlRQZmM1QjI4QU84UGNIZ2VweklQaDN5MDhTOVBMUnY5NS1rQjFKTHdoN3dVdzF3S3B0WlZJMnNmS3YtcVZGWk4xNU5Oem5NSWxBVkRFT3BnejlIWW82V3U1Yk9OVEpkQjhEaUpRZXc?oc=5",
-      "fuente": "BAE Negocios",
-      "fecha_publicacion": "2026-09-04",
-      "seccion": "provincial",
-      "etiquetas": [
-        "Política",
-        "Producción",
-        "Vaca Muerta"
-      ],
-      "imagen": "",
-      "descripcion": "Malvinas o Vaca Muerta: el Gobierno puso a 180 empresas ante una disyuntiva&nbsp;&nbsp;BAE Negocios",
-      "relevancia": 4
-    },
-    {
-      "titulo": "Empresas en Malvinas: excluidas de Vaca Muerta por decisión del Gobierno",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcDdweHNndWc4R1VnWmlSYUpfdlNtS1pfdlVrNnB2NEE4N3pSdnhvX1dXSF9wMjAzVkF6dUwzRm5zTUt2WUt1blJrTllEUHFuLXRkVllTbWNWTW5vWTNQbTlpY0lCMjA3NGNCOGlKRTlHdGQyQXNmVXhGY0hsLWw1NlM2OWtWUm1KeGFBVG8xMzJ3TzhHR1pNTXVwM01GZlpEWHc?oc=5",
-      "fuente": "Mundo Empresarial AR",
-      "fecha_publicacion": "2026-09-04",
-      "seccion": "provincial",
-      "etiquetas": [
-        "Política",
-        "Producción",
-        "Vaca Muerta"
-      ],
-      "imagen": "",
-      "descripcion": "Empresas en Malvinas: excluidas de Vaca Muerta por decisión del Gobierno&nbsp;&nbsp;Mundo Empresarial AR",
-      "relevancia": 4
-    },
-    {
-      "titulo": "Rolando Figueroa ratificó en Houston que Vaca Muerta es una política de Estado para Neuquén",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaGx0cWlSOFFZUFc3Nk1JRlZHUGlySUpPaVViX2FhdmRib1FJTTFvYllxbXA4Y1hEUkJ6ZUY1YlhnNHRZT3JDdXVfNXhlV0VMTy0tNF93Ql81S3o1aEpjZG4tVXNPSDVvWFF5cjVDRC13SVQ0OFJDQkxCZVUxWkN2dDhxdmlUNGNSbzJmeEc5ajF4NnVmYzBfb3NtdjV4WXZKRW4yLWUwakhFbTFZN1dZa1QyN1dDZHlHMVZ6WmNGRVHSAcYBQVVfeXFMTVFWcUhINzk3OXFNaVlhYmxzQ3E4MVlSc0d0ZlpWYi10bzJDaWJzMF9EcmRtM2NvR3NpMDctM1o2cHVfNjdMVWR6YVJPREdjYWtJdXJOeEtnMzU4VEtBMXVKa1RzUVE0c2VXX256aHhUT2NRaW5xVGlkNS14QkUtbWx0ZDZDQ3RZbC1GUlRyb29fRXliaGZsWTJsWTFjRHNpWGhPUUdLLUo4a3BXaXdwa0xkNTRxTU1UWjhzbDhwQjNYaVZNYUpn?oc=5",
-      "fuente": "Lmneuquen.com",
-      "fecha_publicacion": "2026-09-04",
-      "seccion": "provincial",
-      "etiquetas": [
-        "Política",
-        "Vaca Muerta"
-      ],
-      "imagen": "",
-      "descripcion": "Rolando Figueroa ratificó en Houston que Vaca Muerta es una política de Estado para Neuquén&nbsp;&nbsp;Lmneuquen.com",
-      "relevancia": 4
-    },
-    {
-      "titulo": "Subsidios de luz y gas: el Gobierno Nacional puso la lupa sobre 500 usuarios de Neuquén",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQSVZHSldrN2c4TVdtd2V0LWFaN3lPUExheG1zS3hwSWJkbnpmdkV5RGQxRzQ2T0J2Z1JCRS1aMy16cVJSZlZ6ZUdOX1dUbWJsc3V4TzM0VG00ZVRRb3M3QURhVEU5US10a3Z0VEdUblJNbHY5am5rOEpVNzhkYW53VlNOZ1R4ajB0dGJMbk1HUXd3NHpxYlk4Sjh1bkpGZGtKQXA5Wnk0UEFTRnJVZkM0UVhSazk2T3RhY1l2LWtNSUQ4b0I2ZHA0Qm01MDdsaENRSTBQTE8xQ0RLQzdv0gHiAUFVX3lxTE1jSVFYQmx6QTZrSHZYRHR4aXdjUDNQbVktaGNPT0d0N3JQcXNsVElpTFd4UzREcTAzWTVFWk81NzBNaHBJTE54YjFmZVVZMjNJQmZvV0dPTDZfUlIzd1pmV24wSGVNcDEtWkJVT0t1M3hCMkxNbkdkNGFxWWdHQzl3QzNUYkhnVjExX29JOVB4LXk0SjdLV0g0aXFLdXNGTTF6NHJXQVFvZk45MWd0RlhhZkFUMVNodlpFbldTX3lma2dSWVp1SXVJUURFY2N0M1ZzQWdHZmluclN0NUxwV3EtUGc?oc=5",
-      "fuente": "NoticiasNQN",
-      "fecha_publicacion": "2026-09-04",
-      "seccion": "provincial",
-      "etiquetas": [
-        "Política",
-        "Producción"
-      ],
-      "imagen": "",
-      "descripcion": "Subsidios de luz y gas: el Gobierno Nacional puso la lupa sobre 500 usuarios de Neuquén&nbsp;&nbsp;NoticiasNQN",
+      "descripcion": "Murió Alberto Iribarne, exministro de Justicia durante el gobierno de Néstor Kirchner&nbsp;&nbsp;Perfil",
       "relevancia": 3
     },
     {
-      "titulo": "Gustavo Medele: \"Hay que crear condiciones para que las empresas aterricen en Neuquén\"",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUkotcU8yakhQb0NHTHVqUTloRjJ4d2txTV80SlRaRXNXSVZULU1ZakphWFhRM0FEZWNQTVBIck5TRXppNmhzbTR2QW4zN0dlYVgwWUhrZWNEZjR1Q1dXY3hNWml6RDZzdWVRdjBCVXR0RDRzOE56cWJhaFVBdzNsQzVmV0kycmRGYXVJNGVkQV9seHZ6d2U2ZEVQdkdySXZiSTdRVE5XNS10OEwzbmNUbTRxcFBQOFdzdWtjRFdHTTPSAcYBQVVfeXFMTU94eFlHVFNWU2lnSzR0MExCaGdqX0M1UTdCd2hrenpPc3p1U1FZeVo1UGRQMUVoVTZLcld2M0hIalBKOFFhSmEwdGFpMjdEdzk1VEJJbmluaHlKX281TXJrdEpoSkpWaFRCb0JxZ3NKdUpMeDRIdVVmN2lRWGE1VzFLY1QzVXBONFk2YnZDdzJtR0Vhbi1MbkdtVHZCSzJTNVlsaUZPRloyRGNKN0RUV21TT0w5aVNZSTVJeGg5VDF0VzYzX1Zn?oc=5",
-      "fuente": "Lmneuquen.com",
-      "fecha_publicacion": "2026-09-04",
-      "seccion": "provincial",
-      "etiquetas": [
-        "Producción"
-      ],
-      "imagen": "",
-      "descripcion": "Gustavo Medele: \"Hay que crear condiciones para que las empresas aterricen en Neuquén\"&nbsp;&nbsp;Lmneuquen.com",
-      "relevancia": 3
-    },
-    {
-      "titulo": "Figueroa anunció en Houston más áreas para explorar el gas de Vaca Muerta",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNX3ppMU54WHlrZ0FzNVR6aHVjUlNJbnRqcE5tY0FZaFBjd082cThRbUtCVHBxeEtRWmVkT04zM1IyZ0h5ZC0tYmpTWWhyUk5yeExaRzlCMEtjYnNFU2xBZ2tLc05RNnc4NmplQkJfUXZTcFY3eU9vTk9BMjhETXFCTUZmQ2NNMEpCakhzSXktdFhXR0lYd0JLXzQwLTZQN0twTHpKNng5bFlHa3VtQkx0R3BJakdmWC1uU1JNa2JIOWVnLWJaNFpKctIBzgFBVV95cUxNazNudXdUSENvYnBrYS1hVEJnUFUtS3JHTnY1SWktTnpZcU0wUzBkdjRZMnMxeW5JOXAxZTN2Y25NU2xlMlZwMnRRTkt5dUR4ZnpxSDl4U3AwQ1ZUZ3YxWTBBRlI2RGNETWwzUTFjTUpYY0kwQXpSVFZoSEU2WEJPdjNOY3duZjd3bFdZV3g1TGlMRGxfdWVscHExN01JTlhVeTB1dUVXMHN0cDRQUTNIOGtXVWNOd0FSWTlsV3FLRFpmOFd6NHdDNTFvX0g5UQ?oc=5",
-      "fuente": "alertadigital.ar",
-      "fecha_publicacion": "2026-09-04",
-      "seccion": "provincial",
-      "etiquetas": [
-        "Producción",
-        "Vaca Muerta"
-      ],
-      "imagen": "",
-      "descripcion": "Figueroa anunció en Houston más áreas para explorar el gas de Vaca Muerta&nbsp;&nbsp;alertadigital.ar",
-      "relevancia": 3
-    },
-    {
-      "titulo": "El gobernador Rolando Figueroa y el lado B del boom de Vaca Muerta: \"Neuquén recibe 70 nuevos habitantes por día\"",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPRFE5OHl4eXVYb0hRQy1hRlJtNHJjNm5VM2VtM1JzZzhuR2hUMXBzVjBuWTY0RGpQNE5xRTd2NS1CY3ZHeHNONVlKZVNmLXA2RFJScS16YWNrNUxpbjkxaFVXNnhxTklEUkFKWEZOdG56T200RzVReDlNUkNBajdMRkNtZFNOd0VBWnBlVjZDRi1CRXRSYXpUVWZCZXFFVGpFUy1lNDBENDVJalMwaUxyYTNuYWxvVGpSSXNPd3B6NkJ6RW9XUnJicndDcTVIQi1DYUx5NlFPbHd4dTdmcGVFZVhNbzZpTjNRVnJRRE9oTXM1MDdwejQzZmFJMTjSAYICQVVfeXFMUFg4a2ViS1ZVQzBiOU8wdTZ1VUt1R3pPNGFrV1BjT3p4QkRwM3dhd0Z2OWViUHZIM29pRmthMVlRV2ZZaEk5QXU4SDFvU2JYOEViajlNdHVTWHBKUUtQT1ZsYmoxdmlacElkSUNyYnVUWUprclBaa0JhYVhpaENYQmU2bFdzRnRkbmFVQWx6dUVnTE5JZW1ZSDFhWUNtUGRTVTBSOTZZMjJNVjdhVFVUVzE4eDdLaVIycUFxbHdvT2d2TmlHYjI3Wi01eFVSY01IbFktWWpzZ2xfLXZOUGsxV29Xd1B4dzFYUEFOSl9veHlqb202Y2xSTExLeHJNd3NRWDl3?oc=5",
-      "fuente": "elobservador.com.uy",
-      "fecha_publicacion": "2026-09-04",
-      "seccion": "provincial",
-      "etiquetas": [
-        "Vaca Muerta"
-      ],
-      "imagen": "",
-      "descripcion": "El gobernador Rolando Figueroa y el lado B del boom de Vaca Muerta: \"Neuquén recibe 70 nuevos habitantes por día\"&nbsp;&nbsp;elobservador.com.uy",
-      "relevancia": 3
-    },
-    {
-      "titulo": "Vaca Muerta: qué empresas invierten en el Hub Norte y cuál es el próximo megaproyecto",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQVTFCVXZSR05fYVJXUjJiZklGR1R4a1JUMWhHaDVUWXJheVcyWnREdTIwOHVQaVFPZ3E5ZEdXdnNITVVFQXhiVmJudUxka3NGal96VlRRVkowR3EyYjhnS2hQWHFhOGMwSkVFZ0pSMmtWUVk2Wm12X2VKY01QUS1lcTVQOHJ1X3oyYXVfUVFUNGhhcHBmcU9pM1lSdW5iTWZZYklDT2Q4ZDlmRlpCZEFnM25BWG5kM3RoLXQtaXd6VGI5ckpfd2pqWjFKTFVDWDZodVpUQkFBWQ?oc=5",
-      "fuente": "El Cronista",
-      "fecha_publicacion": "2026-09-04",
-      "seccion": "provincial",
-      "etiquetas": [
-        "Producción",
-        "Vaca Muerta"
-      ],
-      "imagen": "",
-      "descripcion": "Vaca Muerta: qué empresas invierten en el Hub Norte y cuál es el próximo megaproyecto&nbsp;&nbsp;El Cronista",
-      "relevancia": 3
-    },
-    {
-      "titulo": "Del petróleo al empleo: la distancia que todavía debe recorrer Vaca Muerta - El Economista",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObXZkcVZqYUJBVWRkX0Y2T3lnQ2VfTDlmOUY3MDhVaUpPdXc4WWNkWElZR196NWNVSktIU3BEdzJZSHprb3BXcl9FZlpHVUJHeXRFV09TbmdySHlwcFpySDQ3eEtoREJZS3hYSlZzaHNLaE1PZ084LWRFclpzeC11MEdGcXJZZ1nSAYwBQVVfeXFMUHpRMzhjVW44UjZCcS1oNVJ4WHI0REhDSTZQWjNJX3BMbUNRYWVndHB2RlZWcU5VZEREZU52WXdpUEpZOXRGNmZYLVJfaDF2RDROMndwRlJTYjRCSXJkekNNaXRVa0ZVTWIxU09FY1FaSHEtdHJ6TTBHRUFUY0FwbnpZQkVqZlVuUHkxbng?oc=5",
-      "fuente": "El EconomistaÚltimas noticias económicas y financieras",
-      "fecha_publicacion": "2026-09-04",
-      "seccion": "provincial",
-      "etiquetas": [
-        "Producción",
-        "Vaca Muerta",
-        "Empleo"
-      ],
-      "imagen": "",
-      "descripcion": "Del petróleo al empleo: la distancia que todavía debe recorrer Vaca Muerta&nbsp;&nbsp;El Economista - Últimas noticias económicas y financieras",
-      "relevancia": 3
-    },
-    {
-      "titulo": "Vaca Muerta: Mariano Gaido y Rolando Figueroa presentaron en Houston el polo de inversiones",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPeWRsN0drVXFsQUlrZUdPVGdMQ1RHNUkxOEthM1JteGRWLWNCNU4wSGRQQ3MzVGNuY3E2eUtBMmFQeFhsNWhfZFVodGQ0ZmU1Q2ZJeFFfb29rU29Qd0JiTDVBazA5d0tpOUMzajdYZDFoNXFTNmFjNndxdlJlZWtiTHlIMFgtbU5RVFNnQVlzVmQwWGVBN1F4ZkdsT01UekppY1FLQjMzX3l4YjB4MVVaRXUyMUJZRzduYjdzaV9YUHo1WndMR19ESNIBzgFBVV95cUxNN3JtOHRkeGFYZ1VyZDJWR0JScWdlS1JITmhEQzRMVWIyZ1RjVGYzVDZiS0hJZmw2ejVvTzJDZkw2TzJxcEQ0ODZyY0pKZ3R1VDBqeUdHQTBEVFdDa0FiZDN0NmlCbENZQ0NhXzhpV3RNX2lMMnQtV2lRZWlneVNnRXBYVG5Ja2tqOVRqTEduUkUxbi1EMHRxSFlwYlBCV1htVU1jWEYyNzVrYkpwZTFuQlI3QlFMTk1PMEIxY0g4VEN1LTBXQ2E5RjNuMFR4QQ?oc=5",
-      "fuente": "Lmneuquen.com",
-      "fecha_publicacion": "2026-09-04",
-      "seccion": "provincial",
-      "etiquetas": [
-        "Vaca Muerta",
-        "Finanzas"
-      ],
-      "imagen": "",
-      "descripcion": "Vaca Muerta: Mariano Gaido y Rolando Figueroa presentaron en Houston el polo de inversiones&nbsp;&nbsp;Lmneuquen.com",
-      "relevancia": 3
-    },
-    {
-      "titulo": "Rolando Figueroa en Houston: la importancia de las nuevas inversiones en Vaca Muerta",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaE9XVTBKWWdqVTJnMTZLRGpad0dLLTEtM2NIejVQc0xHemdwZkt4bTJzZ1BYX29YSjBWNkZBM01tTkxEWnlhbkJpWlltNHU2RXNiei1Nemt6QkhsR1VlaTRRZnd4Z19CWF9TTW9pZnl5Vm9mM09pZmVUN1Z1aHhKLWhYTmRSZTdILU5XMnhpQlQzRkszVWItTGU4R3RmcEhOQzFKMHExUTdWbV9NRGNuQVJOMnFIVDJJSVZEM085SdIBxAFBVV95cUxQdDJtVnNMTm53VmRPV2NJVU1JSXhkZkhsLWdua1hxc3p3Y3ROZmU2VURvTkthaUZCVDlvOVhiYkR3OUF5NjVGZmZpeVJDeXVNRzZUZXdMUWdVcUJZZ0czRlpwNWVST1d5M01lNkxiVzNiUjB6ZUNQN2M0Q0xqSk0xYld1S3VUam80VkFZb2s2MTY5bWJMQVF4c1YtYktqMkthM3NCQ1FyVWVaUHEzRjZicThHSGFfeWRTSDlDN3lEYjUxWjNY?oc=5",
-      "fuente": "Lmneuquen.com",
-      "fecha_publicacion": "2026-09-04",
-      "seccion": "provincial",
-      "etiquetas": [
-        "Vaca Muerta",
-        "Finanzas"
-      ],
-      "imagen": "",
-      "descripcion": "Rolando Figueroa en Houston: la importancia de las nuevas inversiones en Vaca Muerta&nbsp;&nbsp;Lmneuquen.com",
-      "relevancia": 3
-    },
-    {
-      "titulo": "CALF expande su red de fibra óptica a Vaca Muerta: conectará a empresas en Añelo y proyecta un Data Center",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPQXJ0cHRDRkZkaXZCaTdZZXR4N00yS2RUdjBpZlMxZ1Qta1BjYmYxOGNheU13SlVaUjdzRHJESFZ1TThmWXM4MVV4cVQ1aFQyeF9uMWQxVnlYNHRsTzdVNGsySmNYR3JQTHdYbkgyWjlfM3ZRT1dtZ3VzMUFCVWlzc0FBUjlmRUpQU2lmM0p1Tk1PU0xvOVNrV3NlVlR6ejJqTTZFSkxpdTk1cV9Qanh3SzluMTJOeEl5TV9tc0MwMTRRcURRZWU4VkdaTWZfdkRHa3JLVtIB2gFBVV95cUxOYlFtNkpReHV4LXNUZC1ybTNzN0VEU1JOaG5GaVBTMzc3bDZFTEtDZW9hblBtTlVYcFU3YWlaa084SFJqbElUcnA0c2xudDJOWkNMZmhfNGxBOVQ1aXhRaVJQbkE1aXE4VlhwS3lqZ0FIMFdSVGc0Q3U4MjhYRDlmaUJBUU1yeGVNTDBOOENZMzBKM2hNUU40UmllMmVIMDdwOEdGcmpzSXg2RFFLNjgxbmk5SGV6ZV90bmlZUUoyYldWYkFmVkkzTW8yRC1oWjNJLVV0VTF0U2JiUQ?oc=5",
-      "fuente": "Lmneuquen.com",
-      "fecha_publicacion": "2026-09-04",
-      "seccion": "provincial",
-      "etiquetas": [
-        "Producción",
-        "Vaca Muerta"
-      ],
-      "imagen": "",
-      "descripcion": "CALF expande su red de fibra óptica a Vaca Muerta: conectará a empresas en Añelo y proyecta un Data Center&nbsp;&nbsp;Lmneuquen.com",
-      "relevancia": 3
-    },
-    {
-      "titulo": "Figueroa defendió en Houston la continuidad de la política petrolera de Neuquén",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORlExX0Z3OWtMWlVEbkpBa3hjaTR1ZmRmNU5CbGJkTU1MeVFkRE0yNlc1SmJINzNHUUhPMlR3T1pxVVFlcGZDYjhQeG9meEQwcHJJQnBKaW1tYlNCMjBqN0xLWDZtT05qWFJsdDdUbDh5UmQxYl8yd18zVDlBcTh1ZlB4em14azdhT05jT0tqcU8xZTAyeHdFRlF3OWNYQVFncnFob3Z5bw?oc=5",
-      "fuente": "Neuquen Post",
-      "fecha_publicacion": "2026-09-04",
-      "seccion": "provincial",
-      "etiquetas": [
-        "Política"
-      ],
-      "imagen": "",
-      "descripcion": "Figueroa defendió en Houston la continuidad de la política petrolera de Neuquén&nbsp;&nbsp;Neuquen Post",
-      "relevancia": 3
-    },
-    {
-      "titulo": "Para el mercado, la inflación se plancha y el dólar seguirá calmo",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORThESWtXYW1sd2dRZ3ZCZFlaOGM5MlNBU1BkbUNJUGZIWlVIajM2ZHllR1JoZmx4Wnp4VVNvcDJRSXl2V2x4cU52RFNuUzBVUEhycUZBUlhkNDRWUjVSRkxjOWd3cjRGY3VtR1VBU19fOGVaYV9aR0V5ZTBXRWpjUU45YTJxd3FmLWFlZTNKbkh2UEw0RXZJTk9sbUtId211QVNUcFB0MVplNm0wN1FfajdLNUc?oc=5",
+      "titulo": "La lista de empresas y accionistas que sancionará el Gobierno por operaciones en las islas Malvinas",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQOWc2MVQ1MW4yR0gzOE55dWpfSVJya1paTXZaZHozUlpmekd2R2lGaXgzeS03UkFoUVZyb1AzbnNtV2JoS1NKT3NveTVJMHFub3ZKdklSc2RYWjN6c1RTZ0FsV29tYXdKQTFYMHlSZVdiZVY5VWMyZjFXRktjR0JjSUJ2ZkdDQk9jSi00akJydkxwYWQwTWdCU25kV0pjTVZyWEtUcVJleEY5VjJLZ1BmUHlrLTBqbm9xMG9YNmRmOVhQWmNxeEJuSFlFMk5kblBHb3lCdnZQZlY3WjdtRV9pZU9wUQ?oc=5",
       "fuente": "La Nación",
-      "fecha_publicacion": "2026-09-04",
-      "seccion": "nacional",
-      "etiquetas": [
-        "Economia",
-        "Finanzas"
-      ],
-      "imagen": "",
-      "descripcion": "Para el mercado, la inflación se plancha y el dólar seguirá calmo&nbsp;&nbsp;La Nación",
-      "relevancia": 3
-    },
-    {
-      "titulo": "Petróleo en Malvinas: caen las acciones de las empresas que operan en as islas",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNaXFKb0E5NWFIT2ViZE0xVHJ3WEoyeF9POW5hQXc5UTdDYXctR0FKV3lqVUtOYURjdU9QY2dIdUlsNlMtZVVMd19qTnNndzFySUh3WnpnX0hrNTluZi1wTXUtZmhPNlpDdW1feWVMME5QWWY4TzYxUVR6ZkQ0QXRsLWlLNkRqREFJVmlTWTV1VkU5d0xRVEVfSWJGVmVIMzZ6em8xenlwZ1h0UVg0d2ZQMHhwZEhEOGxPM2hyd0xBOU41SDNDWFc2Zy1BN1QydUtkdlhaaWx4WTRpajRlZkFXMXY0VURCcFdPZGpVV0xXZ9IBgwJBVV95cUxNZmVUZFFPWVBlUl9McmlpZXRGdjNWNzZTLUd5Vktwd2F1bm5kZE5ybUtIS2xiUEpNc2lCN1ZFTjZUUnlqT1YwbDhUWEV1UTNpeXkta1NhOUdsbGF2SDU3TUdFS1ZVUjVJOFlONjlTZndMLUZTNFkxcWdlOUI5MHlZU3BKM0xETy1FQm5KVGxDRXhrQlY0WFg0R3g3RzZNZmJYbE1XOE51Z3I2QWJxVW5zNmJLNWRPeXdHUzVXSmFSUHlURWx0SjM4MzFxME9kWEpXc0Ziel9xcl9XYzNMMDhFT0ZOVVVDOHItRXRscU56ZmhGaThlc2NXYXBjTzZOWmNZTDFn?oc=5",
-      "fuente": "TN",
-      "fecha_publicacion": "2026-09-04",
-      "seccion": "nacional",
-      "etiquetas": [
-        "Producción",
-        "Finanzas"
-      ],
-      "imagen": "",
-      "descripcion": "Petróleo en Malvinas: caen las acciones de las empresas que operan en as islas&nbsp;&nbsp;TN",
-      "relevancia": 3
-    },
-    {
-      "titulo": "Iguazú: La economía y la política partidaria se entrecruzan en la segunda jornada de la convención anual de empresarios",
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPaXhIX2xXMHRCTzhYZFhhZ2xJbkY3ZHFqa2lGY3RrTXI1NFJ2ZzZ2MExhWkgzTzNvN1Z3Z1FCUHBYNHl0bVpSeDJnSkhwV20ydHBmT3Z1WWtKSmQwbWpVV0x3bmJFWEIzdFNwOWNEWnpOQ01WMGYteks2bUxyWndONFc0YmdfMUFwaEhweGhBX1ZWMmk0YV85d2hIRElZUW4taTlkRlFKejJGRlhUVE5rX25YMHIyOVVadE1vTk1uRF9YTnlLOHZva3VUWDBwbE5oUnZ1Q3MxRnpyejY0NU5RRVlxaFI3ODVxcGYxZlNXb3V3WDNHR1FESV9wQk5peWMwdlloYUhmQlnSAY4CQVVfeXFMT1VOUnJQVF9fT1ZEcWphUnY0NVhQZExZQjAtSzhlOHotOGIyTUlDSEVmRFhVNjZMcUVzVlJyTDIzRUlLOVdmZkUwS1dNazdXaVVIZmg4ZU94LVNlckVkd3JBZnc4SlRuNG5zRFFfT0JzU2RoQ1ExZ2NTS2lkZmc3bmJ4SlZhaTRmMnQxa2RQT0xjVFBDRmE2QjBBVGVPRTBxc2hSWEpfeXVFUmY3aVB6S1hNNGU2eEFFQ25CVjQwVEZUdmxkbThMa2ZDVmtCZzdSOGgwR0xjc0JGOFU4aTNMUmtCd0F2WWRnVHZWdk5HRWs1azFCdk41M1piZWtpcTdjdGtPWFgzMHZtcFdyR21n?oc=5",
-      "fuente": "El Territorio",
-      "fecha_publicacion": "2026-09-04",
-      "seccion": "nacional",
-      "etiquetas": [
-        "Economia",
-        "Política",
-        "Producción"
-      ],
-      "imagen": "",
-      "descripcion": "Iguazú: La economía y la política partidaria se entrecruzan en la segunda jornada de la convención anual de empresarios&nbsp;&nbsp;El Territorio",
-      "relevancia": 3
-    },
-    {
-      "titulo": "División en el Gabinete por la economía, la ley Wall Street y el enojo de Milei",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWXBCbGo3TjVZU3FsNTd2S3lPQTdwRmxZNzVlUEZzZXVoWjBiRFlnVnd2MFU2RDBaWDhNbzMwN0M5S0FBTE1xLWc3bzd4SGxvS2VmWV9NUklVVUtaTEZILVRxeTRRdTc2cGF0bkJCdThyYnoxUTlsRjVoN09zUUtCUDQxUnFKZ0pGQ0tZa1JQdXNZdG5MMVVYZnU4RVIzLXBScTlhRll3?oc=5",
-      "fuente": "clarin.com",
-      "fecha_publicacion": "2026-09-04",
-      "seccion": "nacional",
-      "etiquetas": [
-        "Economia",
-        "Política"
-      ],
-      "imagen": "",
-      "descripcion": "División en el Gabinete por la economía, la ley Wall Street y el enojo de Milei&nbsp;&nbsp;clarin.com",
-      "relevancia": 3
-    },
-    {
-      "titulo": "Argentina ratificó que tiene el respaldo de Chile y advirtió: las empresas que operen en Malvinas serán excluidas de Vaca Muerta",
-      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQeFZ5MGpWaC1PMU9yUHNNWTBVeDJINVpPeVF4WUJOZFg0dlotTDhwNk94VG1iR2ZxbzBieTBfaTZkd0NETHh0cU5Ka0tFcmJ1OHhyVHlGUjVPbWxIaXNCWW5HVXlYRFlMMjUtWXZWclJrWTVlbm5obUZNbHk4SGVCOFZmblVqTFBqRGY2cWVpTVZ6TWdjOWhXNTFTTHJQM09OYkFnc3BQUmRvc3ljX1pDMmxvbEtVSGpoM0I5Uzc1eVBYR0dRTDkwVElXZGRGQ3M3bUVWamppVmNYSW1Cd2xtNFd3UjBiSWZzemVTcEdIckFJRnNveFFZZ29TZkM5czFudUHSAZwCQVVfeXFMT1RMeWsxR2lpaV9ieTg2cUluNEZEQ1NYbFd5RGdESTRCeTYtOVBIV3JhbzktUlJabERZc1k1QXdBUkNCR3BoSXN2UmV3UW5KN01TWlpFWmZuS1BGemtubTVMWW9QYVRzU0cwSDR4X2xxazBWWmRMVlptdk5lNzk1Zkc5WXMtTTdSR1pCWUhPWWdKZ3lGaFFpV191S2pvSWJLR01zNmV1cVN3VC1nUnpEeG9FWlA4cDQ5dDJraEwyaUp2eTIwQUpGQUJLNWZwbGlPQWRRWGtvRXRkYVdtWGJMRWJWckljSF8tblI3VkVDRkczY05rbjJtbUVYeW9PUUl4M1puWUZCMU51M0EyanplNHI3Wmd5Sk41S3hXTm8?oc=5",
-      "fuente": "Infobae",
-      "fecha_publicacion": "2026-09-04",
-      "seccion": "nacional",
-      "etiquetas": [
-        "Producción",
-        "Vaca Muerta"
-      ],
-      "imagen": "",
-      "descripcion": "Argentina ratificó que tiene el respaldo de Chile y advirtió: las empresas que operen en Malvinas serán excluidas de Vaca Muerta&nbsp;&nbsp;Infobae",
-      "relevancia": 3
-    },
-    {
-      "titulo": "El Gobierno anunció que comenzó a sancionar a empresas vinculadas a la explotación de hidrocarburos en las Islas Malvinas",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPOEt0Wl9iZEc0S0RoQUxMNllhaUZfd1hjQUFwemZJX0JmdU80dXp1b1dHWGpZSDhJb21mOHpoNjhqcElybS01Y1lrYXVyUzRfaFcwSy1tREVtQ3Q3Z0toQ1lXNl9WRmNaeEUzMW90YXgwUHNYSzlUYkhxQmxGVFZHY1ZtVk96bXh2dnktcDdqN2hha2xQNFREN1BoOFE0YUUxNWxIRWg1SFdPcmllSDBLQnFpbjNMVmVmZ0lIWjBxeWVwQ1FlcnBpTlNncGxzM2taWEFINmM2LVFmeU1HV0RCR3F6TmFIbUk3Tk9nemtvVGjSAYQCQVVfeXFMT2l3eWpBN3ZSWUprNHVrREZ2eTlSUHk3aHZnQXRRNlZsZWxQcndibkZMNTVEeEpHQTkzOFRZODRTSUJYQml2WnpucG1SWXNWN1BUOFdRT0FJdE90ZUNGWDdBclNjTnBpNmJKU29ySUdiYkFPZ1dEMXg4UHpRQ1VyY3pWSkRTbU5LdUJqSlJDNk9BaHFoekVmcEgtMnNzenNGOXZnU3ZFM1k0a0tSQXVWbUttcDdVV1F4ZmdXSENWdm9NaWJDNVVxWVh5YkVMMGdzOGY4cjExcWVtSm16bW9rR2w3R0pUczhPQUs0VjMwZnY2cWhvNTkyVzRDbDJZOEU1bE1fY2M?oc=5",
-      "fuente": "TN",
-      "fecha_publicacion": "2026-09-04",
+      "fecha_publicacion": "2026-09-05",
       "seccion": "nacional",
       "etiquetas": [
         "Política",
         "Producción"
       ],
       "imagen": "",
-      "descripcion": "El Gobierno anunció que comenzó a sancionar a empresas vinculadas a la explotación de hidrocarburos en las Islas Malvinas&nbsp;&nbsp;TN",
+      "descripcion": "La lista de empresas y accionistas que sancionará el Gobierno por operaciones en las islas Malvinas&nbsp;&nbsp;La Nación",
       "relevancia": 3
     },
     {
-      "titulo": "Quirno aseguró que las empresas que participen de operaciones en Malvinas no podrán hacerlo en Vaca Muerta",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPc0dHYTlIOVJ5UjlNQUt1SzdhWnJyRThYUUxZMzlMUWxZNEtqSGRLamZWQUNYRnBWUmVGd3czbU1kaFlOWGVDT2hSb3NCQUNqcTVxSnFXcFNBTTRkMzlqYU5ydG9VdXNGdXQ3YThLcXowOWdwYzl0Rkg5WVNySnJxaURGZldsaGYzWE9WYlRjRDhfUXE1UkxWdmVYV2FIUGdlV2tLaXA1ay1lcG5pNDFtY1BoQkdRRWNzMW9pV2txYzVlSkhINzVVNmtsSm41WWQ4T0otSVp3a3dodk5tckRhUlpiQQ?oc=5",
+      "titulo": "Murió Alberto Iribarne, exministro de Justicia durante el gobierno de Néstor Kirchner",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPVmtpX0I3ZVdhZ1cteHdLUWRNWHFGV042LVpnMVo2b25fWkFSZVZwNERnV1otSUpBOGpVY2d0RVNPMnZMZXFpa2t4T3ExcjJVWDBMbmVkdjZISW9pQUUwb29CZ0xaanlTQ1M0eEpPVnBtNFhVZVJuU09UdTgtVDhVNm9Jbi1OcVMyeW1tY21vLW54MGJNTGlZemg2YXZZZmp2Rm9ZQ2xnR1RtcFd4djRsWVNHMlIyb1R6OWlUMXFjX0t1NFF1QUh6RFNBMlJQSXc?oc=5",
       "fuente": "La Nación",
-      "fecha_publicacion": "2026-09-04",
+      "fecha_publicacion": "2026-09-05",
       "seccion": "nacional",
       "etiquetas": [
-        "Producción",
-        "Vaca Muerta"
-      ],
-      "imagen": "",
-      "descripcion": "Quirno aseguró que las empresas que participen de operaciones en Malvinas no podrán hacerlo en Vaca Muerta&nbsp;&nbsp;La Nación",
-      "relevancia": 3
-    },
-    {
-      "titulo": "Milei defendió sus reformas y sostuvo que el crecimiento económico sumará más apoyo a la causa Malvinas",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdTVPQjFXaFotQ1RHckRpNFQ2WE9qbExXTjJOSnh5RU5NMkVuajVoX3JaOWUtUGE1dEN6OGFHTkJuMVdtRmhSaDcwUTh5LW5sWGlucFUtREFmRmVqZjZLNXJOSTRaQk82Nkdta3VRdnpTdWZUQy15T01HZDUxN2FrZ3dwMU1wLXdPbWcwd1BnSDF0RkNXcW1KX21sNU9KYUtNYWF5X1hmMjdGOGVLaFNrdGRfTmhnYlNNcmRINnM5cDVqSzVZa2ZRbVZ6MW1jQQ?oc=5",
-      "fuente": "La Voz del Interior",
-      "fecha_publicacion": "2026-09-04",
-      "seccion": "nacional",
-      "etiquetas": [
-        "Economia",
         "Política"
       ],
       "imagen": "",
-      "descripcion": "Milei defendió sus reformas y sostuvo que el crecimiento económico sumará más apoyo a la causa Malvinas&nbsp;&nbsp;La Voz del Interior",
+      "descripcion": "Murió Alberto Iribarne, exministro de Justicia durante el gobierno de Néstor Kirchner&nbsp;&nbsp;La Nación",
       "relevancia": 3
     },
     {
-      "titulo": "Malvinas: el Gobierno inició sanciones contra 45 personas y empresas por la explotación de hidrocarburos",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQaWdQLUROYUlKZDhuZkVQbkJMSm9pbmRYVDByZmZFQ09tQS1ocEVQTEpCbHRsUEMzTUhsckpjSG1PX29KWmtudUJ2dFRza0dHb1g2eTBNbjdvRXozRnlaYTU0NGo0Nk1CbVJhTk0tbTkwN1YteXYzMUFjanRteE5PS3NYNUJOWW9nVk1zVUFFbWFZMXhKOUstTXF6R2xtNnA4UFVsdGtibVdraExNcjdrQldGUjhDb2RrZ05oaTBCbDZWWWdSZDVFMTJhUDluMmfSAdQBQVVfeXFMUE1kSktmRjFnRlRxNDlHVEd6akxPQ09aejhmZXphTWFReGZpTGZmT00zSS10TVV5QVhsUU1nM0xuNzBKbkVvT3VuR1UyY1AzMk05Z1VIbmJ0WjRPRm9QcHBycVJPUHAtbmpTNVdxcHR5V1U4M212Sl9aTkMyUTQ3RmZMUm9UUTlfeVBydkozQVJLeXhGclBsWW94VDNOdzVhX29LWkZlRG9UcnZpTGJ0WmhmemljaUVBcU5xSHFOTlVZSVhYd0d0aXc1NTZQa19qd2VtWEo?oc=5",
-      "fuente": "a24.com",
-      "fecha_publicacion": "2026-09-04",
+      "titulo": "Malvinas: quiénes son las 45 empresas y personas que el Gobierno sancionará, entre ellas Navitas y Rockhopper",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOeEl6M080OUNVZmxRamM4aVVaZUZ4YmtLMzRzd3ZsM3lWQXJXVFY2WkVJUmpTRUNUNmt4emFOWldyR3ZKcE1GTFdJSUFqZTB5bzFvVG40bFh4Q1p5d2Z2eE16c3hGajFaUGFhX2pPTXpyZnZZTXdtYTcxbHhXY054clI2TUZ0Q0RsRThKcTd2SmRraEd5Sno2NVFHMlRpbWlVejBBc0pqa29ITlZCMFBzT3Z4QnoyNWNWaTJLMHl5Q2d0dGNwMmJKSVFqSjhmTW5FekR3RnF4cjBqei12YVI0bEYzTzhJNEhEOHfSAe8BQVVfeXFMTThMUnVvUW9yMl9zRnRYM1diTGNRZU9rRm5UbjB1d2NjZTA0T2dSMVRZeE1TX1hUVndWSjJpNzAyRV9ZcG9xRVR5dGNFWmtCcjQzb3h3dXkyS1UwTUtxOUF4LW84M1lRR1ozZUstdmVubF9DWF91R2FKM1h0Qnh6b2FZY0x4VkZiVThTeFAzUHp1TVlzUXJwVHhkbjhua2VfRFdCRnFTQ1VfUUF5OFNCbnVIYWt4RWRNeUxoaG1GZlBWX25IRC1yS0tlS2JMWXgwUG9ZOWVmcml5dG9HUGRaX2pscUFhQlBrUHgtWTFrUHM?oc=5",
+      "fuente": "Perfil",
+      "fecha_publicacion": "2026-09-05",
       "seccion": "nacional",
       "etiquetas": [
         "Política",
         "Producción"
       ],
       "imagen": "",
-      "descripcion": "Malvinas: el Gobierno inició sanciones contra 45 personas y empresas por la explotación de hidrocarburos&nbsp;&nbsp;a24.com",
+      "descripcion": "Malvinas: quiénes son las 45 empresas y personas que el Gobierno sancionará, entre ellas Navitas y Rockhopper&nbsp;&nbsp;Perfil",
       "relevancia": 3
     },
     {
-      "titulo": "Malvinas: Argentina advirtió que las empresas que operen sin autorización en las Islas serán excluidas de Vaca Muerta",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOeHRFbkhVM3BpeDNyRXkxTTRYaDNiY1hiZk96TFJ1dVJsS0l4aWt0Y2pyYzYzbFpoRi1DaHQ1ako1Z0thVWJVbEhMenpQX3gxZzZzZS1WU2hwUkRVdERsZ1FTWkNxQ0NQenhSYmJTVE1XN2x0dXlKcDZnYi1qc0VxdW1FVVRVSFRCeU9scUt6QmVaZkhUVTF3c0hlTlF2bjlXTnI4NjJvU2NwN1lkeWZCSV8wSlYyMS1yWHNXSHo2Z192S2pkVzJBaVhnSGk5V3pzTTBiMFd5eEpyZ3NtWVJDNnZaMVVpVUczdkd4a0E5RHM2XzNP0gH8AUFVX3lxTE1OWHp2SG5rWXpHUURGNEVpSHZaT29SNzkxQTBlS0FPQjhSZGpZbEFyMTdacXVCS1o4Z3EyM0ctNEtOT0xqWnB2WVRDaHdWOThKVnpQTjhJNk5HSzhjZFN2ZDMzZGVzbTBjc01ST0ZOOXU0QjYybVN5SlJuVFh3VmM1bXFUZjg0UTM2SU5BMWFIS3hTNkJBbkdXbWdmMXRvZ1NrcWc5dDEwRF83WFZ4NlFLWU1yU2hTc3cwZ2JLVlpoM3JJTFJsMS1OX2J5VHBEckZUMGVEU1BMSXRzM21jWV9LbHJrNmFuZl9YcUJpYU1rdHhwZmFiUWlMZThELQ?oc=5",
-      "fuente": "Diario Río Negro",
-      "fecha_publicacion": "2026-09-04",
+      "titulo": "Economía argentina: crece la actividad y caen los puestos de trabajo registrados",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYzZMM0tiYXlWSm5Hb1I4U0tNMnhYLVpjaVZfNFBXVXlERGtFQ0h3dlNXNDJoMTJ1ZEZnUEJQcVoyY2NaSGtOVFNXeTFtZUtMakVLYWlDYXk0NHBEUHN5OWFXSjBKWUtCSENqS3Q1VkRZdkE5VE55LTdwZTR6UU1fSk85eHFEWmZmQUpTMllwa3gyQlhGODdVOHpzS0xSSGNWWWJFZ3VRWlJaZEVCNTZYNl9DWHE3bnUyb05oWWFMZy1tSjjSAcgBQVVfeXFMT1gzZzVrbDg4WEVBaHgwYkRSUFZNYi1XdXpEQk9mWV9ySS1MN2IzdDcxdzdBSFFwa3pNa1ZTZW5oYk9aWU9lOHFaV2g0Q0F2Yk5NaVJQeEp4bDhlcENkUUUyUVhmNVFSNEdOcWdGMFIxd3ZYNVI4cFB3OHFPaWNhazRZSEJYT3pSWldIMnhOVHZnOVBoTjFVa2ZmYzlxMnBPRUtfQWwzejI2cDRCQWIwT3N1VXlBeVhyVGIwVUtBMkJBbVB0TEkxTU0?oc=5",
+      "fuente": "sitioandino.com.ar",
+      "fecha_publicacion": "2026-09-05",
       "seccion": "nacional",
       "etiquetas": [
-        "Producción",
-        "Vaca Muerta"
+        "Economia",
+        "Empleo"
       ],
       "imagen": "",
-      "descripcion": "Malvinas: Argentina advirtió que las empresas que operen sin autorización en las Islas serán excluidas de Vaca Muerta&nbsp;&nbsp;Diario Río Negro",
-      "relevancia": 3
+      "descripcion": "Economía argentina: crece la actividad y caen los puestos de trabajo registrados&nbsp;&nbsp;sitioandino.com.ar",
+      "relevancia": 2
     },
     {
-      "titulo": "Malvinas, política y petróleo: los tópicos del discurso de Milei, según dos analistas sanjuaninos",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPNkNkYV92ZEpfUEdteTNmTDg1UUJrTWNXWlNjOHl3QV9yLUZGbS1QcG1mU2g1ZVpQQlE4LXVqMjJPbmlyN3pNXzMxLWlLa1JoZFJSNGFEVUItVVlEVktEcWZtSkVBSEdOQmt0SGdkb0NxVXpfLXBNWGJqazhUcmFaQkJoNmZlR2JLOEJwUlk3blBNM2YzcWNWYVk5RDlIcDlpQ1FRN3JiRXZrR05KU1BES0RndURkSXhkVlhrQkQxREdWRE1DYm9XallMSVhHTWE5Q21VNUJ0a1htdU9oeTc0?oc=5",
-      "fuente": "Tiempo de San Juan",
-      "fecha_publicacion": "2026-09-04",
-      "seccion": "nacional",
-      "etiquetas": [
-        "Política",
-        "Producción"
-      ],
-      "imagen": "",
-      "descripcion": "Malvinas, política y petróleo: los tópicos del discurso de Milei, según dos analistas sanjuaninos&nbsp;&nbsp;Tiempo de San Juan",
-      "relevancia": 3
-    },
-    {
-      "titulo": "Industriales, gobernadores y funcionarios participarán del Foro Pymes Italia-América Latina",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNnFmTDA4c3MxTUlkb0RVZ0lWVHRrVFJXWHJDRTFrSkhUNXNkdXdhS0h6VTl3VTJsemFsVk80YTNTR2ZvMG1FQkFIVTlYRHFmMjc0dFhRNGZqWFNaZVZIM1dUeXZJclJ3NmVwYkVESHR6NWtDUDd2Qi03VUJSejhiNU1PQVl5azhSXy02eWZoUmtLOG5pMFFNWk5lZm1KMFlIeERlU3c0dmhxUm1yOE9kRWZFYnZPYm02T0FUZ3FKVWRJNGlDVHVj0gHAAUFVX3lxTE40c2gxMzhPamlDUmtzdENJY25YMmo1QWxkc29ZYkVkbkFKdG04ZUV5ZWNrblFTTXRBdUFsLWxqUngzSHU4WC1naVpGWDgySURTSW9XM0N2ZEo4aktHWUJUMkJzTTVLa2cwcGt4dWhaSDBRU1RzY0dQS2dFNWVLT09FRlZHNTVwekV5S1FudzNOWjltelQzWmtjbmN5Q1pXUFRlMmJJNjhWSGIxZGx0cXY4NnBSVVFyLXdEc3Rvcl85dg?oc=5",
-      "fuente": "BAE Negocios",
-      "fecha_publicacion": "2026-09-04",
-      "seccion": "internacional",
-      "etiquetas": [
-        "Producción"
-      ],
-      "imagen": "",
-      "descripcion": "Industriales, gobernadores y funcionarios participarán del Foro Pymes Italia-América Latina&nbsp;&nbsp;BAE Negocios",
-      "relevancia": 3
-    },
-    {
-      "titulo": "Economías ilícitas en América Latina amenazan la inversión y la competitividad: minería ilegal y lavado de activos ganan terreno",
-      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOYTl0TkhFU3EzS2V2ZzVEZXFVZFBrbkg0NVN6eUZkSUZWdFN3SXVXdmo5cDZ2aWRiVVhoWldXd3pabnFOdmVTOHF6d2JSVnZVd0pzZDFDSFpxcjVDX0dLWUZ5eXBIeV9waXI3M3FSaDRyS19jUnhVX2w2SE5qcFdMX2RJaGpsWWRwaXRuM0EtTWxTZkFvM0duN240RDY2LUlVbzJXSm54a3VXaTl5S1l4ZVd0Nlk4NzJ5LW9oemxsR0dfcmIwclotaERpRktZMFBhNGlzM3JZdTBpYkVSMmQzeEZXWExOS0t5WGxkQmZrMUtxZU5WR0pXOTUxNUVtMldGTzEzTTN0WU9GQWdTWU9BMtIBlgJBVV95cUxONjFlNmw3SXpwclRTWEtrMGs0QlNucmhGd2VHdk52MlhuclZhZUdOOXZNdWtXenRmUzBOMTBVX3NxQ0pHZUszeGRZTG9NUkViSlY1YlA4QjF1bmxnM2FCZ2tOOEdWWDkzNXFCTXRkTEphN3V2b2FYdWtEcVlqWm1JRTNoMEV0eUFpMTNqeWtkWTdBcDI0dXRYNEM3TmItZFd4azAycHd1RVZQQjd2Z1BlRjJGNHRZRm0wVGxPSm8xMDFoVFhWVTgxVVhCSUhDTlctU1VGajVDZU5wa2xfc09UWmRva0lVOWdTZEdyMDUwY1drRUtXTVZfR2I1bXRmSEh1aFVpNEI2eWpuN1haRnRLa3ZUcjVLdw?oc=5",
-      "fuente": "La República",
-      "fecha_publicacion": "2026-09-04",
+      "titulo": "La nube de la IA toca tierra: la inversión en infraestructuras roza los 1,5 billones de dólares este año y pone en jaque los recursos del planeta",
+      "url": "https://elpais.com/economia/negocios/2026-09-05/la-nube-de-la-ia-toca-tierra-la-inversion-en-infraestructuras-roza-los-15-billones-de-dolares-este-ano-y-pone-en-jaque-los-recursos-del-planeta.html",
+      "fuente": "El Pais Economia",
+      "fecha_publicacion": "2026-09-05",
       "seccion": "internacional",
       "etiquetas": [
         "Economia",
-        "Producción",
         "Finanzas"
       ],
-      "imagen": "",
-      "descripcion": "Economías ilícitas en América Latina amenazan la inversión y la competitividad: minería ilegal y lavado de activos ganan terreno&nbsp;&nbsp;La República",
-      "relevancia": 3
+      "imagen": "https://imagenes.elpais.com/resizer/v2/MVM25KFTAZFXXFM6CDPRT3IFYA.jpg?auth=221c806fa75b84159c9b415c55cef92e567c40dde4b27dcd0fd170b7ab2d3b65",
+      "descripcion": "La carrera por liderar esta nueva tecnología desata una inversión sin precedentes, pero dispara las alarmas por su voraz impacto energético y el encarecimiento de la electrónica",
+      "relevancia": 2
     },
     {
-      "titulo": "SiGMA North America: La Secretaría de Economía de México destacó a la innovación tecnológica como motor del iGaming",
-      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNWkl6ZGxpUndRVy1nM01BTUgzTnpneHF0VDlCakp3T3l0d3ItMWhhcmtHRXlUeGdfNWNZSHBlYkxWZE5oLV82bWVJTEhpQjhSOVdXTkpiT2xlUzB6TmFYc0xhWVBKMGxqTVJoQlJtVmt0d2NBRFNfeFdOQmxkTUFwWHRibUFIb0o4RHRmbW5NWjY4U1ZmMFdDcWdEY2FoS0hldkVUb0NfU3pMSDN3bDZOM0IxV2lSLWNlVmhJZDBENU9ySkF6Q2tEeU1IVG12VzJxSGpyWTg4Y1VuM1laNnFKdWEteFFRS0N0ckhKRTNFOGxZSG9hUXh3R2JGV1pCS2pPN0hKM3pqYlZEcm8?oc=5",
-      "fuente": "yogonet.com",
-      "fecha_publicacion": "2026-09-04",
-      "seccion": "internacional",
-      "etiquetas": [
-        "Economia"
-      ],
-      "imagen": "",
-      "descripcion": "SiGMA North America: La Secretaría de Economía de México destacó a la innovación tecnológica como motor del iGaming&nbsp;&nbsp;yogonet.com",
-      "relevancia": 1
-    },
-    {
-      "titulo": "Parque Arauco se consolida como la compañía más premiada de la industria de centros comerciales en América Latina",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQQ1NGeHFla2VlRml6MjBWQUI4aDVFS1hBWDJKX2N0UVoza3VRZ3F3eVVWWlpvYUNxNWs5SXpPN3NrdDdUQk0tMzFwWWZUZ2k0RkdGbmdpUHpwWEVtU1M1OUhsV2tCZGw0VHdOUENxbnI5eUI2Sk9xaFFJeFowdHMyX1paRG51UWRUMWUtMmNaTVZ0eWR4LWpDLXBMZF9GNWhSalN1Wm9DYm9WbTZmNkYtY2dGTmZ4RGlMbFQ1c1Zkb2c1ZlpqR1pDQll1TE96MXRjU1hGalFfd2thSHBGaTRz?oc=5",
-      "fuente": "Revista Economía",
-      "fecha_publicacion": "2026-09-04",
-      "seccion": "internacional",
-      "etiquetas": [
-        "Economia",
-        "Producción"
-      ],
-      "imagen": "",
-      "descripcion": "Parque Arauco se consolida como la compañía más premiada de la industria de centros comerciales en América Latina&nbsp;&nbsp;Revista Economía",
-      "relevancia": 1
-    },
-    {
-      "titulo": "Grand Theft Porter: Thieves Steal 800 Barrels of Guinness in Britain",
-      "url": "https://www.nytimes.com/2026/09/04/world/europe/guinness-theft-uk.html",
-      "fuente": "New York Times",
-      "fecha_publicacion": "2026-09-04",
+      "titulo": "SAP NOW AI Tour 2026: el camino hacia la empresa autónoma comienza ahora",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNOG1ZX1ptSmd1SFU2Ykt0OXRoTktLdTFIXzczakNBTmhXaWlBa2U0Ti1JLW1wWVNvaWVaTFVxYmw4VlJ2UV8wcmFxMEpIUlViNGwwTGlaWWp6b3VBZ3E1em82VmhNTVJnQ3FzNUFfbG1zTFFUVWU1TnR4cnV6clFvT3VQUDBEN19hZmprb2s3T1ZGYXdjTl9BaDZqaXdVVjVQRWFocXU3ZVZIcU54VTFiN3JKb0RGZkJWS2ZTQlZB?oc=5",
+      "fuente": "La Nación",
+      "fecha_publicacion": "2026-09-05",
       "seccion": "internacional",
       "etiquetas": [
         "Producción"
       ],
-      "imagen": "https://static01.nyt.com/images/2026/09/04/multimedia/04xp-guinness-theft-kqcb/04xp-guinness-theft-kqcb-mediumSquareAt3X.jpg",
-      "descripcion": "The police said they were investigating the theft of about $155,000 worth of the famously creamy Irish stout from an industrial park in northwestern England.",
-      "relevancia": 0
+      "imagen": "",
+      "descripcion": "SAP NOW AI Tour 2026: el camino hacia la empresa autónoma comienza ahora&nbsp;&nbsp;La Nación",
+      "relevancia": 1
     }
   ]
 }
