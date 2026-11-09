@@ -1,33 +1,735 @@
 {
-  "fecha_actualizacion": "2026-11-08T15:33:12",
+  "fecha_actualizacion": "2026-11-09T19:05:13",
   "noticias": [
     {
-      "titulo": "Vaca Muerta y las inversiones para 2027: el sector energético advierte que el crecimiento petrolero no alcanza para reactivar toda la economía",
-      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNQkJ6eGNUMDg1c2NibkhYcjUwMjJ6eGxKMUVzVFVEajJaZllOMkNMVWxBaHFtSDRqdzJkb296ajRUbGhvV2lWUmpDNDJrTDQyX2FWZFM2X18tR2tVRzhwR3VLOEI4bWxJdl80LWo2MFdXNHNPeUVYUFdRa1FkZ3BEb0ZtNk5tc3JWYXl4MzZ1N3ZTUWhyc3ZjaTZ0ME1RT3UyVVhVamdoWlpjSDE5RTFjbE5aWnVENUcwZU1EUVZUc2txcHVGZ0R0ZW1wN2VVZ3R1cjJSZC1ndDNNdzFEOVp5UTFFdksyNHhpWVdQU08yVFcxWkNpcVN1RDBvWFJmMERVUWc?oc=5",
+      "titulo": "La ciudad de Neuquén apuesta a transformar su economía con el Parque Industrial Capital: el impacto que tendrá en las empresas y el empleo",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNdkpHT1pFRjhRTGZ2ZFpUTnh4bW5abWQyeUhYUnc3R1d6UE1UbGlpNUhmWjBHMUNvYW9OeUUtYnpmSlZ2TUprcGJLejVoblNhb2RQTEJQYU16bGFFNlNyTXlvczdJTVl2UU42MDFZOTdNRElyOGZNanJ0bTRNdDN4dF9vamlxcWw0MTRzMlhwQXJ2TmRDRElpSUxJWW5DejdVbWFoMXFRT1FDSFJDSGdwVnhvMmpCdDd4Wk5nbEt5Sk55MHFuSE1oMzg5aUhsdHRBS3hyMTBKWkFPN0tYVGxMUHZ5QnhSR2xscEpaejNQZHE5VEVrb2hFXzR0YUI?oc=5",
       "fuente": "Diario Neuquino",
-      "fecha_publicacion": "2026-11-08",
+      "fecha_publicacion": "2026-11-09",
       "seccion": "provincial",
       "etiquetas": [
         "Economia",
+        "Producción",
+        "Empleo"
+      ],
+      "imagen": "",
+      "descripcion": "La ciudad de Neuquén apuesta a transformar su economía con el Parque Industrial Capital: el impacto que tendrá en las empresas y el empleo&nbsp;&nbsp;Diario Neuquino",
+      "relevancia": 7
+    },
+    {
+      "titulo": "Rolando Figueroa adelantó las elecciones en Neuquén y buscará la reelección en febrero",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaV93eVBGNDZjcU53Yk9BNUZKYkxhWUVlbENwLUJOMTRieW5GczhLc0pnZUpyejFtU1lCSVp0VXhpckNja2JIRDktUGpoMTlZdWpGTk1faEMySzhqZ3BSTkd4WlB2VVFNVFFfbGw4Y1NCQ3ctNHV0bjVxbDhiZ3hpSEdidFlxS0JFZHVpT1ZKQzYxSGljTkRuRTdDbDZUbXVfUnY4X2xYVnRVOGhfMWpLdERfR0h1eEpPNVc5SVFydksxSnJSNlE?oc=5",
+      "fuente": "DameNoticias",
+      "fecha_publicacion": "2026-11-09",
+      "seccion": "provincial",
+      "etiquetas": [
+        "Política"
+      ],
+      "imagen": "",
+      "descripcion": "Rolando Figueroa adelantó las elecciones en Neuquén y buscará la reelección en febrero&nbsp;&nbsp;DameNoticias",
+      "relevancia": 5
+    },
+    {
+      "titulo": "Confirmado: Rolando Figueroa adelanta las elecciones en Neuquén y fija fecha para el 14 de febrero",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNY2U5anpydTlaOTBnR29lX05lQ1FXQTFUVndBYmVqeklUZ0dkZlFhSEs0OVpiel9LQjZVWkZHNzgwWGtUR1hYYV9EYV9JWi1jdHdhRk92YkxkY3pYNDh1TUN3Y05IM0lyLWRDOHBQZkg4QXpLa1RRR2Ywa19FLUN1aHdXNXdfT1R0SWVzNlZ2ZGxyY2J2dzFaYm1MY1BmWE55RFhJQzVEOWNaMmprNnJYdUh1TFE3eEVmclpOd3VpNERsVXBTa2Z4Tlk5R3hCdVk?oc=5",
+      "fuente": "econojournal.com.ar",
+      "fecha_publicacion": "2026-11-09",
+      "seccion": "provincial",
+      "etiquetas": [
+        "Política"
+      ],
+      "imagen": "",
+      "descripcion": "Confirmado: Rolando Figueroa adelanta las elecciones en Neuquén y fija fecha para el 14 de febrero&nbsp;&nbsp;econojournal.com.ar",
+      "relevancia": 4
+    },
+    {
+      "titulo": "Neuquén: Rolando Figueroa convocó a elecciones para el 14 de febrero",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNZXF3Mm1zZGNDSHFqQjhjRkNwdXNRQlBIVXIwOUl0RGgxQ1lPcEJQME14dnA0TFRTTG51LWt2Sy1BaWNnb2ZORkRvWksyZnpCMU5GZjdMOUR1cHhRRmFuWFMzR0lSSmh3ZGI1cWx4ek1leXVFenpYZnpzRUR6WGJOZkMzVmhwWmh6V05sYlU1a1BQck1NZ3Z0SXA5dWRDRWVBUE5PZDAyTzJ4SzlQTVY0OFNzOFhpSUpOSGdiWWlBWDlsamIyaW5wc1Y0SUtfZFlXOUVFMDlHelhSb3dCeDdOWmZfRnNWbHF3NklzamZFelZTa3Jz?oc=5",
+      "fuente": "ADNSUR",
+      "fecha_publicacion": "2026-11-09",
+      "seccion": "provincial",
+      "etiquetas": [
+        "Política"
+      ],
+      "imagen": "",
+      "descripcion": "Neuquén: Rolando Figueroa convocó a elecciones para el 14 de febrero&nbsp;&nbsp;ADNSUR",
+      "relevancia": 4
+    },
+    {
+      "titulo": "Gas y Petróleo del Neuquén",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5FUWtlQ3JfTGdjNHNZdHNHVGRQWE1XclBFaXBtcGNXUkRvR013NlBLOEdtb2tCWTZLWEJFSkF2dk1mLVVDNWVmRGdLZllfMXNPMHlicjNIMkFkWlRlbTFEaDJ6Tlp0QVRlZk5RYlNR?oc=5",
+      "fuente": "MejorInformado.com",
+      "fecha_publicacion": "2026-11-09",
+      "seccion": "provincial",
+      "etiquetas": [
+        "Producción"
+      ],
+      "imagen": "",
+      "descripcion": "Gas y Petróleo del Neuquén&nbsp;&nbsp;MejorInformado.com",
+      "relevancia": 3
+    },
+    {
+      "titulo": "US$ 38.000 millones en juego: las inversiones más grandes en Vaca Muerta y la minería se definen en los próximos 90 días",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOcHFuMEctV0p1NGlSdGVyd003QmVzYTZLY2RmVkRlYzJuaVU2a3pqTm9wYWdBTExGVUtfNjJ3NDJWUkhXNGlXSzM0N0lKUmRhbXhyd0RRWGpyQlg2NzlYcEV6amo3akM0WjdFOW54eVNVZEJ5Zkk5YXV0YWNuaGdoeTBKMmU5bGoweDlFbFJpLXRuaWM5QXNEMmYycjZRcUN2WXB4OFQ3c1lVWGU3UVJvOEl4RFp1MHAwMC1FV3NraFFVLTl4LUVaZ0NCMGJHRFEzVGxFUXFxX2pMYUFWeFpJcw?oc=5",
+      "fuente": "Clarin.com",
+      "fecha_publicacion": "2026-11-09",
+      "seccion": "provincial",
+      "etiquetas": [
+        "Producción",
         "Vaca Muerta",
         "Finanzas"
       ],
       "imagen": "",
-      "descripcion": "Vaca Muerta y las inversiones para 2027: el sector energético advierte que el crecimiento petrolero no alcanza para reactivar toda la economía&nbsp;&nbsp;Diario Neuquino",
+      "descripcion": "US$ 38.000 millones en juego: las inversiones más grandes en Vaca Muerta y la minería se definen en los próximos 90 días&nbsp;&nbsp;Clarin.com",
+      "relevancia": 3
+    },
+    {
+      "titulo": "El Parque Industrial Capital se consolida como un punto estratégico para el desarrollo de Vaca Muerta",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQVRpWjhWelF5c0YyM2t2aWw4Z2lSMndESlBPMHBybC1pRWhHSjREc0JuT0tiMzhLMDh0c0J3alJ1Qzg5T1hYcURhYXlvVHdhZUNWbVpHcW5WNElOenV2WGFLLTd6NWc0MG8yRUxBRjFZWE52SFZkRklWaXd1OGx3TDZTRVE0dEVvTmdIVzdIbkU0LU9TT3BablotY3lzamQ1Qm1FbTBjR29SSG1HdTlZTGFVQ05RVVM5WmhoTlUtaFdkcVdjYnM0VHM4eTZ6LWtmalHSAdcBQVVfeXFMT0lxWXZrTTNfYzBxV1A3T05GSDBLY1l4VkJmRkJ0cEZaQ2ZtbVpZeTRSVGYxMXYtbGZ6SjlaeWwwWkt4YjZGYXByQzFWbHQwbDFGb0JsbG4yVWNNRy1tclZUbDdrbjRRam5yRlFMMjRWSDdYTGNPTkFQVTR1YjlKRVp3Y3JpUUphQUZENnI4TXBfYXRSU0tWTzExQW9BcWNwU1RjUXBEc3hXdWlZNDJicmJNN0NlWjdKUGtXVjFfdm9ZSmtuZ0tORUNZODB2WnhERFVKR29yRUE?oc=5",
+      "fuente": "Lmneuquen.com",
+      "fecha_publicacion": "2026-11-09",
+      "seccion": "provincial",
+      "etiquetas": [
+        "Producción",
+        "Vaca Muerta"
+      ],
+      "imagen": "",
+      "descripcion": "El Parque Industrial Capital se consolida como un punto estratégico para el desarrollo de Vaca Muerta&nbsp;&nbsp;Lmneuquen.com",
+      "relevancia": 3
+    },
+    {
+      "titulo": "Rafaela busca que sus empresas se conviertan en proveedoras de Vaca Muerta",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWEpDMlhJNVZTR2c1TEhsT2t6Z0ZmUUFlcm9lUXBzeUpZaWVuU1pmaU1PLTdEbFE3TVpJTThLRDZjZjdhV3Vya3FVcmt5dUM4UjFXY0F3T1NLcHpfdkxSNms1VEtZbEhWMjZiTTZZZ0ItQW1aa3NFa1dzVk1JcDJmZlVpY20zeE5PTHlvWms3TjZUSnZ5cmFCMDU2YmNGWFIyRjA2dFlVX2RGNlJPRzlCZnI5QmxTbUhX?oc=5",
+      "fuente": "Sin Mordaza",
+      "fecha_publicacion": "2026-11-09",
+      "seccion": "provincial",
+      "etiquetas": [
+        "Producción",
+        "Vaca Muerta"
+      ],
+      "imagen": "",
+      "descripcion": "Rafaela busca que sus empresas se conviertan en proveedoras de Vaca Muerta&nbsp;&nbsp;Sin Mordaza",
+      "relevancia": 3
+    },
+    {
+      "titulo": "Vaca Muerta y minería: faltan líderes para 240.000 empleos",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRkstOFc4TmJzNDl6Z2U3NUY5elc1QWpnTFl6enN1Qm53Wkk5YkJJUHpxbkJUaF8wOWd0a1RIeEZDN0NxSDJzbGxKQndDTVhaSEo1RVg2TjVHMkxxTlF0X19KblRZajhTWEZydHpUTEVobTBIMWJqb1NhNmJKekZ5bVplM2lLbXktSGZURzZTVWE3dw?oc=5",
+      "fuente": "El Ecosistema Startup",
+      "fecha_publicacion": "2026-11-09",
+      "seccion": "provincial",
+      "etiquetas": [
+        "Producción",
+        "Vaca Muerta",
+        "Empleo"
+      ],
+      "imagen": "",
+      "descripcion": "Vaca Muerta y minería: faltan líderes para 240.000 empleos&nbsp;&nbsp;El Ecosistema Startup",
+      "relevancia": 3
+    },
+    {
+      "titulo": "Bombazo en Neuquén con fecha confirmada: las elecciones municipales y provinciales serán en verano",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUmh0cVlHYm9nVTFIZVhUTFc1QUNVY0lUQXAxZmVWUlU3QnhoUG14YVlIUW11ZTJmOUdPLVF1Y3NNT0tYTWxleElKYS03OWV4Y0pVd2VyWnhVcFFacHZlM1JBT1ZkZDlyTW5FeDFjZjhELWFKa1l2QXJ5QXd2N3RHOTZtY0I1bEpGS1dpblVaNndkTDZSU3p2eF9hZDZUWHRJbVZFeGkxRjRMMDdjTUJpSk9ORmV6bTE5TzMwc3czWmQ2eFNuZUNteEtR0gHPAUFVX3lxTE41OWhMXzc5X2paY1JqNFJYbDhmeEFMazIwTEpFT3p0cFpqWmtBNmc2Q3BkRld0MlpzLVc2TGpRYjNaWUZGckNPN0ZEb21MOUJGZDFVeUlfUGJNZFpzOHdQcFJWWW9fTDBXdEVyWXZOUzR2dXdXcGNhU0JLTnpkRmp4NFFrLTRGaXoybTF2NFVuWmxSbW1mWHdmcHJabi1VNlJSQ2t2NFlDejNkalVFWWpsbHZzaUtnalc4WXR4RkFtNF9Ta0EtSGl5YVVhNXlVVQ?oc=5",
+      "fuente": "Lmneuquen.com",
+      "fecha_publicacion": "2026-11-09",
+      "seccion": "provincial",
+      "etiquetas": [
+        "Política"
+      ],
+      "imagen": "",
+      "descripcion": "Bombazo en Neuquén con fecha confirmada: las elecciones municipales y provinciales serán en verano&nbsp;&nbsp;Lmneuquen.com",
+      "relevancia": 3
+    },
+    {
+      "titulo": "Figueroa y Gaido salieron en tándem y anunciaron la convocatoria a elecciones para el 14 de febrero",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVE90SkFwZ1RiUXBJRnUzYnF4emx1ZlR1UU9qQVg4aVk4Z25FOEp3dXVtQzJhMFZtejA3VkRDUDFNd0NFcVc4MDdyWjBxWjhEbHY0Ny1DNG8xZWVuM1RPZ2hZNldaaVBMTkpWWFl3TkFUVXRaNmlfSHdGOS1UNWQyOUlpaHlwQUU1TWp1aE9ELTJ6SDRCR2IxS28tUTlVYjRoSDRRWXloVmxPb0dzX3o5N2VGSU4zMzlXVDV0UHdDUVFEVXhJ0gHEAUFVX3lxTFBUT3RKQXBnVGJRcElGdTNicXh6bHVmVHVRT2pBWDhpWThnbkU4Snd1dW1DMmEwVm16MDdWRENQMU13Q0VxVzgwN3JaMHFaOERsdjQ3LUM0bzFlZW4zVE9naFk2V1ppUExOSlZYWXdOQVRVdFo2aV9Id0Y5LVQ1ZDI5SWloeXBBRTVNanVoT0QtMnpINEJHYjFLby1ROVViNGhINFFZeWhWbE9vR3Nfejk3ZUZJTjMzOVdUNXRQd0NRUURVeEk?oc=5",
+      "fuente": "MejorInformado.com",
+      "fecha_publicacion": "2026-11-09",
+      "seccion": "provincial",
+      "etiquetas": [
+        "Política"
+      ],
+      "imagen": "",
+      "descripcion": "Figueroa y Gaido salieron en tándem y anunciaron la convocatoria a elecciones para el 14 de febrero&nbsp;&nbsp;MejorInformado.com",
+      "relevancia": 3
+    },
+    {
+      "titulo": "El precio del petróleo cayó casi 5% por la distensión con Irán y Wall Street sube pese al escándalo en Nvidia",
+      "url": "https://www.rionegro.com.ar/economia/el-precio-del-petroleo-cayo-casi-5-por-la-distension-con-iran-y-wall-street-sube-pese-al-escandalo-en-nvidia-4791089/",
+      "fuente": "Diario Rio Negro",
+      "fecha_publicacion": "2026-11-09",
+      "seccion": "provincial",
+      "etiquetas": [
+        "Economia",
+        "Producción"
+      ],
+      "imagen": "",
+      "descripcion": "",
+      "relevancia": 2
+    },
+    {
+      "titulo": "Cuándo comienza el debate en Neuquén por el presupuesto del intendente Mariano Gaido",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQemJLbWNBV0NHMzVvQU02VW9ZemdqUVlHaExHX3BocElDc1JMMUZKVUhiZjM2UlNqcTdob1UxZkFwWFV1d3lvU1RmM2kwbnF0V3lLU096ZGpjWHYyOTVMMFhwV0pLamVlSk4tOVdUdnYzQk5INngzMU1tZzh2aU9tZDR3dkE0RG5FV08xb0ZweWVrZUpzcU9ZbElnZU1vODFzdm13SlcxaTEtcHZhZWpjZUZPeXM2VkdnQ1pQZzFIVm5rOTTSAcsBQVVfeXFMT0h2a2hZY3hfSTA1TlpEY1RvM0MzZ29NY1FuVXFrOGtuZDZ5R2xSR21scE9NUzF6SGZLYmYySzhKRWFVX2dVZXJBdl8xWFVKUWtMN1pNdERIVmZRTkpTeUJGckFmdWFXU1d3dk9Pc24xSUxxSGVrZjl0XzJVX1J5ZmVMbzRkZ3gyN29YWWdQS0VXR2Z1T0JRQUZtcG1pbzAzYUJJR240LUFlQkZIUno4ajFIT0RIYkUza1FGRWxRc3JXVlREWVNWZXo3ZEE?oc=5",
+      "fuente": "Diario Río Negro",
+      "fecha_publicacion": "2026-11-09",
+      "seccion": "provincial",
+      "etiquetas": [
+        "Economia"
+      ],
+      "imagen": "",
+      "descripcion": "Cuándo comienza el debate en Neuquén por el presupuesto del intendente Mariano Gaido&nbsp;&nbsp;Diario Río Negro",
+      "relevancia": 2
+    },
+    {
+      "titulo": "Confirman un aumento del 35% en el cargo fijo del gas para más de 126.000 usuarios de Neuquén, Río Negro y Chubut",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMVhHVktIa21iSFR2TktGaGI2TjNjRDBXcXlLMEFWOU5QMkFFSXFjc2VDbGNJNEJFVVE4YlcxOFdZbVZ2U3ZpQmNhVDJEb3NnOS02LU9DQ3VOamNxdWd0UEYtaWp6b0pfOWtVeDNmSi1qQV8wWklaeDBrakdSMmR2UFhRYWsySW82LTBSRXhLcXpTQUNNWWhiQ05TRVBITlc1VU41UTl1Z1BBcGdWSkR5OE9RYjNYS0s3aWhRSnJxZVlpdEM1c1JCUXF1c0w5U0VrUkE?oc=5",
+      "fuente": "Neuquen Post",
+      "fecha_publicacion": "2026-11-09",
+      "seccion": "provincial",
+      "etiquetas": [
+        "Producción"
+      ],
+      "imagen": "",
+      "descripcion": "Confirman un aumento del 35% en el cargo fijo del gas para más de 126.000 usuarios de Neuquén, Río Negro y Chubut&nbsp;&nbsp;Neuquen Post",
+      "relevancia": 2
+    },
+    {
+      "titulo": "León XIV habló de salarios, jubilaciones, universidades y discapacidad frente a Milei y toda la dirigencia política",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPNHJHWEJXdWt6bmgyOFBrYzE1dUxfY1ltRWFkbE5lQkxTamE2cG1sRE5DZlRueDZTbVJ0b25PLWVXX1FucUs4OTAxZmNUOGNFODRnbXE3Q3g2V3A3U2c0Wi14azFPRUhlN1R5QmUwcC1ZRWVSOVNnVlcyeDJQbkd2TGliX185TUlpemFxWXVvVkg0ZFVsaHlKVHdPQ0llRlpsOTU3V043T1NfQzVwOUhlanhCTEE3Zm9yY2RDdGxVZjI1a1AyYXdhek94azJSNjBmYURTRENjQW9DaXpSdEdObHV1V1lCaWd4aWVDZVZHZlZaS1pNWUpodjFSRDUydw?oc=5",
+      "fuente": "Junín Digital",
+      "fecha_publicacion": "2026-11-09",
+      "seccion": "nacional",
+      "etiquetas": [
+        "Política",
+        "Empleo",
+        "Social"
+      ],
+      "imagen": "",
+      "descripcion": "León XIV habló de salarios, jubilaciones, universidades y discapacidad frente a Milei y toda la dirigencia política&nbsp;&nbsp;Junín Digital",
+      "relevancia": 5
+    },
+    {
+      "titulo": "Creación y destrucción de empresas y de empleo: el riesgo de que la economía argentina se termine pareciendo al Deportivo La Coruña",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPMUtMaXB2S2dXUUoxWUdFRTlCSHRocFVia3VVUGltclpOM1BNb2tJa2lwUTVEWEl6QW9pVUZQaWlPZ1ZIZldocGY3ZFlTZVVuaWRfUGFaekk1VTNjMy11MXN4eXg0dHBlNkNGdXd5X2NHZ01adzdxRE5oYUdIZE9aTzFKcWJpV1ZGNzNXdUN0M0dWYWZkdFJDbFpyR09rQlp2ajI4VXkzNGNzZDhuWU8zRXBjUkJyZ3dHb000UXE3TV9VMV9UcmVhbFpFQm5BWVdoVk9JYmNRU0lHWDBaN2wxQzlsbElJMzAxTWlXXzg4b1FNMGNUYjhmSWQ5dndhUk81U3M4bDRn0gGgAkFVX3lxTE9tVE9CWElCUXJiZU1DQ2hGRWlpSmpjUzdqZ0h6LWFud1lCZTg2QmdlODdxWDh0b2cyY1hWd0Rkcm9ZVkZIeVVLT2kwRFR2aEY0cXZMNkFRVXZudDVtMUw2QWdwYkJramhVZjFDZy1laktfYnBmVmdILV96QkZGNEtuR1FTOTdMa2pzczJCX0twcGNzR0tzVE4wYm9ZNHpPYjhuT0p5MlNqVXhORS1TWmV1cm4xT1I3VEJfOV95Q1IyRXZuU3FBSTFqRkVYbzBXeHpQYlFieTN4eDJJdkJBNmVrY0FIWXFxSThjYVpZYmVycEVRS2RWTHpXRVJHMGtTb1YwcTZFWkhuSmc1VG9aZ1B5RDd2MWJqeDZ0VkNsWEl2aQ?oc=5",
+      "fuente": "Infobae",
+      "fecha_publicacion": "2026-11-09",
+      "seccion": "nacional",
+      "etiquetas": [
+        "Economia",
+        "Producción",
+        "Empleo"
+      ],
+      "imagen": "",
+      "descripcion": "Creación y destrucción de empresas y de empleo: el riesgo de que la economía argentina se termine pareciendo al Deportivo La Coruña&nbsp;&nbsp;Infobae",
       "relevancia": 4
     },
     {
-      "titulo": "Presupuesto 2027 de Neuquén: Koenig irá a la Legislatura para defender ingresos por $11,4 billones y una suba de impuestos del 30%",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQaHVxazdTTTMtQ0VCbDN6Szg5cFpIUjZzM19LR3VGa1drQmkzZXo0cnhOaTFxRnFSQXhteGZTY0VJZnpIdy1kSHR2WDFRSHN3Uko5UHFBUW1KRmdGYk90OTExTFRLbWdiNmpxUENXU0lsYnJPTlRiNkR1NE9Yc0JqVGtiSWl2UDhaWHJHMW9lUTJmZnJOSUE4dHh4OXRGejR0NlluVmZweEYyZGJ1Q21ZbFVFS0ZtZzVaZDBhZS1mM002aEdSMi1BamRYR3l1TGtUTlAtNUFHbF9WSFJ2V1BuRVE1SjVXN1V4dFRjcXJB?oc=5",
-      "fuente": "Diario Neuquino",
-      "fecha_publicacion": "2026-11-08",
-      "seccion": "provincial",
+      "titulo": "La cumbre política de la UCA: empresarios, gremios y el campo con el Papa",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWHZZaEptYUxmUEtZWU9JQWNrZHgyamZKRV80R0d0R1ZJMFRfZFk5T0tQeEhZTkltNkhLUWdBczhVd2dGLUIzcWZTeVU0emVXX0wxNVZGWVdDTlY3blFuak9xUy1WanBGeGpoaXR3UmtBTjYxWVdiN1FlUlFSZk5JdUxJS0tnalpaTmlxMmpHUVYtcjNOOHNCOC10U2F2Uy05VlZJU0h0TEJZMkZGaUstOHAtb19HQ2l6VHlid0dQSTHSAcYBQVVfeXFMT3FETWxIaU13ZW9mSHdSQ3BBSWZpM0lrVFRpYkNUeWJxZWY1TGlIV1lvY2FubmpMMjZJNzdmYVRMQlM1Z2pOMjNMVHdkOFJaZkc4SDJBOTNVQXJRLTlNR1JOaE9iMndtSFY2MEtpWVRpY2VxdDk4QzI1RV9OMTV5c3BTY3BUTDVrTUV3ODZTbjk1N1BlVjYxV25ka0pOQXNtMkNEMVpJUGl2bGF6azFkNEVLR2tkWjhOWVNDZ1JtZ2xHZjdrS0Fn?oc=5",
+      "fuente": "Revista Noticias",
+      "fecha_publicacion": "2026-11-09",
+      "seccion": "nacional",
+      "etiquetas": [
+        "Política",
+        "Producción",
+        "Empleo"
+      ],
+      "imagen": "",
+      "descripcion": "La cumbre política de la UCA: empresarios, gremios y el campo con el Papa&nbsp;&nbsp;Revista Noticias",
+      "relevancia": 4
+    },
+    {
+      "titulo": "Las cámaras empresariales respaldaron el mensaje social del Papa sobre el trabajo y la economía",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPLUEtNHF4ZFRLNVhXeTUzN3plNjdzVEFRZmctNFJyaXJqbnJXOG1FRDFrWXZZTkhGTUJRSFdVcnUzVkNrZ05sOGVDMGNzd3RsV0RqRkFUWkNZcVAxWXZtSUVldy1BVnctMElaUWs4VGduNURTd19uWDU2VUFkOUQ4RnlsMHNZcmNwVGt5Vk9fbHByYkZLQmdHRFlLUUNNbVIxeUNMSzNSd1k5UWtJdU5nc0xhdUEySXNxV0hEdVp5N0txaGZVVUpEV016YnhJbzQ4WkhfdlZnQ3BYcTlRTmJfM1dJbFZNcmZfWmNn?oc=5",
+      "fuente": "El Argentino Diario",
+      "fecha_publicacion": "2026-11-09",
+      "seccion": "nacional",
+      "etiquetas": [
+        "Economia",
+        "Producción",
+        "Empleo"
+      ],
+      "imagen": "",
+      "descripcion": "Las cámaras empresariales respaldaron el mensaje social del Papa sobre el trabajo y la economía&nbsp;&nbsp;El Argentino Diario",
+      "relevancia": 3
+    },
+    {
+      "titulo": "Las recientes elecciones en EEUU reavivaron el interés por la construcción de data centers en la Patagonia",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPUzRDQzhQSHRtbjJIbEs3ZTF3dXcyV2pQYjFLUWFOYWo1cjdPMi03bGFwZFUyUkhpTFZyc2Q0LTlFQURZUm9QNGRnTmxnNGJndjBjYWZYNEFnVnJISFdGRWdmTFI2X1ZGZl9jZG4tYV9pVzhabmZ4cEEwWjA0Z1pxTlVPRzNWcUU4WElXNk5uZEo1R3FvOW92MDh4ZHRRaGVyNEQ0Si0wUVA3VGdqRDRVdzc3VlBHdUJMcGg3VTdjVXd1dk0xbEpzMHYxNk5QOXZ3TF9FaHFmdGVqQXpXa254OC1Ic2JBZ9IBgAJBVV95cUxNMnVOZ2Q1dWIyM0RYNkNheW5PaEgxUTRqaWloNXVjdG54X1lvNXdESlU3VUQ3bGRsN1o1eGp2Vl9GZUhueTZtcjZUa2lOcUd3d1p0bTRWY2ptR3ZPSGRuOG5GNUtSc3hYOUlMYWQ0b0RXS0Q2STJGQVBnS0tFV0VBeHNtQ19ucDdSeDFENk1LYWFpOG4xTFdwTE01cjlIX2N6X1o5d09NQmhaQWlsZGhPSXQySTNvcTk5MVdlMzdXRWV6RmRPUmh1MkpqNUZseU1USkxTU0d3aUIzT3phR1l6WE5scXVuWE5paFJUMnI0M3ZaNlVmWHFHbmRPZ3R0b20y?oc=5",
+      "fuente": "Infobae",
+      "fecha_publicacion": "2026-11-09",
+      "seccion": "nacional",
+      "etiquetas": [
+        "Política"
+      ],
+      "imagen": "",
+      "descripcion": "Las recientes elecciones en EEUU reavivaron el interés por la construcción de data centers en la Patagonia&nbsp;&nbsp;Infobae",
+      "relevancia": 3
+    },
+    {
+      "titulo": "Por qué la suba del riesgo país no movió al dólar: claves de la pelea principal del Gobierno con el mercado",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPcS1sOVBVcE5LSkN5eC03X2E4SmFGUnF5NWQtR3NFaHE2WElvOGp0cm5QNnN2RXNFYW9DR19UTDYwSTBuY3dQVTc4Mk5TaDhOdGQzYUZqUXJqRGdWS0U3bTRFOUQydHkyWGc0UkJFNXRrajVxeUdfS25DTzhWaTh3ZHhiejNJOWNmYW9DdEJ6bVY0aVlMWU1NbHZTR2VjMi0zV0l5ZEJIZjFQdGp5NWFVMnhsdndEOTc3T2ZkUlBhOWRVT2ZqVFIxUm5DVXJ6clJwcTNaSkpZNEl1U3BuNk1YUlhqM1FWQdIBgAJBVV95cUxQLUZreURzeDZYaU4wV0xPOGRxTlYtRldIakJYRUpsNFd3dEdteTloTkI1Y2c0Z0hyMUdOZE9IY0EwTXpOTGtoT0s3ZzFvQ09taDYxaTBrdEZzbS1idkVzNGJiOW5VNFdhWHVjaUVfWHNmTnFXU2NoY1ZTckdoQWxQbTdIZk1sbmNydDIteXBpNVREN2RpTUF3bWxRcndDbThIWXJOdy14TU8yWFdaZ0NNclVqUWNIVUhjZWhTQ1c5ZmJEcnBESWd1WG91b0Vyel9PcFd1dnA0YUxhdXhmLVk0bHp3OTJmclBXazlsMWFWTUVqTm11c09GMXlLdzRUT2F1?oc=5",
+      "fuente": "Infobae",
+      "fecha_publicacion": "2026-11-09",
+      "seccion": "nacional",
+      "etiquetas": [
+        "Economia",
+        "Política",
+        "Finanzas"
+      ],
+      "imagen": "",
+      "descripcion": "Por qué la suba del riesgo país no movió al dólar: claves de la pelea principal del Gobierno con el mercado&nbsp;&nbsp;Infobae",
+      "relevancia": 3
+    },
+    {
+      "titulo": "Rattazzi sobre la dolarización de Milei: “Es facilísimo, pero hay que tener la decisión política”",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOZVpYb3BuTVAtbGFJWmxMVl90YzA4NTNfYjg5YWFqY2VUM3d2ODJ4X2tJUEoxLWpjaUc1czRVc0ZZRVktS0t5dXAtV1BMQkdPd184eWVTSFVoVXgwX0d4Z2hBQ1VSSUxUclYtTWFqUjIwTXNIclpQTlFyN2p5UV8ySGp5RzBybV9ZN19KUDhWZ1Y2WlU0aERzcGU0SkhPQndaZ0lGZkNJbGN1M0sxSk5oU2p6OTdwTk9rdTZOY1Z3WlB0dWdNWnZCWmRucEZnWjZ0dml5bU5Oc1FwaHJReFFIUGJ3UdIB9wFBVV95cUxOT0RTTnVPcTVWWlpHemNkQ2J3R3lheGN4Q1YtUFRmMU1kXzlEanpiZGZQYXdGbklTVWJTTFJ2d1U0azR5M2ttdzlqclZWTUYxVVR2UGZRMlFRc0FyMFlMeWNCWW1zaU8xTm4xanFYUkVtYlJtS2ZYNmxjRnFkUHhTUW5wUFRTd1FaREg1NGp3bnJCWmhnVmQ4VE5tblZ0YnpKMFJNbWV5SzdCeFlfREpFSDFDQjdRMTBYTHVhZ2JnM2lIcXpLb0MtUDM3RWJkRHZDek5mWkNxTlpiTWtRd2x5QmhabkZQWng0S1J2U19PdGhuRl9hdVBr?oc=5",
+      "fuente": "Bloomberg Línea",
+      "fecha_publicacion": "2026-11-09",
+      "seccion": "nacional",
+      "etiquetas": [
+        "Economia",
+        "Política",
+        "Finanzas"
+      ],
+      "imagen": "",
+      "descripcion": "Rattazzi sobre la dolarización de Milei: “Es facilísimo, pero hay que tener la decisión política”&nbsp;&nbsp;Bloomberg Línea",
+      "relevancia": 3
+    },
+    {
+      "titulo": "El Papa defiende en Argentina a las víctimas de la motosierra de Milei: “La economía debe estar al servicio de la persona”",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxObHZEOUpwWGI5a185V0NpSW83a2owTUwwbEtqZXpEcUpPeXc4QnRuVnA0aVdkOEE4cWxGWUQtcjM2bnUtY2RUNmgxOFFfQ1lHdFlkTG5rUFN2WldjOUVHZmRlOWZYaVhlQVdlOWlyVWpacWttdjMxU2NHa2drOTVDNnVXMHZlVzZLa2lfUG11OW9kOGgtRGhtbHFJcFo3M0hwZFRxUGVmU0FfMGl5S3RmdTVmSE9vM180b1IxUDNJUkN1SFV1WDhWbTkxdTBwOEF3bG9xakE0cFF2dHVxQmd5TWcxWFhEenYxWVFVQWpYenFWcDNDdVA00gGLAkFVX3lxTE9EVmk2T25LLWJiakJMVFhvTWo3Mk1QaXVRLW4tSHJHSUVvM1J4d3JVVlQzVE9VaDdnQV9nWGR2UnNDQVAxX1BTY2h1cjNtZ2dKWnpMZ3NqeEwtNW9kUUNhZXFuMXpQb0Fpa0VWbk1aRXZsazVkcTRPYVZfUzJOejZEQk9FZG53VmVPNGJxVV9QcElZdEJvSFk5MlZkcEEwVk90SmVBTkdjX1ViTjB5dDBFWWxhRHpXT2xCNnVHb1puV0twandTOHMtR1VGZEYwUHRHNU5Zb2NqYjBNVjJ4d3VJR3ZBZnVsRWs4XzFBd29ERmlUNFQwWHFDanVSNUN4dWR6WlhPYzdlVzYzZw?oc=5",
+      "fuente": "EL PAÍS",
+      "fecha_publicacion": "2026-11-09",
+      "seccion": "nacional",
       "etiquetas": [
         "Economia",
         "Política"
       ],
       "imagen": "",
-      "descripcion": "Presupuesto 2027 de Neuquén: Koenig irá a la Legislatura para defender ingresos por $11,4 billones y una suba de impuestos del 30%&nbsp;&nbsp;Diario Neuquino",
+      "descripcion": "El Papa defiende en Argentina a las víctimas de la motosierra de Milei: “La economía debe estar al servicio de la persona”&nbsp;&nbsp;EL PAÍS",
+      "relevancia": 2
+    },
+    {
+      "titulo": "León XIV llega a Argentina y marca diferencias con Milei: \"La economía debe estar al servicio de la persona\"",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQMGZnQVA4b0trb3VGS29LTFM2NERXWlVUTWs3Qk1qaDM3dExDSF9yZ3pKMjdFRmpfWmdiTjRpcXlrQnh2alVzc2Vobzh6RVV5S255d0k2WEp1alhDbmpxQm9VaFU4eWthalB6a3VOWVdULXYyajBMRXYzRVBFY1paVFlnY2xPeUNlZ3UzVE9nTDlXYllZZWgySWdvQnZZaEt4d3MyZGRMSFdXNFNNaFlPR01wTnR3ZF9meWRHd1dDQVFIaEFhWkM1allKQmFORzVzQ0ZpQm8tLWZFYXRPd0MzQnRmOHhBbkxXcXBvdzFwZmpkNFpOM1hiQklBTkpaM2p0Y3c?oc=5",
+      "fuente": "France 24",
+      "fecha_publicacion": "2026-11-09",
+      "seccion": "nacional",
+      "etiquetas": [
+        "Economia",
+        "Política"
+      ],
+      "imagen": "",
+      "descripcion": "León XIV llega a Argentina y marca diferencias con Milei: \"La economía debe estar al servicio de la persona\"&nbsp;&nbsp;France 24",
+      "relevancia": 2
+    },
+    {
+      "titulo": "Riesgo país: por qué superó los 900 puntos y cuál es el impacto en la economía argentina y las inversiones",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPbUFvSGhhUTQ5OW14c0Foa3hYb1MyZEtTY2ZYcFo1WUI4ZlR6RmVrMXd0NU9ON01SQURYMUFHTHNObDZLOVdLV0ZrMGhLeEdJOXhzNXUza2tjb25PeldoRDVSTlpCam4xY1RaZnJRMXR4b1lTbjNiQ2o2dFNyNFgyWnduUDAydGVOVllBU1Y0eFRDSURvdkRrN2tDNmpVdGVsVDVuTGFEYl9aNUZLNHVTc0lTVkJXck5zVkY1LW9VR2lXaGNleHpvbU9ibmt3cVJHUXl6cTlZZ3NHYWlXSXBQRGJScGszdw?oc=5",
+      "fuente": "Mirador Provincial",
+      "fecha_publicacion": "2026-11-09",
+      "seccion": "nacional",
+      "etiquetas": [
+        "Economia",
+        "Finanzas"
+      ],
+      "imagen": "",
+      "descripcion": "Riesgo país: por qué superó los 900 puntos y cuál es el impacto en la economía argentina y las inversiones&nbsp;&nbsp;Mirador Provincial",
+      "relevancia": 2
+    },
+    {
+      "titulo": "Qué puede esperar la minería argentina de la economía en 2027",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZFl5Sko3a0NEMXR3ZjhHeGNZVnFKWmFTWExzT21vamRienBoMzRCOWptcVZmTlhvWkhYdmR4eFJRems5MndKYll6NnNlTGc3X3lSOERlT2tDcjNtVUZaUnNiMERpOTFOc0xKXzdQSmpqUlRSeUhRZU9BUTRIZkh5cDRhSHVZODRsZF85M0lYNWdscVVnX1N1TjZEdU5NVVk1eVE?oc=5",
+      "fuente": "Salta Mining",
+      "fecha_publicacion": "2026-11-09",
+      "seccion": "nacional",
+      "etiquetas": [
+        "Economia",
+        "Producción"
+      ],
+      "imagen": "",
+      "descripcion": "Qué puede esperar la minería argentina de la economía en 2027&nbsp;&nbsp;Salta Mining",
+      "relevancia": 2
+    },
+    {
+      "titulo": "Los primeros gestos del Papa León en la Argentina: la señal a Villarruel, el filtro a expresidentes y los reclamos al Gobierno",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQN2dhenZNaXZFdWd5cWJDUHZTRGktTXlKaVgyWUItZnd6SGlJdHhRci1EQjlBSkpLdWJDZ1RMdGs5alNRRFpsTmtrLXVlVFdHY3V4cXpwSmxGdHB2VzlBSWsxeHc1a3NCQm82UlBOcnNSaE9sRWNLUDctSVRwcWlnWjJUdzZvemlINFRBYmRialRaS2g1cUgyWVc0ZGowQ1dXcFh6RUZOYUJSWEZCSEJuVVV1WnlCTFVWSnFQRmFZUzZJR21vU0M0UkJ6ZHl5WjlzZVhDR0NxWTdVNXFJWEZBbXNMd3VBaDVLSTBOdW9NVTg4b0lJSHdpUWlJLUpQdlU?oc=5",
+      "fuente": "Infocielo",
+      "fecha_publicacion": "2026-11-09",
+      "seccion": "nacional",
+      "etiquetas": [
+        "Política"
+      ],
+      "imagen": "",
+      "descripcion": "Los primeros gestos del Papa León en la Argentina: la señal a Villarruel, el filtro a expresidentes y los reclamos al Gobierno&nbsp;&nbsp;Infocielo",
+      "relevancia": 2
+    },
+    {
+      "titulo": "\"Economía debe estar al servicio de la gente\": León XIV llega a Argentina con duro discurso político",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNS2lXb0w4MFpGOE5KY3VGblRBcGlSYWhwZzRGMkNKMS02NlVTOEVJQkNoV0VjRGtSRFRtVjRXVlc1VlhSZlB1VnJZdmRyNDlQVUVwdmtWVGM4YnYta2NSckJuRTVnb1pPSmVxSTlpdmJySVYtUnhqYW5VZktzbTZzSTVsWkdnUXNmT0xEQ3hoVk1FUHcyUGx4R0lXX0xFY2xheUNyMXNoS1NzR0hFdmhqaXN5X2h1cjByYk13VVNUWTNaZnFJVXZzbmEzSl84eU8xUS05ZmR2TnNMMERMZ21CUDE4VE5jNDVneG1F?oc=5",
+      "fuente": "France 24",
+      "fecha_publicacion": "2026-11-09",
+      "seccion": "nacional",
+      "etiquetas": [
+        "Economia",
+        "Política"
+      ],
+      "imagen": "",
+      "descripcion": "\"Economía debe estar al servicio de la gente\": León XIV llega a Argentina con duro discurso político&nbsp;&nbsp;France 24",
+      "relevancia": 2
+    },
+    {
+      "titulo": "Mapa de la minería: a qué países van el oro, la plata y el litio que produce la Argentina",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNT2trRFNoTnBVUjd0NzBDYWJ6OEJZUjJYN0dEcjVPVG4xcnBtbE84czNCR0E1WFEyVEkwRjdaZHNGZ0VjaV95Nk9PZ3hlcWZNVHhxRHVvUGdENF9OUE04Y3J6alQzYjBuRUl2YjF1ckNhbWUzXzRDdG1SUXkxeFJiSm1JLVMyamUxUEwyQnJsdGlfWFFVaUM2UEtIRFJRYzNsUlBhSkNObm5nTnZFdTNEamRBbi0wYkd3WUVTVlpLdjNmVG9Nc1VpRTJHOFLSAecBQVVfeXFMUDRMb1lPajZZNEdkazlmQzY0RWhFUGhCdGZ3aWZQTHVtWE4wSFgwRDYzaDFacWZXMGRMV0d2UDF2YS1nZ2hHdXhaWlFJWkFuSGwwM28wVlhLdlBETG5RQmxNV1d2dU1ydHoydEg3aDF5cXJTZmlDdnlBYS1fUHpuR0MyeHQ3UUxHb1JpOU53eDg4OHlYTGQxaEEzRkMwX3MySTlFaW42Y1QtUUJCVUdKaDN6b2c0NDZ4dFp6M0FzMS10UXNVSVExdEpNdUh2UnlsVUNXVkxnZEFoMDJKZk93Rk1NMTRTZE9V?oc=5",
+      "fuente": "Infobae",
+      "fecha_publicacion": "2026-11-09",
+      "seccion": "nacional",
+      "etiquetas": [
+        "Producción"
+      ],
+      "imagen": "",
+      "descripcion": "Mapa de la minería: a qué países van el oro, la plata y el litio que produce la Argentina&nbsp;&nbsp;Infobae",
+      "relevancia": 2
+    },
+    {
+      "titulo": "León XIV reprocha a Milei la situación económica de Argentina: «La economía debe estar al servicio de las personas»",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPTGZycEtpcU9LeldEbTFHQjVUV3lxdzhvMkVpRHdXUDJYOHFQalBDX3lObHdMN0VwSjFRc3BfbzFnZmp6X3NLNlZNZ0Zpay1SNlRrcXNBaVlnWVNnYlpSZTFoVS1JSjBXUWlLTy1ia1lGaGtkVEJZQ0Z4UWhHb2F5c3RzanQ0MU5CUjBSakVST0lCdTMzaHRWeEdmdG81TVVfMjFIYzFlYk9jaFM1c0Z2UVRPVTU5UmdOM2Q4ajUxbUtJT09GZnZyOXZOVEVOZHBTYVNuc2FUMGR1TVVLZVpiakpOc0VtUdIB6wFBVV95cUxOenByRWN3MDVUWDRCMC01NjNIZHd1dFpOOVZ3VzdVSF9mM2hQdkZpcWIwb3lUeDBPQnVZbHhTWHBOcG5PT1BzSHJCQnNibjZHeFFKWmdXS0Y2dVVmWHZuN195VlViMmVrdDFuUzdybkIwLXdJWG40Z0RmcFdvbTdMYjl5Y2xNVl9ncTFYSHdoakhZdno5cEU1bUYtWG5BSzZNVlNlVVA3cDUwX3dYcG1sWk0zcFpKT1N6azBMZnNVTVlpRnplSWdoX19kU2xrdTkyWGpUa0k4OENvSEIxN1JabU45endrS2Z0SV9v?oc=5",
+      "fuente": "El Debate",
+      "fecha_publicacion": "2026-11-09",
+      "seccion": "nacional",
+      "etiquetas": [
+        "Economia",
+        "Política"
+      ],
+      "imagen": "",
+      "descripcion": "León XIV reprocha a Milei la situación económica de Argentina: «La economía debe estar al servicio de las personas»&nbsp;&nbsp;El Debate",
+      "relevancia": 2
+    },
+    {
+      "titulo": "El papa lanzó crítica diplomática pero firme a las medidas del presidente Milei",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOU19UR29NbXBRSUpKSGh4UFd3YWhiT0hyZFg1LWdVaEl6V3IyUkd3bXJIbU5TQWNnY050bVpLeVpfTV9hWHItZmVmRC1SdUVpUk9vR2dTdDgtLUxWZ1FsbkxoQmpkVWt1eTJoZjRLNXlmTEJUSG53LXU4N3lfV25RczlqVjhUVjgybVRpRXZuTEZ0SThKRVhqWHAyWkllQV9VVHlvcGZBOW9tU09lSkJFV2k2dFhkZF9FNG1pblVLWTBrbjJNUDg2RHBQOC1OMWtQUzV5dFpfZ3U0eW9UTG5yS2hfYjlOYkE?oc=5",
+      "fuente": "Spectrum Noticias",
+      "fecha_publicacion": "2026-11-09",
+      "seccion": "nacional",
+      "etiquetas": [
+        "Política"
+      ],
+      "imagen": "",
+      "descripcion": "El papa lanzó crítica diplomática pero firme a las medidas del presidente Milei&nbsp;&nbsp;Spectrum Noticias",
+      "relevancia": 2
+    },
+    {
+      "titulo": "Trabajo, jóvenes, familia y economía: las 5 frases más contundentes de León XIV sobre la Argentina",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTUlTR0pDYzhqYjJyRXN1elNFNjAxU01YM1RZamg1anBucWZjSWs3RTZ6VDMyU09UR285WTdJZldfbkVjWlZRVlNEb3pjZ3VnYzZ3Y2Q1b0Q3RmdvbWJ4WUpMaXN3aXhNS1VGc0VFQlNOa1V2dTVVczlWdEtKc1hTa3V5enNTQ3dhX3pmWkR4cFd1ZVF3d2M5em1KWHY2a0kxLURiT1kxbjZPUFZOSFNQQ2ZROWZnOG1hWGc?oc=5",
+      "fuente": "AHORA Entre Ríos",
+      "fecha_publicacion": "2026-11-09",
+      "seccion": "nacional",
+      "etiquetas": [
+        "Economia",
+        "Empleo"
+      ],
+      "imagen": "",
+      "descripcion": "Trabajo, jóvenes, familia y economía: las 5 frases más contundentes de León XIV sobre la Argentina&nbsp;&nbsp;AHORA Entre Ríos",
+      "relevancia": 2
+    },
+    {
+      "titulo": "Los gobernadores y la oposición destacaron el mensaje del papa León XIV sobre la economía y la justicia social",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNdFpOa1lkTEtHejNwUXBXNjI4ZWREUTk4TklrMUFlZGtNSVdFckdwMW1HZHFYZ3BSbzJsREhNREVCT0lqSWhCUHNIWW9ZNFNWYUxCNGlNcktsN1g1aEYzTUd3TmxReEhOb2NraTJkZE80NXQ5SDVkS3pKdUhaUmotcFVtV1BZck5KNGlvRzA0d1hpVjZ3MDdDYm5VcG9pTjZ6blJiTVFiVlZNczNSR25sUk5SMzRxWGlpUUZaS0U2UlFfOENwUHFaUFN3V0gxMENpZUhfaVNxS0NaQVFzUkQ0SVB3Y9IB9wFBVV95cUxNdVZfX1B4azlicWlpbkZkWXdKcTJNRG55WndIc0U3NTlNZFgxbEd5bVJ4WTNnem1FcjNxRXZ5WlBLZ25xajZpTUhaRWVsTXJRUGxueW95b3F3dlk5cDVLS1Y1SjZJMUI4OFFYa0QyNG5pNWZXVG1MRHpEcmNDRngtTmNEbndsV3BTQy10VEpIVl9wTXl2SVhLRjlRTmVFVHVSbGtVNHpFMDN5dE9tdFlPaVU0cUFvdjlEUnRicGZFQjU0OENjX3VwT1VZU2hVcWJpeWx2RDg1cDZCNTlDRXdRQmcyV2txT2dfaVc5aUFxaGY0d0dKUkJB?oc=5",
+      "fuente": "TN",
+      "fecha_publicacion": "2026-11-09",
+      "seccion": "nacional",
+      "etiquetas": [
+        "Economia"
+      ],
+      "imagen": "",
+      "descripcion": "Los gobernadores y la oposición destacaron el mensaje del papa León XIV sobre la economía y la justicia social&nbsp;&nbsp;TN",
+      "relevancia": 2
+    },
+    {
+      "titulo": "La base monetaria cayó 13,3% en un año y Milei mantiene el ajuste pese al estancamiento de la economía",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMGpxQ0dEUWoyczNWc05jd3Nvc2F4aDRMZVBScGliM3FVbXI5WXdUeDJpSU92bWF4aFphNDdCaW9sVlJUY1N0cWgyaXhEVEx3dDRBVHdJNTNLdUcwR2xmRV8wdDRpOG9MbGNkbDU1SFRqVjE2VVRfVncwV1g2alpsak5rZGx1VVlCdDd1SHJURDY3OUdTNXdVTFRYVC02RVRoek1IQ3dMWk4wVjdYb3BHN0U4NnlwVDZVdUh6ay1HbEh5NDl2YjJ3YmNKVQ?oc=5",
+      "fuente": "Diario Neuquino",
+      "fecha_publicacion": "2026-11-09",
+      "seccion": "nacional",
+      "etiquetas": [
+        "Economia",
+        "Política"
+      ],
+      "imagen": "",
+      "descripcion": "La base monetaria cayó 13,3% en un año y Milei mantiene el ajuste pese al estancamiento de la economía&nbsp;&nbsp;Diario Neuquino",
+      "relevancia": 2
+    },
+    {
+      "titulo": "El FMI estimó que América Latina podría aumentar sus exportaciones hasta un 20% si aprovechara mejor la inversión extranjera",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQSzZibmRaeFA1WHlsTm9TNXZ2SURZWmlBczdMYmRrS0FxNWc5WGF1ejdDcWFNWVp5WXA4ZVpRb3hqSXVfVzBNS29YVmVSVzM4MGx4MkZ5aEFZREhIa2FjY0RkTDYzWVFxRGpyUnh5TDViQVpCREhPMjU3MzZEbDJXZ3c4Q3hpMjhQRlNXeHFxcmxaWDgwTkRqdTRHNGthUTFPdEpsRGhvVVdON3o0MGhkb3dPMGx6TVlUU3hXQWxUa3NjX3JaWS1Ma05NdTM0bEpwLUR1WTBxZFU5YzZhbm5YbWo2UlRCd2s3MmFIMklXVW91VzNT0gGIAkFVX3lxTE10cGFELVB2MHU5M29ERm5ISWpXTTh4bjRKcG1DdjNqeGswVllNY3dqXzlDMFJoa2JLQmpMcFRsc1JwZDl2clExMkZiNHkwSGh4YU5BWnM2Znl0ZU1CbmtJQl9rVDZKSS1MOFZjc1h1Q2ZKZ3BoOHIybHlDLWxHU29fSE5PdkpPNkhuajlHUVpUcGFVaGowRVFUUDZxQWZVU3RjS3MzT09PYWFYQnZBOE5jOGwycmdqZUdYTE9OZmVpM3E5NVR4RVNCRHFldEhvWjNfSExKY24xbWpWNENYeXJQMlN1d3JNVS1HdFo2SU5pTml5U1BRblF0ZGowa3B5NllEQnk2VnlmeQ?oc=5",
+      "fuente": "TN",
+      "fecha_publicacion": "2026-11-09",
+      "seccion": "internacional",
+      "etiquetas": [
+        "Finanzas"
+      ],
+      "imagen": "",
+      "descripcion": "El FMI estimó que América Latina podría aumentar sus exportaciones hasta un 20% si aprovechara mejor la inversión extranjera&nbsp;&nbsp;TN",
+      "relevancia": 2
+    },
+    {
+      "titulo": "América Latina podría aumentar sus exportaciones hasta un 20%: qué plantea el FMI sobre la inversión extranjera",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOeFhjNWZiU0dpVHFtQW9HcG5wbWt6aGR5ZzRjcjlmbTUycjNJTFo0WFpPdTZTcXpPNHFHd2dNOFpHWjdPcHROVG5rV0U2VnVOQ2UwQjFyUFJ6c3NTNVVMb1lIMnp6T0huLXh1UFVYYlc2RlQzVFV2WC1XMTdwWmVNUURlUVBlTGRDeWJjdVRqUEJnS1MzeEg5amVZSG5QTDVTY3hReGFlUVRHb2drQWYzei1nYl9HU0xxMEQxaGtZM25RZE0zY0hvellyRmw1REkxQUVpZ0VxQlEyYzdlTVAzM3Z0TmVYMUhC?oc=5",
+      "fuente": "Radio Mitre",
+      "fecha_publicacion": "2026-11-09",
+      "seccion": "internacional",
+      "etiquetas": [
+        "Finanzas"
+      ],
+      "imagen": "",
+      "descripcion": "América Latina podría aumentar sus exportaciones hasta un 20%: qué plantea el FMI sobre la inversión extranjera&nbsp;&nbsp;Radio Mitre",
+      "relevancia": 2
+    },
+    {
+      "titulo": "El FMI explica por qué más inversiones no se traducen en más exportaciones",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOHptdVd5YlBiV3V0M290TjJ0Rm5MRVI0dDVxOTlHSm9NTmJzWVNXOVRMOC1Iemx6Nk13YXRmcW1FR2JtdUxqV2hUT3A4UjlGbTRFNk1NdW1XMDNIcjd0YlYtT0dPak9QNmhJNE43N3NFYzNaY1d1VmFBMWcxa3RIRXFpa3BoZTRyWGxsQ3Z4dVJYeXhweXBEZWZ2VXNQU09lVEhiSXdZZWZoUmw4X3Y4cW9OcmlBQlXSAbcBQVVfeXFMTTh6bXVXeWJQYld1dDNvdE4ydEZuTEVSNHQ1cTk5R0pvTU5ic1lTVzlUTDgtSHpsejZNd2F0ZnFtRUdibXVMaldoVE9wOFI5Rm00RTZNTXVtVzAzSHI3dGJWLU9HT2pPUDZoSTRONzdzRWMzWmNXdVZhQTFnMWt0SEVxaWtwaGU0clhsbEN2eHVSWHl4cHlwRGVmdlVzUFNPZVRIYkl3WWVmaFJsOF92OHFvTnJpQUJV?oc=5",
+      "fuente": "Mendoza Post",
+      "fecha_publicacion": "2026-11-09",
+      "seccion": "internacional",
+      "etiquetas": [
+        "Finanzas"
+      ],
+      "imagen": "",
+      "descripcion": "El FMI explica por qué más inversiones no se traducen en más exportaciones&nbsp;&nbsp;Mendoza Post",
+      "relevancia": 2
+    },
+    {
+      "titulo": "Las empresas salvan la Cumbre Iberoamericana",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTk5xYm84Vk82TkJFM21ZSnZGa0IyZXdqaFcwNTFreXZONklycFROLV91azB2OEFIYWhKdmZSTk4yZXBpemV1Q2VWX2R0bHJQSnEtZWNVQVdFemdLUS1GMldWcDF0ZlZUNS0xVTEwNjFPVC1KRVVCVUZVOFBQaXJldVBmNjBLeDJNYndzT3QtbWtUSk9FZHNxVDhUQjJzQ2VyTFRNSzVFMUVFWFROWDJQTGgybndXZTNZSURqMGZjU1dvSGxGMEFPQw?oc=5",
+      "fuente": "El Confidencial",
+      "fecha_publicacion": "2026-11-09",
+      "seccion": "internacional",
+      "etiquetas": [
+        "Producción"
+      ],
+      "imagen": "",
+      "descripcion": "Las empresas salvan la Cumbre Iberoamericana&nbsp;&nbsp;El Confidencial",
+      "relevancia": 2
+    },
+    {
+      "titulo": "Inversión extranjera, clave para mejorar las exportaciones de América Latina: FMI",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQS2d5dEZPY1dCMVA3bFVZZVZsTV9NbGdORE42VjJUWGk3dWQzckg1S3RTeWdHQWJDNnRlSGxyTDl0TWkzOFBZcXRST1p0RjMtdjRYWnNmbzU4Z0xQbWFVUDM1WU5ER1lYZ3hNZ242YURIbF9XSE1MRFlHVmhqUWhIMzRWd3VSTVo1aFB6c0hxZEZxSXVlSFlUNkxkb0pBSUdFZ3lxakNvZmVjM3JQcWRzQ3JHVEFlOTVLTHFBZg?oc=5",
+      "fuente": "El Nuevo Siglo",
+      "fecha_publicacion": "2026-11-09",
+      "seccion": "internacional",
+      "etiquetas": [
+        "Finanzas"
+      ],
+      "imagen": "",
+      "descripcion": "Inversión extranjera, clave para mejorar las exportaciones de América Latina: FMI&nbsp;&nbsp;El Nuevo Siglo",
+      "relevancia": 2
+    },
+    {
+      "titulo": "León XIV ante Milei: \"La economía debe estar al servicio de las personas\"",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPLS01ZThGS19kcExrUkJCM0lObWxkSmxGVkVteTMxaUpBSmNUOGJpcDREazh5bU1uNFlXSHduY3F2ajZpdHVKM08xc3VxSmE5eWFWdW52aVdiT3J6Y3Z2QXRoaWRlajBlN0lCVkNXaGdOYzI1YTJlYXR6V2NTTWdaT3d5X1c1elF1Y0hXaThMRjVSQmRXZG9EVW1Od2VZdEhZeHl1LS1wNG1ORE43Z1JiXzM0dkFoc1k?oc=5",
+      "fuente": "Teletica",
+      "fecha_publicacion": "2026-11-09",
+      "seccion": "internacional",
+      "etiquetas": [
+        "Economia",
+        "Política"
+      ],
+      "imagen": "",
+      "descripcion": "León XIV ante Milei: \"La economía debe estar al servicio de las personas\"&nbsp;&nbsp;Teletica",
+      "relevancia": 2
+    },
+    {
+      "titulo": "Mass Killing in Poland Becomes Cause for a Political Fight",
+      "url": "https://www.nytimes.com/2026/11/09/world/europe/poland-mass-shooting-krakow-politics.html",
+      "fuente": "New York Times",
+      "fecha_publicacion": "2026-11-09",
+      "seccion": "internacional",
+      "etiquetas": [
+        "Política"
+      ],
+      "imagen": "https://static01.nyt.com/images/2026/11/09/multimedia/09int-poland-shooting-01-wqzp/09int-poland-shooting-01-wqzp-mediumSquareAt3X.jpg",
+      "descripcion": "The government blames the far right for inspiring the gunman, while the opposition accuses the government of lax security.",
+      "relevancia": 1
+    },
+    {
+      "titulo": "Los sindicatos se preparan para un seguimiento “desigual” de la huelga por territorios, sectores y edades",
+      "url": "https://elpais.com/economia/2026-11-09/los-sindicatos-preven-un-seguimiento-desigual-por-territorios-sectores-y-edades-en-la-huelga-general.html",
+      "fuente": "El Pais Economia",
+      "fecha_publicacion": "2026-11-09",
+      "seccion": "internacional",
+      "etiquetas": [
+        "Empleo"
+      ],
+      "imagen": "https://imagenes.elpais.com/resizer/v2/Q24Y6RXNYJCERLTVMH55BYQOFM.jpg?auth=7ef88268affd0c3c6dbd31b59ca65e36f182db109610f8a5af88bbf8dcb9894f",
+      "descripcion": "Las centrales anticipan manifestaciones masivas y buscan detener la actividad, pero prevén un respaldo “asimétrico” en función del impacto de la crisis de la vivienda y del conflicto ya en marcha",
+      "relevancia": 1
+    },
+    {
+      "titulo": "Pensiones con visión progresista",
+      "url": "https://elpais.com/economia/2026-11-09/pensiones-con-vision-progresista.html",
+      "fuente": "El Pais Economia",
+      "fecha_publicacion": "2026-11-09",
+      "seccion": "internacional",
+      "etiquetas": [
+        "Economia",
+        "Social"
+      ],
+      "imagen": "https://imagenes.elpais.com/resizer/v2/SS5AWPRGYVFPRPRYNCKB47ZJ44.jpeg?auth=5d2263100d4e93f98695b1a7c011a524a892d2fe6a4ff5eaa8538b60f68ace37",
+      "descripcion": "La respuesta al envejecimiento y la sostenibilidad de las pensiones exige una revisión a fondo de toda la economía y la organización social",
+      "relevancia": 1
+    },
+    {
+      "titulo": "El Gobierno inicia el trámite para reconocer el origen profesional de las enfermedades de las ‘kellys’",
+      "url": "https://elpais.com/economia/2026-11-09/el-gobierno-reconocera-el-origen-profesional-de-las-enfermedades-de-las-kellys.html",
+      "fuente": "El Pais Economia",
+      "fecha_publicacion": "2026-11-09",
+      "seccion": "internacional",
+      "etiquetas": [
+        "Política"
+      ],
+      "imagen": "https://imagenes.elpais.com/resizer/v2/SSHM5VKX5VKA3KY6TGE2CKAISM.jpg?auth=aa31200fd1f18b46551d2491ac20f2d18c953bfd1bb72a1e5dc5c0feecad4864",
+      "descripcion": "El Ejecutivo busca aumentar la protección social de las patologías que afectan más a menudo a las camareras de piso, como el síndrome del túnel carpiano",
+      "relevancia": 1
+    },
+    {
+      "titulo": "León XIV en Argentina: “La economía debe estar al servicio de las personas”",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYWtCWnFKU0k2SFpjTEdkZlZmbTZSM1NJX3U3T1hEaThHYy1hdVh5Si1lS0NQZzZaOEdpNXUya1U0R293M1Q4bVBENy1SNFpRdHpvQjZPX2hTVWYyS0RyQU8tQUliRHFHUHNuc0JDNnlYMU5Yc1IxQnl6U293eWkyTURLVWtFT0ZuV2JzNXRkMkpwdDEyQThhZGNoZGU0NGo1RDNKckZNZ19VS19aZjNpa0d1VHVIa3N0?oc=5",
+      "fuente": "OnCubaNews",
+      "fecha_publicacion": "2026-11-09",
+      "seccion": "internacional",
+      "etiquetas": [
+        "Economia"
+      ],
+      "imagen": "",
+      "descripcion": "León XIV en Argentina: “La economía debe estar al servicio de las personas”&nbsp;&nbsp;OnCubaNews",
+      "relevancia": 1
+    },
+    {
+      "titulo": "Papa León XIV en su visita a Argentina: \"La economía debe estar al servicio de la persona\"",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQTHptZThKdlU5dXlmRU0wLWdwY1BhblF4Uml5b0FnZk51c05uU1RTb1lFRk04NHVUaDZtSjVfR3hQYXljR0tRUjh3SXBHR28zYV9FelY1ei1oeUtCLWJCelBqdHIwYVJwbGJXWGl4OVNoeUJmNzhzWmQxZGk2M0pvRkRCYWpJZkJ2Q2piR3dpRmNJV29lU0dLVjhhUXAyd3dXd0N6TTNnMXdnVmpDVEZBUjNlYlFCZUxfTzJMN080QWRzVkdQZTk4dnREQlN6Q3RUY3ZFLVkxZmtNT0czWHJObUpsZkpNZnlBRkZTM2MzLUlIekg5SENBTk5sS202Zw?oc=5",
+      "fuente": "BioBioChile",
+      "fecha_publicacion": "2026-11-09",
+      "seccion": "internacional",
+      "etiquetas": [
+        "Economia"
+      ],
+      "imagen": "",
+      "descripcion": "Papa León XIV en su visita a Argentina: \"La economía debe estar al servicio de la persona\"&nbsp;&nbsp;BioBioChile",
+      "relevancia": 1
+    },
+    {
+      "titulo": "Panamá recibe el Congreso Mundial de la ICCA y refuerza su liderazgo regional",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNWdrdHZPN1Y0aHBNZEJKMlNMaG9MQWo3RWJ4bVVDZ1VUQVo3anotWHdTU1otYzRFbkNBNGd3UXl4SVBKTU1DSi11Z0NBQ1NneUc5WDRBeXRFc0tPallSWkU0UHZ1RWlTUFZGNklSVHY5ZU5wZG1SWHBTTnJsUWtWdVI1WExiQ0xZUkYwRGk5Tmt1aGU0Y044QXlaWEZoSDBTYWF5MzAwQ0RjMzlUMU5EVzNMYVRmZk8yeERyc0IzakptT1R6Z0E?oc=5",
+      "fuente": "Panamá América",
+      "fecha_publicacion": "2026-11-09",
+      "seccion": "internacional",
+      "etiquetas": [
+        "Política"
+      ],
+      "imagen": "",
+      "descripcion": "Panamá recibe el Congreso Mundial de la ICCA y refuerza su liderazgo regional&nbsp;&nbsp;Panamá América",
+      "relevancia": 1
+    },
+    {
+      "titulo": "‘Trumpazo’ económico, debacle política",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaVNDMm16Y2NTT3I0VmtlRzBJR0RTN3J4SFEyWWlISE1Gam5Rc0pTSy1OX2g5eFN6SzJpc3diWkdXbGduc0djWjlxanhzQklEZGdHRGJSNERnSHF4Mk1IOVJPZjFVT2hWdVRPSmpWSENJa1BFQ0x6SVg3ZWMtSzhzbXJYajVJSmhJYS0wUNIBoAFBVV95cUxPd1pJMUJMTThkTFRGdnl4WE5oOF8taWoxdV9MVTU3WHBnMWNzMnpVczVKZU1GelFkbmRjQlZCVFlwckxCZWp0ZjRZY280c0h5ZlFvMkJ6Vm1qVHozYVZFZWdTQ1MwUzk1d0ViaTJSM2kzTGlZb2ZkTzhscmItQmVFbE1OaDdwYWFuYWhSWEtmUHJaY0lRbkVGb1lNM0hlNHFy?oc=5",
+      "fuente": "EL PAÍS",
+      "fecha_publicacion": "2026-11-09",
+      "seccion": "internacional",
+      "etiquetas": [
+        "Política"
+      ],
+      "imagen": "",
+      "descripcion": "‘Trumpazo’ económico, debacle política&nbsp;&nbsp;EL PAÍS",
+      "relevancia": 1
+    },
+    {
+      "titulo": "Servicios Marítimos se prepara para el crecimiento de Vaca Muerta con inversiones y una fuerte apuesta a la seguridad ambiental",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQaDQ4WVJjUzFsczB6TDhmSnNwZ2RSU1pON0hCTElJYjRWenpSdjRVc1NqZzdQT2owUWl3RzNmWENQYk5iTFktSXJaSEd6Z21GQXFWc2NhVC1DbzJUaUQ2WWp5b3hvRUcwNXNScHlaSVpuNTlDUExzTm5vZGNWS19WNFZ4YkNBNm4tcFRPaGRVR2dKaHVaNVJIbjMyNC0xM2lMbnBHbXJ4eF9PVGpnVEgzZTNudkdFMDNsTkllNkxfVFAzUF8xdVl5NGY1dkx1YWdlZE5MYXM2djdVQlpPeHRlSW41SVFUejJZUHVKZGQyd2U3dThhMElxWV9PZHl6MW9ldExWQnBVSmZ4QQ?oc=5",
+      "fuente": "Comex Online",
+      "fecha_publicacion": "2026-11-08",
+      "seccion": "provincial",
+      "etiquetas": [
+        "Economia",
+        "Vaca Muerta",
+        "Finanzas",
+        "Ambiente"
+      ],
+      "imagen": "",
+      "descripcion": "Servicios Marítimos se prepara para el crecimiento de Vaca Muerta con inversiones y una fuerte apuesta a la seguridad ambiental&nbsp;&nbsp;Comex Online",
+      "relevancia": 4
+    },
+    {
+      "titulo": "Neuquén busca atraer data centers a Vaca Muerta para generar electricidad con gas que hoy no puede comercializarse",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQWGptUUlXYXhTOGtwSkppMUttb0RMaXA2dHdPWFN5SXBUZUdFUnZueFlrNmdHdnUydDk1aTZGVUVjR0ZpdnJ5LVlaVjBhV3BGNzFVWS1uNUpEcm5HWkVKLUVpZk9HclNHVU5VV25qOWQtVEJqZ054di1rLWpWWHBBMG40WkxTWDJYaXpnVzhaU0F0b3hqZkYzUDN1Qk5UMC1qeGJiMjhFdEI4eXpaX1gwSXBkY3pFN3Myb21jRnltUUhmMzRZem5kQXVZTHJhZ1V1MDVIYW1QdXczV2pHOHc?oc=5",
+      "fuente": "Diario Neuquino",
+      "fecha_publicacion": "2026-11-08",
+      "seccion": "provincial",
+      "etiquetas": [
+        "Producción",
+        "Vaca Muerta"
+      ],
+      "imagen": "",
+      "descripcion": "Neuquén busca atraer data centers a Vaca Muerta para generar electricidad con gas que hoy no puede comercializarse&nbsp;&nbsp;Diario Neuquino",
+      "relevancia": 3
+    },
+    {
+      "titulo": "Vaca Muerta: mañana YPF define una licitación de US$2.000 millones para los gasoductos que llevarán gas de Neuquén a Río Negro",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOY0pZOXlub0hMZXdmY25ZMEhhTTI1Q1B4UGxzbFZ0YVpkXzdpZUROT2xQN1RMRDZqYU1xdUVRLTJlZW9nX3hzelUzV0tUakdMcExsYm42VzhraWVSSkVRWTVMcFBuZnAteVJKTGFJRjZ6M0l0X0ZkcHktR0h0Y3pRWGFJUlozaFFMTmtFYTRHRTlPRmxCTzg4bGVBRVVHbmRUNnV3a0xlZExUTmhtaE12RWhCNF95TDhjaS1RZWtjRmFsM1F3SnNhN3l6M1VjLTREVnNZOTJlZGU3eFBGZFNpbWRR?oc=5",
+      "fuente": "Diario Neuquino",
+      "fecha_publicacion": "2026-11-08",
+      "seccion": "provincial",
+      "etiquetas": [
+        "Producción",
+        "Vaca Muerta"
+      ],
+      "imagen": "",
+      "descripcion": "Vaca Muerta: mañana YPF define una licitación de US$2.000 millones para los gasoductos que llevarán gas de Neuquén a Río Negro&nbsp;&nbsp;Diario Neuquino",
+      "relevancia": 3
+    },
+    {
+      "titulo": "Comenzó la construcción del gasoducto que llevará el gas de Vaca Muerta al mercado global | 8 de noviembre",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5Uc21yQ1pYamtuWUliMUxyOU51emJRZHlxUmJYR1AwVFZyZHRqR2RUaE05SmVWUzVUNUlyemdyQVBveVlSa2xVVlViR3JVbG4zXzBqalJXcUx6V1FGNzVzeWNCaWRRZnh1bFZwRWt30gFzQVVfeXFMTnBOVUthS2pxMVVhSkdqY3ROcEZwWmpSZDRJTWxScHdQdklnV3c2OFhoSlpmdzZkSUJwSGU5bDVOZEUzcF95VFdpcC10TGN1R0w0Y2JKcWJrZXBoWUVxQl8wa2s0OUhBQ1RoXzJwMEpveTJyRQ?oc=5",
+      "fuente": "Hoy Día Córdoba",
+      "fecha_publicacion": "2026-11-08",
+      "seccion": "provincial",
+      "etiquetas": [
+        "Economia",
+        "Producción",
+        "Vaca Muerta"
+      ],
+      "imagen": "",
+      "descripcion": "Comenzó la construcción del gasoducto que llevará el gas de Vaca Muerta al mercado global | 8 de noviembre&nbsp;&nbsp;Hoy Día Córdoba",
+      "relevancia": 3
+    },
+    {
+      "titulo": "GlobalPorts 2026: Vaca Muerta, minería e inversiones portuarias marcaron la segunda jornada",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNUE0tR2xNWXJWNklQVUhERHJqRE9FUGR2MjkwQllpWUFIZ3ljSXlLemlnb25qcWhfd3VLT0owZ3pFb2dyT2JsMGNvUDh5REE1ZEM5d3daM0sxVE1jMXVCWnZleFVIVzBJNUdNa3hHWjVucDM4UDlDN3d2UWotTktzX2g2cV9TNGV4THJsSHBSa1FFNmpmMW5tZEdEV25oOFR5VTZRSDAwWVhvbG1Gbm5NNG5Ma3dPc0pocV9FMDVEcVQ4bXlGYlZ0ckhYRHZSSDBtbjF0Z01JOA?oc=5",
+      "fuente": "Comex Online",
+      "fecha_publicacion": "2026-11-08",
+      "seccion": "provincial",
+      "etiquetas": [
+        "Producción",
+        "Vaca Muerta",
+        "Finanzas"
+      ],
+      "imagen": "",
+      "descripcion": "GlobalPorts 2026: Vaca Muerta, minería e inversiones portuarias marcaron la segunda jornada&nbsp;&nbsp;Comex Online",
+      "relevancia": 3
+    },
+    {
+      "titulo": "Alerta por Vaca Muerta: El gas no salvará solo a la economía",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcGNZSGt2blhsYlNxWGdORV83NEtfYTBUOFNUNF81N2xVYldBbjJ3UFFzYjJKLWJpeTJJQVJmdlpOQm81VEFGTVlsUF9wa0NDY2oxMTAxakhmdFBvWUFSM3pLODZaTjlxckpYLXdVcTVUNFM0WGVZbXBBcU42ZUQ0QUdsSTBVZWhnOHRQcHZfMldUSTEwNjVtMmwzd1VWUQ?oc=5",
+      "fuente": "» Cholila Online",
+      "fecha_publicacion": "2026-11-08",
+      "seccion": "provincial",
+      "etiquetas": [
+        "Economia",
+        "Producción",
+        "Vaca Muerta"
+      ],
+      "imagen": "",
+      "descripcion": "Alerta por Vaca Muerta: El gas no salvará solo a la economía&nbsp;&nbsp;» Cholila Online",
       "relevancia": 3
     },
     {
@@ -45,305 +747,77 @@
       "relevancia": 3
     },
     {
-      "titulo": "Jumbo Offshore completó una operación clave para Vaca Muerta Oil Sur y las exportaciones de petróleo desde Río Negro",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNcnpSMEhSS0NqcVhNWVNWdVhwRkY5TUhnd1NiNmlrR3NzVXp3bDNzelVyZXpRYXZ0Yl9BZDZ5REtZY0VlXzZSNGNpd2dhYW43RmxJWjlHQUFxX0FNeHE2QmZsVUFnZlEwc2s4YTJnamJZcGFMbGZ4bEhDUENjc2dfdkE0VG5SWG1WOFNVRUNxdnBYU2ZtWFNGejhGTjRySGI4eHI1SVh4YWFLbmloZGN1N1lQaXJpUnVNMWZSNHpGMFhXY1JDTjZSMWhKNjBDd044Wk5zV2ItdjlIdUstMFpNTw?oc=5",
-      "fuente": "Diario Neuquino",
+      "titulo": "“La economía debe estar al servicio de la persona\": el papa León XIV lanza crítica a las políticas de Milei en su visita por Argentina",
+      "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNR3NHa01BLTNBbG51NFZDWHB5TjNXQk5CcGZVWWJJTm5RUDNtZ2RnVERlc1h1TlF5eEtSUGJHaWMxcHJ3WHZ6RWV3Xzk0ZEtsNU5vREw0ckpLaFhwUmRqUDh5X2FGMGs0d0RlYWlEc2ZXUEVFMzZLdXdPWXRMdG5jZkZIaEZpZnRkRW9aS3dVOGxaZUFTMEtGUE55NlR0OFRaY05xVWV6UjA5X0J6a24xdUNfc1d5RmY0Q19FUjBHS2FKNXJsSW1RaEJZdTNzUDZzcklEbkFmb0JpWjI4cW5PUTQ5VjExVnpSNFc0ZDVSS3BxUkYyVno2MEdENFhwRkJIMXF6Y1NNX3BoaWhJa0ZMS016VEpFeF9rcVRkUDV1T21FMmZ3?oc=5",
+      "fuente": "Univision",
       "fecha_publicacion": "2026-11-08",
-      "seccion": "provincial",
+      "seccion": "nacional",
       "etiquetas": [
-        "Producción",
-        "Vaca Muerta",
-        "Finanzas"
+        "Economia",
+        "Política"
       ],
       "imagen": "",
-      "descripcion": "Jumbo Offshore completó una operación clave para Vaca Muerta Oil Sur y las exportaciones de petróleo desde Río Negro&nbsp;&nbsp;Diario Neuquino",
+      "descripcion": "“La economía debe estar al servicio de la persona\": el papa León XIV lanza crítica a las políticas de Milei en su visita por Argentina&nbsp;&nbsp;Univision",
       "relevancia": 3
     },
     {
-      "titulo": "El puerto apuesta a consolidar su liderazgo agroindustrial y energético",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOHlXaVZQTmNHbGc1eXo3WUZSZFlWOFc4NDdMbXByS0YtdEEtMS1TWjRhdDdDY2U4dTdTYktKTkNPSEpoRXhoWnNWb09HTFBGUTRhN2xEcTZraWpFRjFlOGRFSlQwWTJEa1doaVRYUG1janlWVEdFV1lQbG9qd3VBU0FYV0hRV0hmdE9yNG13TXk4aFJyNWNoeTJwVm9zQ0FSNk9xTmVmMUhoV0gzUXF2OUxGVFR2aWwyNlE?oc=5",
-      "fuente": "La Nueva Provincia",
+      "titulo": "Ante Milei, León XIV defendió a los sectores ajustados por el Gobierno y advirtió que la economía debe estar al servicio de las personas",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWkxybG44dDdZUlE2TkxIZXQxM0VfeUVDV0RkakNtUjRFWlFrbG5uZ2FwUzR3YUEwS0p1dlVKdFBQZ1VyZU1FOER4MHhhVEN0MF90OTVHem0wOEF4S1hjQUNlZDFPWE04WmFEc0Y1X1poaWFMSFF3b1BVVHdWdTFvYlYyczkzbmV2VE5UMk8ycnU5Vk4weVBLM0hVVENQSFJZN0Jyb1l0N2hxbjU3dmlxZllfUmg4S2EtNDYtUldfSdIBxAFBVV95cUxPX1hOM2FxNnkzQmplWk9BTWc5VUlhanh4U280OGttQmFaaE01OGlSNUFFckRUemVKM2lRbUtrWHFhMWZfSVZGcC01NFpFc0tNZGlaa2xqRENYT0V0cHEwSXNnTlNpZzlOd2d2akFzSW9wUGtoZDV1YnQ1RzF5a1dCa0ZmOUg3R014ZXYyYW1qUnU0SENJUm9jRVQ5MkNaWDRsMGdJdHozN1ljRmktbTRReG04bU5BS0RFcElSb21wTVQtZmNj?oc=5",
+      "fuente": "elDiarioAR.com",
       "fecha_publicacion": "2026-11-08",
-      "seccion": "provincial",
+      "seccion": "nacional",
       "etiquetas": [
+        "Economia",
+        "Política"
+      ],
+      "imagen": "",
+      "descripcion": "Ante Milei, León XIV defendió a los sectores ajustados por el Gobierno y advirtió que la economía debe estar al servicio de las personas&nbsp;&nbsp;elDiarioAR.com",
+      "relevancia": 3
+    },
+    {
+      "titulo": "Una lección del Papa a Milei: 'La economía debe estar al servicio del hombre'",
+      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQX252ZTFvR1dibE5JTG9HMWJvNl90RU9teDJVemhJd0YxeDA5N3Q0STFVRWd6bklvN1lqcEczU2t3Q1ltb2xvUkdKMktxbHRKbU81YkRxWHAxRDQ4dEJEWl80dFYzWVFlbkJpVlNrc0ZVLXZGcmNLS2JOSFp3NU10U3VUYXUxU0tpQjNfWTBLa1RyVGN1eXhsQkdBUUJhSGdBQmUxR2lfVnhVbE1RdFZSUWxOTU40ZVN5SWt5UjNqRGhwd0tINVo5QjdFZ0hFZFJMMWphX0s2bHZ4Umd4dnFWcnNVY29KN3lqcG1IUk5uWlpQczZOM3ZZaEJyMlZSNVBBXzNOS0ZveEFYN2JaS0NCeUY2b0FQbGQz0gGeAkFVX3lxTE5sSnNYYVdxdE0yWmUtQjYydjc5NWxEaXVJTHFRREJRQURvQXNvcmlDNnpaZXZiaFc3dkFpQ2h1c2lJT3ZIR1E1UDJLNUUwMmozei1LT2ItV3JaVG13WXFGU1g5NUU5Vm56VWMtM1d5ZG16SlJ6bnRDeW52MVpRaDNUZUxjWmZHWWNjY25ZaWRSX0thSDhzQzZGUGxXS3F3RUJhS2d3QkZpbEhiaHltbGxFZVB6YVh3TUx2ZllRTEN1YXFMTGd5cHhRZUk0T19zeFd2R3MyM1ZseURZSDU3bGdXVl9OVzh0bmozQjBJZHFUVTh1OUhweVRUWTdOalVhR1o2Mm5Oa1Fmc3lCUjk0b3dmanlLVi0yUDNyLXdEYmc?oc=5",
+      "fuente": "ANSA Latina",
+      "fecha_publicacion": "2026-11-08",
+      "seccion": "internacional",
+      "etiquetas": [
+        "Economia",
+        "Política"
+      ],
+      "imagen": "",
+      "descripcion": "Una lección del Papa a Milei: 'La economía debe estar al servicio del hombre'&nbsp;&nbsp;ANSA Latina",
+      "relevancia": 2
+    },
+    {
+      "titulo": "El papa defiende ante Milei que la economía debe estar al servicio de las personas",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQU05aSGlkaUI5RDlRSHhjWmE3SkxTZ0hRMTVmWG91UWdTcDhEWnI2OXpDRzA4NHphUmk3bzVwLVlPZGd5RzBOWlJqWTZlQVJmWlBkM2FhV0E2dHhGRU5wOEs4MVFaSm9JWGs5WFU5TXZuYk5zdTVPVnZRcnh5V3Zqc2RWdmdSRmFQcW0xd1VtZTRhbk9KLUg2RWxmemdScnYyN2J0ZUFna3ZkX20xdXlLQ2RUa0lxR0R50gG-AUFVX3lxTE12b2lmajJKN0lMMm52cXpRVGVnV2RhZHNreU12ZTNENmhTaVdqZUhLN2lzSC14ODRLTnRQaWRJcVppVjFMemJWNlJodTV0ZVpYcV9FQUptTnUtZ1A0bzlDcXNYOXVvVUlTNmd4RXlfRG1IUUF4UkxvdkFrcG1FWEpzOEZUNVhxYk1ZN0h6eUFNMERPellFVnBfOWJjbENCV2lnMzBpNEN2Y2NVeHY5QUVFUGs0NGV0SHd2VkJCVWc?oc=5",
+      "fuente": "Diario Libre",
+      "fecha_publicacion": "2026-11-08",
+      "seccion": "internacional",
+      "etiquetas": [
+        "Economia",
+        "Política"
+      ],
+      "imagen": "",
+      "descripcion": "El papa defiende ante Milei que la economía debe estar al servicio de las personas&nbsp;&nbsp;Diario Libre",
+      "relevancia": 2
+    },
+    {
+      "titulo": "El refugio que se terminó: la estrategia internacional de Milei ya no logra escapar del desgaste",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQU3B0S0wyQ2pCbno4clhJbW5oS1ZhTWZjcnNjWjE2OGxsTlVxaXFVdzNHMlhNZXRXNFk3ZWVDek5Uc0p3SWNNX3pYa2FsM29Ha29haDc5R1VISjVsSF81TEF2YTBPNmd4YmIxalY3LThVdDRhaDhzZEJKbmhFMzNibjZaZlhnYUZoNHd5R3dBSDktQWpkMHp5MWhCa29vS0kxcG16M2tkdjQ1YTFKVWdyVWVjWnBCQzkxeW8tRENxQldIWFZBaVpXNnBuOGZVeUpqOTlVNEtn0gHwAUFVX3lxTE80TkFPQkF1MVlWSmwtb25Ec200V2pjXzFvcHZiMnFrZ21xU0VncnNrN2RDckJiZmJfc3pUMnJhTF8tdV9pSzRrMXR4Nk9ZczMwNTh4Z050SXpBMGJXc0QyN196MDk5ZHNyWE1fTTVmUTF4ZHRHdWljbk55NjdCelROQnZJSjBBVFptdjRrZk4tNWJXb2RNMDE0WnNmTHVqQ2lpRHg4bnNZdllCbHZkUmtJN3RBWHUzWlJHWVRGMEhlRWthYUJpRm9qM01PQ2NoOGpHcjI4MEU5TXdKTmNHblJha1E5V3Z6TEUwOTBVMjNmZg?oc=5",
+      "fuente": "El Cronista",
+      "fecha_publicacion": "2026-11-08",
+      "seccion": "internacional",
+      "etiquetas": [
+        "Política",
         "Producción"
       ],
       "imagen": "",
-      "descripcion": "El puerto apuesta a consolidar su liderazgo agroindustrial y energético&nbsp;&nbsp;La Nueva Provincia",
-      "relevancia": 3
-    },
-    {
-      "titulo": "Paolo Rocca puja con empresas de India, China y Estados Unidos por el gasoducto de Argentina LNG",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOS1VfTEwxUkZQcjNlSVNLZTNTdE5SbkJBWnJRdW52WVA0QXRBUjlWS3dVTjh3QXdteVVQNFNpNUNIbkVQa3g0a2oyR0ozMVBmdnd5UXVQeG9HMWZCM1NYWmRodFFsSzlVTU9sOVcwS2tPRE1icUZJNTJOcWIxWGhpOU9hMUlWS1M1cm9ZZjdNdTJoNmJlZkQzX3QtWXoxcjhlb3BzTUxtMjBfSzZyWnE1cmZRdktfWXVwcHB3TEdQZVlUQ1p2eGZWemhoWTRiZ2RRY254YjJR?oc=5",
-      "fuente": "Letra P",
-      "fecha_publicacion": "2026-11-08",
-      "seccion": "provincial",
-      "etiquetas": [
-        "Producción"
-      ],
-      "imagen": "",
-      "descripcion": "Paolo Rocca puja con empresas de India, China y Estados Unidos por el gasoducto de Argentina LNG&nbsp;&nbsp;Letra P",
-      "relevancia": 3
-    },
-    {
-      "titulo": "Nuevo museo en El Chocón: así será el nuevo “mundo de los dinosaurios” en Neuquén con una inversión de 24.000 millones",
-      "url": "https://www.rionegro.com.ar/sociedad/nuevo-museo-en-el-chocon-asi-sera-el-nuevo-mundo-de-los-dinosaurios-en-neuquen-con-una-inversion-de-24-000-millones-4789698/",
-      "fuente": "Diario Rio Negro",
-      "fecha_publicacion": "2026-11-08",
-      "seccion": "provincial",
-      "etiquetas": [
-        "Finanzas"
-      ],
-      "imagen": "",
-      "descripcion": "",
+      "descripcion": "El refugio que se terminó: la estrategia internacional de Milei ya no logra escapar del desgaste&nbsp;&nbsp;El Cronista",
       "relevancia": 2
     },
     {
-      "titulo": "Javier Milei y Patricia Bullrich cruzan tensiones por los cupos para el 2027 en la antesala de la cita con el papa León XIV",
-      "url": "https://www.rionegro.com.ar/politica/javier-milei-y-patricia-bullrich-cruzan-tensiones-por-los-cupos-para-el-2027-en-la-antesala-de-la-cita-con-el-papa-leon-xiv-4789655/",
-      "fuente": "Diario Rio Negro",
-      "fecha_publicacion": "2026-11-08",
-      "seccion": "provincial",
-      "etiquetas": [
-        "Política"
-      ],
-      "imagen": "",
-      "descripcion": "",
-      "relevancia": 2
-    },
-    {
-      "titulo": "Neuquén va por todo: proyectan data centers únicos en el mundo unidos a Vaca Muerta",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMTJ5cDJqMUtEWE9WNnlJMGxLa3BVZTR4d1lJeVhfR2JyQnhaMDR4czZJcE13TTZHd19SOVBwUmt0TTRNY2JlZDRkS0V4bTAxbUxlU0cyVlNwOENiMngydngzSmltTmY5YXM3QS11MlRhdExrUGsyNjdFXzNwX1NJUEMzSE9rN2NmczNyc1lFM3dnWlRJTFhMY0RzdVFUdUlYalY2QzdDajdqSlUwNHlpMDByM1RfOTjSAbwBQVVfeXFMTkdBcXN2MmUya2ZRT1M3NHAxZWpJOXZQLTQ5ZHczV3RoZ1RFUDBvNy00clFocVlhRUNzM3YxdEEtRVBId2ZIVjhjekhtQmN0S3dFOTVCNVl5Uzl0YXBVRUxPeTZHa1BQMlN0aEVINGU4ZFJlVm5aQm5UYWRFZGZSTGVTY0ZDMnhMaUJpbUtfbWYxTUM3bEVHUHVVaXlvaGxUaFRDdE1yX2RMbHVicUo5YVMxdkE3NE5xbTkwaUo?oc=5",
-      "fuente": "Lmneuquen.com",
-      "fecha_publicacion": "2026-11-08",
-      "seccion": "provincial",
-      "etiquetas": [
-        "Vaca Muerta"
-      ],
-      "imagen": "",
-      "descripcion": "Neuquén va por todo: proyectan data centers únicos en el mundo unidos a Vaca Muerta&nbsp;&nbsp;Lmneuquen.com",
-      "relevancia": 2
-    },
-    {
-      "titulo": "Energía, el nuevo socio de la exportación local",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPN2l0ekRzaVZiLXVuUlhjODNZSmh3OThONExmSHh2N2l3Tm16Mk9tbURyV0FDeXo3TW5oVkE3cVhxT0hyamN4cVpCR25fdjhKS2J5aXpPTE1la3poUmJDOUxKSl9faUlhek52dl9GZjJjaGVicWItdFRHQXBwY2hOY2pYMTFoR21XQldTWUw3WkJUMlc4Q3Z4MA?oc=5",
-      "fuente": "La Nueva Provincia",
-      "fecha_publicacion": "2026-11-08",
-      "seccion": "provincial",
-      "etiquetas": [
-        "Finanzas",
-        "Ambiente"
-      ],
-      "imagen": "",
-      "descripcion": "Energía, el nuevo socio de la exportación local&nbsp;&nbsp;La Nueva Provincia",
-      "relevancia": 2
-    },
-    {
-      "titulo": "Vaca Muerta para todos: Ziliotto sube a La Pampa a la joya de la Patagonia, aunque no lo inviten a la fiesta",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNOC0ydHhMYS1BejhYbGJVeTNOTnd2UkI1SXZvdFBuUGlDS1BNdW16eTZacWZTRnBvMUtBRjdXSHp3Q2lNOFNERTVCNU12YmtPQ1JGcDh5eDZ4amFJNlRRSWlKbWxCLXF3N3FaQUNmV1hZSVVJZFd6N0U5Qk0xeDMyQ0JxOEVKeXdWZWtGSWZiaFhGa3pzZF85M2hxejJSc05XNS14dGdjeDZSRmVMZldLZElGNGtRSi1uQmpHLTVuNEF4WVBHeWZTdjdtVy1YNWdvdEHSAdcBQVVfeXFMUHZJOGxGR25STnByV2ZIMEtCNVZkNjFqSlZLRnl6TVNkMW5aTmMwaXJjODQyMWo2U3l1SHF1ckJhX0NrcnVOcXBqRlRoLTVOaDlsUzRldmUyOVNNeXBJX0pDaEdTcWt1NFd0SGlDcVpyU1hSb0w0am9XejdfNUFPb293STNXOWJxNHRDWldHd0QxN3Z0Z2RQN3JSZ2t3aFI5NFZraWJoSU55MWJ4c28xTnhFdmtOdE1TMk9USXZ0MGZ5bGtzWG9PRzRTVXZmQ3NjVXQ4bW5zc2s?oc=5",
-      "fuente": "Letra P",
-      "fecha_publicacion": "2026-11-08",
-      "seccion": "provincial",
-      "etiquetas": [
-        "Vaca Muerta"
-      ],
-      "imagen": "",
-      "descripcion": "Vaca Muerta para todos: Ziliotto sube a La Pampa a la joya de la Patagonia, aunque no lo inviten a la fiesta&nbsp;&nbsp;Letra P",
-      "relevancia": 2
-    },
-    {
-      "titulo": "El economista que escucha Milei advirtió: “El mayor riesgo es llegar a la elección con una economía estancada”",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOSGgtNUdqWG40VW10a3dRV1hHUlFoRWhpemdVd1VFajNUM1lqZTNDVm41X1VWTUM0TXV1d0J3eThhLWVENzBOWVVxQlpDWm5mRzNucFFnaWZ3MU1pWE1ULTRSd2o0eWZyUnBSa0swTFYzVmgxT0p6MkJ6TkxGeEtJdHNVdllpU01yX2lzYTBqWVB2RVJ1ZGJGNTAwaFBBMHBFZ0FZRzhIMTc3SVFMbTl5VHkyVkc5ZVphUVVfVEdXRzVYNTB3NDdQc2d5V1d4TFBTTWRJbGhWMkxpN1doUjB0cE91Z19DYUVXTXpCWVBVNzFJR1RaRzQxVkg1Tko5azlkcGxmMzItONIBlgJBVV95cUxQcTRnclhEVEJqaGtyQ2RqeFIxMXlxaVVmRjdOZllNMkZ0SXRiZHRNN1VGU194ZkxXU19rOGE2d3lWeEV4SEgxM3dESk1qM2k1WTRTU1NIYkpCVV9uUFBoVXA2V2E4Nlh3eEVFRk12cnlTUGxybmZrUkdvbzNBWVRCbGI3OUNEQUJxa2ZyRFY1Yk5aajNGamxyVzFCYVJ4QndrYURQV2Z4UDBnRGFKQjNCRmJocTBGZkx5RVBGTTdOVGtIbmplMGUxVXhfMGhtS1lNRVVQclE5NEJUX3g0ajhiaGF0NV85eHVwQkl3M1lhR2VhOGlkeTJMNjJodHpYR3ZRdVlUNFNramJQb2x3VnZKamw1Tm5uUQ?oc=5",
-      "fuente": "Agencia Noticias Argentinas",
-      "fecha_publicacion": "2026-11-08",
-      "seccion": "nacional",
-      "etiquetas": [
-        "Economia",
-        "Política"
-      ],
-      "imagen": "",
-      "descripcion": "El economista que escucha Milei advirtió: “El mayor riesgo es llegar a la elección con una economía estancada”&nbsp;&nbsp;Agencia Noticias Argentinas",
-      "relevancia": 3
-    },
-    {
-      "titulo": "Luciano Laspina: \"Hay riesgo de que la política fiscal profundice la recesión\"",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZUJvcXRSM1pxc0pnbi14TmprVm02ZHFOZzgyVWtUMjF1eFVMMWtQYjJ3NWpPd1RKelAxcjlKVVdrLXBOY3ZkLXN2S3hudGVZdWE1NGlkUlRaRmFZaTh0Qkp0Q05fc0VpV1JtOUNoWi0tVGJEaXN3cHhPb2s5cXhYeUJpdk4wWkdyd2l0eDVkV3c4dThYQ0JzTmdra3cwb2lxNDd6YV9heFdLUUMyam5ZTkVBelMyUWN3UHRRekszcUdQZE3SAcgBQVVfeXFMT0JrZEVuZWxicVVndkRCOTdNRkZ5blZrc19GSUxiQVVxbmhxcFFCN2xienE0R0RyNjI4NVFacERNM2xtNi0xN08tNXJoa3VoOS05alN5eTRyN2lIOXJrV0FjTnU0OFB6UHRJWTJPb1NGWWdzLVN2ZHhNeFVJaWt0cE1CTGg2WjdFOG04LXRUd0FtSzNDRUM0TTA3dHZxd3NmSEVwY3VxYkNQMlBtSUV2TTFNeDVZa19aMDQtenRDZE9hOVl5YnNUaTA?oc=5",
-      "fuente": "La Capital",
-      "fecha_publicacion": "2026-11-08",
-      "seccion": "nacional",
-      "etiquetas": [
-        "Economia",
-        "Política"
-      ],
-      "imagen": "",
-      "descripcion": "Luciano Laspina: \"Hay riesgo de que la política fiscal profundice la recesión\"&nbsp;&nbsp;La Capital",
-      "relevancia": 3
-    },
-    {
-      "titulo": "La mala hora de Milei: 13 días radioactivos para el plan reelección",
-      "url": "https://cenital.com/la-mala-hora-de-milei-13-dias-radioactivos-para-el-plan-reeleccion/",
-      "fuente": "Cenital",
-      "fecha_publicacion": "2026-11-08",
-      "seccion": "nacional",
-      "etiquetas": [
-        "Política"
-      ],
-      "imagen": "https://cenital.com/wp-content/uploads/2026/11/Cenital_Rediseno2026_Portada-Notas_Sistema2_37B.jpg",
-      "descripcion": "La remontada de Lula y la paliza a Trump. Incertidumbre económica e interna desatada. El desafío de Bullrich y la coincidencia con CFK. El voto joven en Estados Unidos. La sugerencia que le hacen a Ki",
-      "relevancia": 2
-    },
-    {
-      "titulo": "Argentina tendrá más adultos mayores que niños hacia 2040: cómo impactará en la economía y las jubilaciones",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWVhidlExWF9TMlczeVJkZkNzNU9xWG94OXpubmNFYkpOOHZNU0twUHpmdThEWXhMQm5qMHdTbTlUWDZHM3MyS1IzeFVzMk41ajhkeFphM19MTXpETE5GMDJQT0NIWUJSR24tMFp0elRBR0ZGQlFIMEx2c2VTVl9TcnpzVHlCLTZKOGR1NGhYbUktNzd4LVJuYkxTR2VkY0dsX0pIVHNZdzJ6dGk1LUV1WmJwaVlLOTY5SFpmZHhaamlwOXc1dVNYZtIBzgFBVV95cUxNbVEzbGdMbVk5N0lPS2UtTGF3V2RZdEcwdG50cVFkVnZGVEtmU1BzaWdEb0dDRUM3SHJxS2hQVEdkU0d2V29BQWoyTGhRTWxfMlIxaWJxTG9zRERteXdabktTaVN4SDVQd01BWFp2OUJpZzhVZmFzQmFDYkh4ZzZaamp3VzktM0R4TTJRM1VvZW11OXZNa0FiRHZuakREUFJUNjFNcUtKdERBZF9TY3FQTl9RMGNzN01IdkZIRnlXS0tneENjbk5HSWtiSFQ5QQ?oc=5",
-      "fuente": "Ambito",
-      "fecha_publicacion": "2026-11-08",
-      "seccion": "nacional",
-      "etiquetas": [
-        "Economia",
-        "Social"
-      ],
-      "imagen": "",
-      "descripcion": "Argentina tendrá más adultos mayores que niños hacia 2040: cómo impactará en la economía y las jubilaciones&nbsp;&nbsp;Ambito",
-      "relevancia": 2
-    },
-    {
-      "titulo": "Duro revés para la economía: Analistas anticipan un 2026 con crecimiento casi nulo en Argentina",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeTNvMlJ5Ry1mY0V6NkVEYmRlNE9tSVRWeVd4dk5UWjZUYTZ1RzZtSlFTTTFkbG9zZ21JVnhQYm96emtTWDdmcFBYZXVyZ1MyVy0xMXZGdzB3aV9PZV8xOVhKNWJqb0dNSC1uVEpick9EVTV6eldROTJwbFpJM1lRWmxxNHlQMl9KdFExdEJmQXdQejV5RUFRR2lwR3RySjJiaUFNa2V1QU5LQkdYaGRpN0VLYUtSeVNCT2ln0gHAAUFVX3lxTE9SQ2o0aHNCR25pQTlrellqZjVvME1mNDJCU05pTGxwNjUxdjJRTU96RWc2TW1VYW5jZDlvckdYT1Z1UGk4ZFNhR3ZWVVlkLVVRdHNMNmpURUtiamszODZqalkwUDgyXzJEMFpSNmYyWktzOHNDams1VkJoaDVxSGFzSUpRMXFUeW5faVNBa0JaTVN2Y2I0aWRScjZSaHhzOGdNVkRxMjJUUE5BcUl3ekNMT0lNczNnN1ZWWHo0OGNMWg?oc=5",
-      "fuente": "Urgente24",
-      "fecha_publicacion": "2026-11-08",
-      "seccion": "nacional",
-      "etiquetas": [
-        "Economia"
-      ],
-      "imagen": "",
-      "descripcion": "Duro revés para la economía: Analistas anticipan un 2026 con crecimiento casi nulo en Argentina&nbsp;&nbsp;Urgente24",
-      "relevancia": 2
-    },
-    {
-      "titulo": "Argentina envejece: caen los nacimientos y advierten por el futuro de las jubilaciones y la economía hacia 2040",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPaC1XYTFxZC1keTF6RWprcFExTkVkNkk0elRUUDdYZWRWSUgtNFhXREt2aUcteVFIdnRydW5IMU9kaExjRzE4YkY5cFRfYUo5SE94TG11NnZ6ZjJUbnRQZFF3MlFJa24yaGZjT0l5R204T2lRZ1JuUjNSR3JsbWxCc0prNGlPeFVzYXBZU1BXczZJX3ZkdVl5RHNDa0xnRUJZWHRib0ZJc2UzNF9ESHMwQk1heUY2UVg3aFV0QlRsaGlSdHNSVU5wVDlwNjA5SGNfQlNHT3o0T2VzNUxLWmc1NFc1MlNYX1ZxbW1vWQ?oc=5",
-      "fuente": "Zona Norte Hoy",
-      "fecha_publicacion": "2026-11-08",
-      "seccion": "nacional",
-      "etiquetas": [
-        "Economia",
-        "Social"
-      ],
-      "imagen": "",
-      "descripcion": "Argentina envejece: caen los nacimientos y advierten por el futuro de las jubilaciones y la economía hacia 2040&nbsp;&nbsp;Zona Norte Hoy",
-      "relevancia": 2
-    },
-    {
-      "titulo": "Argentina 2040: más adultos mayores que niños y su impacto en economía y jubilaciones",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQQzVKeGpLb0NBaE9SUkFhMUJuZTR1T212d3F4cWIySmdOaHBsOHlHdXJsSnQwUlNMYmNqdk5NYjRYV2wxLU1kX2FrVFowelZpMzRQWTZfemotZW9ZTUFWTDdmcndxdjVaVlhVUUhObXNiSTRwLU85M1B3RERFcHhiUW9PSDFQWDV5aklLX3FYWmNycWM2amhwcXhOR2tGQ09DdkxBbWhudWhCTEoxZnBlLVM2V3Jia1Jxb29CYTFqOFRCemtoczNsa0NUdDhIRExYWDhPdXNuMA?oc=5",
-      "fuente": "elconurbano.com.ar",
-      "fecha_publicacion": "2026-11-08",
-      "seccion": "nacional",
-      "etiquetas": [
-        "Economia",
-        "Social"
-      ],
-      "imagen": "",
-      "descripcion": "Argentina 2040: más adultos mayores que niños y su impacto en economía y jubilaciones&nbsp;&nbsp;elconurbano.com.ar",
-      "relevancia": 2
-    },
-    {
-      "titulo": "El Gobierno busca encapsular la suba del riesgo país para evitar un impacto en el dólar y la actividad",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPXzZMT2R5VGtpQUdfTU85dEhrZ2Z3aHB5VFA3cFM5aEF4SU1lUFRIdWlYdldDamdzR0w0SFVHMWljcWVlLTlRQWNoRXFUZmFXOC13bFJDaGFBUVMwTWpydE9vQ3c1dGpHM1NYVEhxY09FQlEyczg1NUNLUTNwMktuaG04cEFDSTRLTkdIRlVaMEM0WDdQcWpxVU5aOGFwNlZ5a3NZUThDTEo3enBmSjhiRE4tVGhmYVJuU1NYNUxiSnFPVWZFV0t4d0dKZnhMOEw0T1pVdUN2enBIYWxMMzcwbNIB-wFBVV95cUxQbUlRdWozNWRBMnFJdUNMemRic3hhUEJ0NmpBSW1FSHJDR3pyVlJLcmptLS1qR2dsU05XRzZGdjlVMFctM0lsalpXMU4ydm0xZkRrckJ2TzNOMkQzWWpRVVBsbUdFck4tWGVhU1V4TGtaYkhCRkZXNFFCQXBxSjdZWklRd0RwT3ByZHhEY2UxZWNucEs3Y1NxeTVrLUFXRTZIeEllSndsSHhrX08wT2xhdGh6MzZUaW92YWRvR0pTbHE3QmdfNmhObTd0dzdHLWpBMlFUOWwyZUhQUlViN1NiWDRzTGZvYlBLY21BUGhfQkdhMTRIcnNiRWJ5OA?oc=5",
-      "fuente": "Infobae",
-      "fecha_publicacion": "2026-11-08",
-      "seccion": "nacional",
-      "etiquetas": [
-        "Economia",
-        "Política",
-        "Finanzas"
-      ],
-      "imagen": "",
-      "descripcion": "El Gobierno busca encapsular la suba del riesgo país para evitar un impacto en el dólar y la actividad&nbsp;&nbsp;Infobae",
-      "relevancia": 2
-    },
-    {
-      "titulo": "La reelección en Brasil sacudió a los mercados y plantea un doble desafío para la Argentina",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbzk2NlNiRzBwR3RaV0U1VEE4a0haamNYWEtzZEZORjdPLW11LTVJdUM2NldwX1BETlV5clN5dE90LWpta1IxTFNoZE9WelpQY3pzeGNLYmNqaVBqZldlUFRwSEhUT0JSSDlvVFplNjd4NEZGS3BGNjZxSDJ0cHFjZWQ1VThuQ2d1R2ZUZEhPQTVoMUJsUEVsX0R5R3JhR2MtUmttRENla1FuOWlYMm14c3ZueG1QMmJmWWJlVWR0ejYzdw?oc=5",
-      "fuente": "TN",
-      "fecha_publicacion": "2026-11-08",
-      "seccion": "nacional",
-      "etiquetas": [
-        "Economia"
-      ],
-      "imagen": "",
-      "descripcion": "La reelección en Brasil sacudió a los mercados y plantea un doble desafío para la Argentina&nbsp;&nbsp;TN",
-      "relevancia": 2
-    },
-    {
-      "titulo": "Argentina: Más adultos mayores que niños hacia 2040 impactará economía y jubilaciones",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNYU1OUVZMNFBlUFNsanl2TFhOX3p4cWhxVE12OGlrc2xHd29EZFZ5dWVMejVrUEZXeTNGUER3dmpWaS1EdEY3RVZtQmIzN3ptU1dQX3BJSFd0U0MzRjhlblBLY2RUZm1YMkVVcDIzZVRYVUtvdjFtZUtyeFVfdFhfcXR3VDFhZDJ3QU9NRVpCN0I2SlRFNFZSb0JfOHFkY0h2NmMwQndQWlFmcUNvVUg2ZlRDSGRQNTlhck42dA?oc=5",
-      "fuente": "Rosario Finanzas",
-      "fecha_publicacion": "2026-11-08",
-      "seccion": "nacional",
-      "etiquetas": [
-        "Economia",
-        "Social"
-      ],
-      "imagen": "",
-      "descripcion": "Argentina: Más adultos mayores que niños hacia 2040 impactará economía y jubilaciones&nbsp;&nbsp;Rosario Finanzas",
-      "relevancia": 2
-    },
-    {
-      "titulo": "El impacto de la visita del Papa: Milei busca levantar el perfil y la oposición espera que León XIV deje un mensaje sobre la realidad del país",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQN1RsVmFTY3pEV2VJQmlqRjBwdWNtd3VfZ2EzRklrNHlqeW11TlREcF93MkREVHpuMW1PS3A3UkJqcHR2c2MtcG1RWkZ2RDVqTDVzMEhfOVNnLWtfalQ1aFVxSFVZbVZlRUVVLTJ4MExoM1l4dDY5MTVCTThRT1RWUDdjbTVvUnlFSlZ1Y2xIYmF5TW1leFlReHJaVDUzZWhNR1dOZjBpc0xIdUZYX0t5cWJQNFdDM1hKSWkxSlRGYXhESGFZb3UwZzdQUzhVamNQT3F3c2hFczlDQ1VCWlJISllQazNPS0xYaFIyekExNUdHWXNyMzNV0gGLAkFVX3lxTE56NXlkNEZRcnVBUE1OYWNmTFI4RklqVDZBMXg2NEFpUm81Y2ZCVHZycHpWakhnZjNmZG1ycWVpbWd4LUczeVFCR3pLaUs0YnR1QWtlVGgtMW1mWVJqMWQza3Z4bFI1RXpRY05zWVFpWHNKNzFzOTNxRFF3M1pyX1FuTm1MQWYzYUNWS1M1VVdQUHJpby0tOUVOcVVpZlozTTMzdElpUF9ZTGg4Mkx5WEJSVWVJVW5scDlvY1VkTjRiMVlpdWdvOEZvNzBvTFVmMkJBM0Rwbkg4UnFsQ0Z6NWJKXzBIdWlTbTB4RGlPWEVNakNWSVlQc0hVM3dXd0s1UkNzZ1RXTk53ODRhNA?oc=5",
-      "fuente": "TN",
-      "fecha_publicacion": "2026-11-08",
-      "seccion": "nacional",
-      "etiquetas": [
-        "Política"
-      ],
-      "imagen": "",
-      "descripcion": "El impacto de la visita del Papa: Milei busca levantar el perfil y la oposición espera que León XIV deje un mensaje sobre la realidad del país&nbsp;&nbsp;TN",
-      "relevancia": 2
-    },
-    {
-      "titulo": "León XIV frente a Milei: el mensaje de respeto y misericordia que interpela a la política argentina",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQWW1OZFZGVk50eF9yNWlsbFpkWHZKV3cyOUlLMUtzdjhXcmRQTFpWM0czN0U4TDJDR01HVDNFZjU2RkJ0T2ZhOFVVMU0xWU5DMTBQWl9pck9UMmtDZzVSS3dQaEtUeHBqN2NudUFlSWZubmtlSXBEbXdENFQxNEYtQ0kzYm90Z2g3eW5rbGszVFhOR29jNlFsUFJjei1SYy1xTkNpdlZxM2htWnA2R1RsS3lwaE1UYVNuM1VtczhDaHlaOEYzZHJndQ?oc=5",
-      "fuente": "Diario Neuquino",
-      "fecha_publicacion": "2026-11-08",
-      "seccion": "nacional",
-      "etiquetas": [
-        "Política"
-      ],
-      "imagen": "",
-      "descripcion": "León XIV frente a Milei: el mensaje de respeto y misericordia que interpela a la política argentina&nbsp;&nbsp;Diario Neuquino",
-      "relevancia": 2
-    },
-    {
-      "titulo": "Argentina: la política y la pobreza en medio de la visita de León XIV",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQN080VG13UHM1WF9NdzVWcVA1U2QwdmRfQ0JaZlZySElNdy01RC1DY0lBUF9CN2l5MVZFQ0lFWXdDVG0tSWFoc3AxTXFVdXNVMHhfTHo2eUF3QllHbXhZU1J0TGZHRERkWG1VMmNDQ1JwQ1U2eVNjOHEyQkEyTElwS0U5cE5uWGpza2V3S1EyWURxVERDMl9keFFfZllXYXp3Y3llME9SbEJxNDVialFNT1ZGWHVYM1YwUGFJWU9GZGliMUluZDVKaw?oc=5",
-      "fuente": "El Comercio Perú",
-      "fecha_publicacion": "2026-11-08",
-      "seccion": "nacional",
-      "etiquetas": [
-        "Política",
-        "Social"
-      ],
-      "imagen": "",
-      "descripcion": "Argentina: la política y la pobreza en medio de la visita de León XIV&nbsp;&nbsp;El Comercio Perú",
-      "relevancia": 2
-    },
-    {
-      "titulo": "El Papa León XIV llega a la Argentina con una agenda que desafía al gobierno de Milei",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaHVOTWlpUzEwcHNadzVCSV9jTWdXbTRhMVJrWnhFVG1lUHIyaGtJZldxRklqTUxQS1RxZE9nNWF3NHcwa0xTSlI5VjViWXNNdXZUY2FWLXVkZkloWHl6ay1lemhZMTFudmxWeHNhM1FQdTFUZGZWRFZHVTB5ZENmR2VXbHJNY3kwWG4yeXVMZ3BkazBlOGJ6ak5mVWFWV2taZldHbUpqSktQY3VCVWfSAcIBQVVfeXFMTzN5X1VOVFd2YVhwTGJXcmU5TkxvMmtjQkdQZy14WThDS3F2bkVBZU91MzNnRE5pVG45OXBGY1lycDVmMnVJUUxrd08zTXFHcERvM3dydzNfc1phWmNHQ21xU1c2alFiQ3JHamMyVTdjODVKbXZoWVhoOVBSclZDYW9PMGlWZ3dEY1ZvX1I5TVppWGdNTURuOFhtY254WlF5VmU1WnJ3ODR0VE9tWTVUOWJXeGhNMXVuQzc5eFFwZS1WeHc?oc=5",
-      "fuente": "El Destape",
-      "fecha_publicacion": "2026-11-08",
-      "seccion": "nacional",
-      "etiquetas": [
-        "Política"
-      ],
-      "imagen": "",
-      "descripcion": "El Papa León XIV llega a la Argentina con una agenda que desafía al gobierno de Milei&nbsp;&nbsp;El Destape",
-      "relevancia": 2
-    },
-    {
-      "titulo": "In Argentina, Pope Leo to Meet Church at Odds With President Milei",
+      "titulo": "In Argentina, Pope Leo Tells President Milei Economy Must Serve the Needy",
       "url": "https://www.nytimes.com/2026/11/08/world/americas/pope-leo-argentina-milei.html",
       "fuente": "New York Times",
       "fecha_publicacion": "2026-11-08",
@@ -369,30 +843,16 @@
       "relevancia": 1
     },
     {
-      "titulo": "Las recetas de los supermercados para evitar los ‘hackeos’: segmentar las redes y cifrar los métodos de acceso",
-      "url": "https://elpais.com/economia/2026-11-08/las-recetas-de-los-supermercados-para-evitar-los-hackeos-segmentar-las-redes-y-cifrar-los-metodos-de-acceso.html",
-      "fuente": "El Pais Economia",
-      "fecha_publicacion": "2026-11-08",
-      "seccion": "internacional",
-      "etiquetas": [
-        "Economia",
-        "Política"
-      ],
-      "imagen": "https://imagenes.elpais.com/resizer/v2/32EEZHPOI5BITPNMLWKTUGKNFM.JPG?auth=19e0d24ac08a54b438e7f90dcfbd4577cdd607eed0b4b44d1db390e5f47e52c5",
-      "descripcion": "Los ciberataques revelan cómo desestabilizar a una sociedad sin armas convencionales y la vulnerabilidad de unas cadenas de suministro cada vez más digitalizadas",
-      "relevancia": 1
-    },
-    {
-      "titulo": "Un Estado fuerte para un mercado libre",
-      "url": "https://elpais.com/economia/negocios/2026-11-08/un-estado-fuerte-para-un-mercado-libre.html",
-      "fuente": "El Pais Economia",
+      "titulo": "León XIV pide una economía al servicio de las personas y más oportunidades para los jóvenes en Argentina",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPOUFJMlp0NzYyMEtmcldaTWxvTWg2Tm4tX0l1aHdSOFVNbklTbjMzYVRNc3JiVkpFQzF0U2lMVjdXNVFXaG9QX1AzcDRmRDJKTVNmUm4yWm1mNmgzVGJ4b0M1ajdWSWI4OVpFZGZyOUZEV1d6eDZUY3ZVSURlSll1b3lDeC0zeC1XSnc5N3RuREIwOTJ0dllHVzRjdTJfalFNSm5ycVNxanRjeDlkRUJSWllvOW80TmNzWGtFR19qbEFsVHJOU0ctbVZFQ0ZxbUtQcDZmdWh1OHhjNlo5TXppbDE0YlZBNm0temJWMdIB8gFBVV95cUxQMDNDb1FLcHhNSlFIYk9MaHJzdmtBQWZPRmVpcHpnY0owNFFlY0RvekdyX0FtRF9TdmtRVGNLZ240TEFpMFkyeS14WDk0Ri1DTHZKNWRHTDc2WUd4TGtObHgxV05HSmlGTnpaMzhTY1NwSmRmSFBtYzB3d3RLT1h0VnVxLURZWkc5RVZnUHFGY3RJT241Vmw3Z203dTlxTmQ1RzRBT2xXa1FfMVJVVHdMYlB2UndBdXhTYW53Zmd5aUhiV3ptdXZ3aFVVU19PUFVYanpGWmxpTTdCenc4cXA2ZjlsRnNzcVFpbkNEdzJSMVVndw?oc=5",
+      "fuente": "América Económica",
       "fecha_publicacion": "2026-11-08",
       "seccion": "internacional",
       "etiquetas": [
         "Economia"
       ],
-      "imagen": "https://imagenes.elpais.com/resizer/v2/ESUYEA6PNVHLNFN2BVMT7RVEJ4.jpg?auth=6f418329b2f1f764721ac857928a97725453a025d219483b99acdd493d91c88e",
-      "descripcion": "Sin una Administración que preserve la competencia se premia al que mejor protege y no al que mejor produce",
+      "imagen": "",
+      "descripcion": "León XIV pide una economía al servicio de las personas y más oportunidades para los jóvenes en Argentina&nbsp;&nbsp;América Económica",
       "relevancia": 1
     },
     {
@@ -406,458 +866,6 @@
       ],
       "imagen": "",
       "descripcion": "Agenda de la semana: inflación en EE.UU. y Brasil, tasas en Perú y la COP31&nbsp;&nbsp;Bloomberg Línea",
-      "relevancia": 1
-    },
-    {
-      "titulo": "🚨 El FMI proyecta que Perú superaría a Chile en 2027 y se convertiría en la cuarta economía más sólida de Sudamérica",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOd2xESnFtRGdyTFVpYlZ3eDZfWVBtUlhTajdsWko4T0xuN3Y1UEo5YWRVQllqZXA2RkpEWDNLb3Rjcjg0b0RJemM2MGgyaHJiMnBjQUlyVDR1eUJrVHROcVNRdVNWX0xnMmhZNFlBZFVVM0VrNElSUWZVM2Q0dWhDQmZHZVV1OE50bnRPTzAyQTF0ODU2dXUzYlFZemktQWtHX29hclN0OGVUN180WGhiaUtwZUZlVFBXQWRkSktrbDJKYmxoZTBTMm5TdEhzLTlzZE1RUmJPOFkxS29PTXJjNk5NNm5yMVdFVmhvUGRacnc?oc=5",
-      "fuente": "Facebook",
-      "fecha_publicacion": "2026-11-08",
-      "seccion": "internacional",
-      "etiquetas": [
-        "Economia"
-      ],
-      "imagen": "",
-      "descripcion": "🚨 El FMI proyecta que Perú superaría a Chile en 2027 y se convertiría en la cuarta economía más sólida de Sudamérica&nbsp;&nbsp;Facebook",
-      "relevancia": 1
-    },
-    {
-      "titulo": "Who Is Gadi Eisenkot, Israel’s Opposition Leader?",
-      "url": "https://www.nytimes.com/2026/11/08/world/middleeast/israel-eisenkot-netanyahu-what-to-know.html",
-      "fuente": "New York Times",
-      "fecha_publicacion": "2026-11-08",
-      "seccion": "internacional",
-      "etiquetas": [
-        "Producción"
-      ],
-      "imagen": "https://static01.nyt.com/images/2026/11/08/multimedia/08int-israel-eisenkot-wtk-ckmj/08int-israel-eisenkot-wtk-ckmj-mediumSquareAt3X.jpg",
-      "descripcion": "Mr. Eisenkot, a career general and the leading rival of Prime Minister Benjamin Netanyahu of Israel, will now have up to six weeks to form a coalition.",
-      "relevancia": 0
-    },
-    {
-      "titulo": "South Africa’s Politics May Never Be the Same Again",
-      "url": "https://www.nytimes.com/2026/11/08/world/africa/south-africa-election-african-national-congress.html",
-      "fuente": "New York Times",
-      "fecha_publicacion": "2026-11-08",
-      "seccion": "internacional",
-      "etiquetas": [
-        "Política"
-      ],
-      "imagen": "https://static01.nyt.com/images/2026/11/08/multimedia/08int-safrica-election-analysis-chqf/08int-safrica-election-analysis-chqf-mediumSquareAt3X.jpg",
-      "descripcion": "The African National Congress lost big in local elections, turning a once-dominant force credited with overturning apartheid into “any other political party.”",
-      "relevancia": 0
-    },
-    {
-      "titulo": "Eisenkot, Netanyahu Rival and Opposition Leader, Tapped to Try to Form Government",
-      "url": "https://www.nytimes.com/2026/11/07/world/middleeast/israel-eisenkot-government.html",
-      "fuente": "New York Times",
-      "fecha_publicacion": "2026-11-08",
-      "seccion": "internacional",
-      "etiquetas": [
-        "Producción"
-      ],
-      "imagen": "https://static01.nyt.com/images/2026/11/08/multimedia/08int-israel-politics-eisenkot-HFO-vbtf/08int-israel-politics-eisenkot-HFO-vbtf-mediumSquareAt3X.jpg",
-      "descripcion": "Gadi Eisenkot, a former military chief, hopes to succeed Benjamin Netanyahu as prime minister by cobbling together a coalition after an inconclusive election.",
-      "relevancia": 0
-    },
-    {
-      "titulo": "De la nevera al agua del grifo o la luz: los ciberataques ya impactan en la vida cotidiana",
-      "url": "https://elpais.com/tecnologia/2026-11-08/de-la-nevera-al-agua-del-grifo-o-la-luz-los-ciberataques-ya-impactan-en-la-vida-cotidiana.html",
-      "fuente": "El Pais Economia",
-      "fecha_publicacion": "2026-11-08",
-      "seccion": "internacional",
-      "etiquetas": [
-        "Política"
-      ],
-      "imagen": "https://imagenes.elpais.com/resizer/v2/3YZBSJ2Z7RAPRJA67INFPT32RI.jpg?auth=98f56eaa480c4f33ba50810586b1ee4047260672efb4b11ef1f9a554a1206f51",
-      "descripcion": "La inteligencia artificial dispara la frecuencia, rapidez y efectividad de los incidentes digitales, que cada vez suponen un riesgo mayor para las infraestructuras críticas",
-      "relevancia": 0
-    },
-    {
-      "titulo": "¿Qué pasa con la vivienda? 11 gráficos para entender causas y consecuencias del problema",
-      "url": "https://elpais.com/economia/vivienda/2026-11-08/que-pasa-con-la-vivienda-11-graficos-para-entender-causas-y-consecuencias-del-problema.html",
-      "fuente": "El Pais Economia",
-      "fecha_publicacion": "2026-11-08",
-      "seccion": "internacional",
-      "etiquetas": [
-        "Política"
-      ],
-      "imagen": "https://imagenes.elpais.com/resizer/v2/6IRUW4HJY4NQNRCFA2DDARFGY4.jpg?auth=cf43c95a425c3ffb03b47452680f2e7c6e1e999e00c7d0778becc0792b6a384d",
-      "descripcion": "La huelga del próximo miércoles pone el foco en la crisis habitacional. Repasamos los datos clave que la explican",
-      "relevancia": 0
-    },
-    {
-      "titulo": "Las claves: el mecanismo de retirada del aceite deberá ser evaluado con atención",
-      "url": "https://cincodias.elpais.com/opinion/2026-11-08/las-claves-el-mecanismo-de-retirada-del-aceite-debera-ser-evaluado-con-atencion.html",
-      "fuente": "El Pais Economia",
-      "fecha_publicacion": "2026-11-08",
-      "seccion": "internacional",
-      "etiquetas": [
-        "Economia"
-      ],
-      "imagen": "https://imagenes.elpais.com/resizer/v2/NXLDV33L4VM6XDGPZ7R6PSDOHE.jpg?auth=549ec844a670d53611bf182c9bd0c0430caada6ffec68ff5514fe6c6bee2afa4",
-      "descripcion": "Parece buena idea combatir la volatilidad de los precios, pero las intervenciones en el mercado alimentario pueden resultar contraproducentes",
-      "relevancia": 0
-    },
-    {
-      "titulo": "Sam Houser, el hombre invisible detrás del imperio de ‘Grand Theft Auto’",
-      "url": "https://cincodias.elpais.com/opinion/2026-11-08/sam-houser-el-hombre-invisible-detras-del-imperio-de-grand-theft-auto.html",
-      "fuente": "El Pais Economia",
-      "fecha_publicacion": "2026-11-08",
-      "seccion": "internacional",
-      "etiquetas": [
-        "Política"
-      ],
-      "imagen": "https://imagenes.elpais.com/resizer/v2/D2JAU5SSINHTFDTIJYUMNWJGIM.jpg?auth=e6e9da7c6576aedb5a8e5fa443e1e346368cf42bc0f97adaa2ad62e8b949a187",
-      "descripcion": "El cofundador y presidente de Rockstar Games está al mando de una de las franquicias más rentables de la historia del entretenimiento, cuya sexta entrega saldrá este mes",
-      "relevancia": 0
-    },
-    {
-      "titulo": "IA segura: el equilibrio entre el riesgo y la oportunidad",
-      "url": "https://elpais.com/economia/negocios/2026-11-08/ia-segura-el-equilibrio-entre-el-riesgo-y-la-oportunidad.html",
-      "fuente": "El Pais Economia",
-      "fecha_publicacion": "2026-11-08",
-      "seccion": "internacional",
-      "etiquetas": [
-        "Política"
-      ],
-      "imagen": "https://imagenes.elpais.com/resizer/v2/ZHA3DYA7VJFJ3P6R54ZXDYJAQQ.jpg?auth=1c3f20333b751ae6420f9f7b2dfe9450943f4776d0fa4da66cf3327ada627dca",
-      "descripcion": "La buena gobernanza no es un freno a la innovación; es la condición que permite que sea sostenible y confiable",
-      "relevancia": 0
-    },
-    {
-      "titulo": "Argentina quedó detrás de Venezuela en el ranking regional de riesgo país",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNY2NQNnB1dWdyekVWeWVUR25TckkzRGRXRDU1MHFaMnYxSDkzSlhJNVJoNzBtQUVzTFVoVU5JeWMwZzNXeU1wb19YRUtUc2VIQnVTZGJqYl8xMWNWM1dYdFZYdXNzSlJuWHNKNzBkLUl5VjRhNS1feW5laWNyZVpnVVZNazRlMFlGeTFtamRzNjFMaWNKU1dWVFJ5R3J4ajhyUDdVdmNrei1XVTNlWnBiNHZB?oc=5",
-      "fuente": "Diario Huarpe",
-      "fecha_publicacion": "2026-11-08",
-      "seccion": "internacional",
-      "etiquetas": [
-        "Política"
-      ],
-      "imagen": "",
-      "descripcion": "Argentina quedó detrás de Venezuela en el ranking regional de riesgo país&nbsp;&nbsp;Diario Huarpe",
-      "relevancia": 0
-    },
-    {
-      "titulo": "Argentina tiene el segundo riesgo país más alto de América Latina",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNV2M4amhYMHJhd3hDS2JGTS1hblo3MUNwVUZfVF83eFZrQTdjT2twbXo5czZVUjBIcW90dXRkVU4xVG95NmtESk41dEVvMkFkNmdwR0txSE5xc3phbFNvemlXazQ1aE01M0hYNUVwTFRKdnBhUjREQkRjdzRtYWRIM2ZZd2d3NV9XclZJQ1V5eTd0Uy04ZXR6RTVFazUyekMwcE9jM2xJSDZ1UU0yMG5yMGw0cEFyVFZsR3BlZWYyUQ?oc=5",
-      "fuente": "Agenda Salta",
-      "fecha_publicacion": "2026-11-08",
-      "seccion": "internacional",
-      "etiquetas": [
-        "Política"
-      ],
-      "imagen": "",
-      "descripcion": "Argentina tiene el segundo riesgo país más alto de América Latina&nbsp;&nbsp;Agenda Salta",
-      "relevancia": 0
-    },
-    {
-      "titulo": "Opinión FT: No supongamos que el viejo EE.UU. volverá",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNjhaWG5SR2JBNDNsa0YwUVFwTnoxVFhXanJ4TUFEX3F5anMxMWdsOEl1V0w4enJ5WFRtZi04bkpUNUFGeGlPaWVud1NNcW5qRDZUQXI4MjlMZ1JBNlkyRkloeWtQVXV2YXNYU2pMZU0tNjFzVmlaUjdVeFNvS0xYY09NOURJeWdfSFV6VmJ5TjYtYUpyZ3RyOHV4STFWR0t6ZWlnOFFGZmtydUt5TXpQTW5RUDhJQnM?oc=5",
-      "fuente": "Semana Económica",
-      "fecha_publicacion": "2026-11-08",
-      "seccion": "internacional",
-      "etiquetas": [
-        "Política"
-      ],
-      "imagen": "",
-      "descripcion": "Opinión FT: No supongamos que el viejo EE.UU. volverá&nbsp;&nbsp;Semana Económica",
-      "relevancia": 0
-    },
-    {
-      "titulo": "Presupuesto 2027 en Neuquén: Koenig explicará el plan de gastos en la Legislatura",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOejRrOHpNWWQwOXNkNURhRHhocU01TFpJWVU5NnZaX1JwQ01wdlVkTFYzbzVIbGpZLTE4MmtlY0kyc1Q5YzByQU9mb1dFRVdzdm5VNk9XbzFTNWtnLXRkTVE0SkF3b1F2RHJJMHZQbDc5VmdDUHoxQzZuZ3dUQzAzZVZ4ZWNkUVNIZUI0NjFKd3RCUV9lSlZNWndrOHdRYVZ3SkhVYXpVMXJXN0ZMd3BmMkp0WlpYSGVLeDNMdkhTdko4VzBNbVl3UjhTR0NuZlB5cDhrRdIB2gFBVV95cUxOX3JOazdUY0tzVjN2am96MFpkUXhtSURpT01vU3NXUS1fVWRHQ3l2SWZDdGhlRlNwcU02cnFTdnNNN256LXFRYnoxbTB5ZmIzblFkN2pPNDBteDB3V1A4d2RfaDJfcE1MTzl5SkQ3MDFRZmRjeVlmVVUyaWJ5RXQ4OXhzSl9nXzEyRGZicFR6dUxGRGNvcWdkVVk5NXlqVURUNXljaVIzOERxdTFjTUhiWEI1ajRITU1KamJNRDhvT3p5ZXBzc3FRTThNVC1RaktfSEEyYWplNG9ZZw?oc=5",
-      "fuente": "NoticiasNQN",
-      "fecha_publicacion": "2026-11-07",
-      "seccion": "provincial",
-      "etiquetas": [
-        "Economia",
-        "Política",
-        "Producción"
-      ],
-      "imagen": "",
-      "descripcion": "Presupuesto 2027 en Neuquén: Koenig explicará el plan de gastos en la Legislatura&nbsp;&nbsp;NoticiasNQN",
-      "relevancia": 4
-    },
-    {
-      "titulo": "El presupuesto de Rolando Figueroa emprende un camino sin sobresaltos en la Legislatura de Neuquén",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeXY3QUwxb25kZFNzTEExTkFWOXJ0NDE3TWoyR0lwdUwwV29xQVUtM2FRSkxhNU1IbkxUMkJjSGVTMUJVWGVaOEZ2SEZrVFFQaWExNF9IcFFWcUtWTnRSZGhjMWQ0MUV0MHZ6ZjVyZEV0VTI4eGZlMF9pS2pUSGR4VEtjemVhV3pfLUtTQUtxMDVwYWhMaF9vUHZmbG15Y2F4UUxXTHNGbDVSU1pqYVEzMkRfX2Y4bmlONUFRMGN0TVNfcGpDYlctMtIBzgFBVV95cUxOYXAwdHE0Z21ZdnJHRHd3WGtxd1ZnaWozSF8zMWdxQXU3S1hUVVZ5Qmt0OW5pdWdhaDRka2QyNnIwQ1pfZ1Z2LWREWnNRdUY4cG5RRGNjZXduNzhsX1ZZWm8xQ0RBRlZTU2hJSGRpcVdEZ1hYOWVrUnQ3Q096dl9uRmZxMWhJV3ZoYjhPWXc3UkVIV3QyYU5BSlpnM01tX1gxS1ptcnVhZkFBRUFMVHozc3BkV1E5T3dOV0ZBdzFWSjJTeXpkNW9lckxHaXI4dw?oc=5",
-      "fuente": "Letra P",
-      "fecha_publicacion": "2026-11-07",
-      "seccion": "provincial",
-      "etiquetas": [
-        "Economia",
-        "Política"
-      ],
-      "imagen": "",
-      "descripcion": "El presupuesto de Rolando Figueroa emprende un camino sin sobresaltos en la Legislatura de Neuquén&nbsp;&nbsp;Letra P",
-      "relevancia": 4
-    },
-    {
-      "titulo": "Rafaela busca meterse en la cadena de valor de Vaca Muerta: se constituyó la Mesa de Gas, Petróleo y Minería",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPeU93emFsX2JPQVF2RDBVRHBWSTdpYWxBbUdzaFpMQnNYbXRSNUNUN1pkcVhwSVdIeFVubWlUR3pURHNMX2lWV25oUmFYLWE1VVNNNzhob3AyaTFrTlMwNE96eFdkYmQ1V1UzMkZtQmNyYXpMc2JZNU10YVFJY2dMYVNib1Y1LXM1TEE2QTVFb0hYS0tGWE1rWlE4MlJSTVR6LW1maFlhT3NYWG9fMWVkaTMtcVJBSk0?oc=5",
-      "fuente": "Radio ADN 979 Rafaela",
-      "fecha_publicacion": "2026-11-07",
-      "seccion": "provincial",
-      "etiquetas": [
-        "Producción",
-        "Vaca Muerta"
-      ],
-      "imagen": "",
-      "descripcion": "Rafaela busca meterse en la cadena de valor de Vaca Muerta: se constituyó la Mesa de Gas, Petróleo y Minería&nbsp;&nbsp;Radio ADN 979 Rafaela",
-      "relevancia": 4
-    },
-    {
-      "titulo": "Rafaela formaliza un espacio de trabajo para vincular a sus empresas con Vaca Muerta",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTFR0YzZuajVIcFdfdzBjSXc1VHUzV3p0TE5QYVBZYWJWQ3RvOUVoVTZ0T3J4LWprMjluOGdpNFlvSUR4aDM4cHBrWk1Vc3BRNGYyLWpId3pOSnNHOG9udEwwSEZuakE1RVFWbFdhSGhfYXd3Y251QW55bEhIX0p2dklWNWVJR0xVU1RFWDZtY1UzcXBNSzc0VHRvbG5DV0dsbXB4ODhxdkplaW9CeWJYX0hUeG84djlvMC1ITmZ0cDE?oc=5",
-      "fuente": "Rafaela Informa",
-      "fecha_publicacion": "2026-11-07",
-      "seccion": "provincial",
-      "etiquetas": [
-        "Producción",
-        "Vaca Muerta",
-        "Empleo"
-      ],
-      "imagen": "",
-      "descripcion": "Rafaela formaliza un espacio de trabajo para vincular a sus empresas con Vaca Muerta&nbsp;&nbsp;Rafaela Informa",
-      "relevancia": 4
-    },
-    {
-      "titulo": "Neuquén presentó el Plan Calor: obras de gas e inversiones para ampliar la calefacción",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNQ1Y3U1ZCNXNPcmRyZXlvdmRTb0JGV1FaTFJrWV9jV0RYTkJRdEM1eFBKRXpCVlYxalNsTFFMaGZGRXFXeC13TVVoYVR2THpCSU5UdmRCUC1lYm43Q1lrWDVpNjFGbFljbUxTa3ZsZWV6NUhJeTFyQ3hTM1ROYjVmbUV6TVUwWTlNZk9tMDdWOER6eEd4ZEVMTnU4Qk8xdGd2R2hEc00zSU9vOWJ4NWdUNUd2Q29vV0h0MjdoMTRRSnVaYjZyeVUwc0RrNjZlRXRsRHhEa1lPblTSAd4BQVVfeXFMT3lfalZ3ZVVURkE0ZnlVS2lxSnNiZnpQUktJZ2s5UnFSbnBwczR5cWU0Q1FqcW50ZGtnNnp0VWFZaUJCcjdWazlZNVRMUlBwelhncHRHT1d6eDhEOERxUndTLVVVc1BpVXA2Q1JudG5TaXdhNjZuX3FsNmVMRXBQV0g1LU8xNThVRmlkN3RmWFhvNzlIb2ZKcElYODFad3RROVFTVFdDNmp2OUlZQWFNdWNETHlqb000aEJWeExobDE2ckVoeEVwdFhYNDZwZFhsWWJfaGFkbkNPWjJzZGxB?oc=5",
-      "fuente": "Alerta Digital",
-      "fecha_publicacion": "2026-11-07",
-      "seccion": "provincial",
-      "etiquetas": [
-        "Producción",
-        "Finanzas"
-      ],
-      "imagen": "",
-      "descripcion": "Neuquén presentó el Plan Calor: obras de gas e inversiones para ampliar la calefacción&nbsp;&nbsp;Alerta Digital",
-      "relevancia": 3
-    },
-    {
-      "titulo": "Neuquén proyecta un gasoducto de US$130 millones para Rincón de los Sauces y ampliará el suministro en la cordillera",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxONnhhNGI2dTJNazJmeElwZFh3aEt6Z01WaUFELTluT1pqNFhmR2pHU2prV0ZKaFNjcUhNdGZaVTJfQzctVHZ0TmFUcW5oV0J0WHJ5TC1TQllRclQtRm5PR0ZMVnAzZHBibXhHeXBGTzBiR0M5THJBdUZSLWZGandGRjBZdGNHREpRSV85bV9nYkdjajhBVmQ5T0QtOENwU2o2eVhpNmJNcUpTRUczRTZ3dDdCTDZCZ1dBbjNHUXoxY3ZEM3MtdG01NTRXZ3A5TzNNNG1Qb3RNTWpsSGZCZUlj?oc=5",
-      "fuente": "Diario Neuquino",
-      "fecha_publicacion": "2026-11-07",
-      "seccion": "provincial",
-      "etiquetas": [
-        "Política",
-        "Producción"
-      ],
-      "imagen": "",
-      "descripcion": "Neuquén proyecta un gasoducto de US$130 millones para Rincón de los Sauces y ampliará el suministro en la cordillera&nbsp;&nbsp;Diario Neuquino",
-      "relevancia": 3
-    },
-    {
-      "titulo": "Inician la soldadura del gasoducto de Vaca Muerta que demandará una inversión de USD 1.300 millones",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOWDNNN1BLN2VMMFFaOHY1S3JudDREcDJZTEFHN2lqM2l2QXRrTnlVb0F1cEpPcndXcXBaQWM1N2tDd0lZLWpGRU5USzFjSVlJU1RYbmpiT2t6a1V5TEF1LXpDX19JWFdWNEtpR2hWVm9lMU5ZX0ZDTV9jMVBSb1I5MUZ3am5EWmZkR0c3dmtIbW1CbE9XZkZlNWlnaE9ScGhGT3ZiTHliN2EyYVpBbzFDQXdxOURvaEJ0cjZzbFl3UTVjLUhPalhQM1EwQmZnUQ?oc=5",
-      "fuente": "LA17",
-      "fecha_publicacion": "2026-11-07",
-      "seccion": "provincial",
-      "etiquetas": [
-        "Producción",
-        "Vaca Muerta",
-        "Finanzas"
-      ],
-      "imagen": "",
-      "descripcion": "Inician la soldadura del gasoducto de Vaca Muerta que demandará una inversión de USD 1.300 millones&nbsp;&nbsp;LA17",
-      "relevancia": 3
-    },
-    {
-      "titulo": "Vaca Muerta, GNL y exportaciones: las inversiones de YPF que esperan avanzar bajo el RIGI",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOUUlNelBnaXdoU2JhcUZFVjdEcGo5OWJJbFg1V2t3LVMzRUFnbkNMUTQyQlFXRGFuMGs5dTBKUVJjV1lfOVZNN3hQS3BOUWItT3ppNU1MMjRZTXNVeEdKMFFQMThNUExEMHd4U081LUNNOHV5aVBaRENFOFZ4WGNoOGtjUGtLeWdWSEx5bzBKYUN0b0ZsQmlzT2Izc1VxNXNmQ0Z3bGdvU3hjMFR1cFJSUEFwdkhhTGxOSzhFd0JMUGVUbTFQanhUN1pSWEpCUXdIRl9fT3M0dzVUVEtCNkZUcQ?oc=5",
-      "fuente": "Minuto Neuquén",
-      "fecha_publicacion": "2026-11-07",
-      "seccion": "provincial",
-      "etiquetas": [
-        "Vaca Muerta",
-        "Finanzas"
-      ],
-      "imagen": "",
-      "descripcion": "Vaca Muerta, GNL y exportaciones: las inversiones de YPF que esperan avanzar bajo el RIGI&nbsp;&nbsp;Minuto Neuquén",
-      "relevancia": 3
-    },
-    {
-      "titulo": "Alberto Weretilneck, María Emilia Soria y LLA recalculan la estrategia tras las elecciones en Bariloche",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNcGU2aVZiZlctUlVmbmp3SFpwSmFNWWdkODV5d3dSemVfeGs3UUYyWVZUNTNzR2hYcjFOZk5ibFpKTU00N0FRRjlBTDk3OTZySFZHbDZnQ3pMZmZuR2dZVHpTYkw5RHJIdDdKdm1lSmU5WW1KOGx4NzFsMnBEdzhCNlpZc2lfbVVwVW9OVU1pOTRmQnY1Ukx4VUZ4aFlsZFdiY0MwR3gtbEJodGRzbGc0MWlMTWJCVFdhdDdQazNkV1BrMXB3UHp6d2RCdlc3Wjdwd0x0UtIB2gFBVV95cUxNeElaQnozOThVNG44TU1WUkRPRkU1YUpHemtram8teEpaalJOZ2o0SEVIb0w3T1k4NU9jV182dlRHUHdSQWd2MDhFS19kLXdXZTQzNFhFbjB6TzBSb1lQNmFwQ25IdGpBcWNBYm1sc2loX3RTVk9tQ2hwYUhhNHl2d3F0eWRjSG1YZUhYcEJfT2VDM2RrWHdUQmJ0QUpVdWE0XzFXclJtQUIxRlZJTlJFYVB0QlBRZ2V6MFVya3ZmdGpkRjc2NXdrZXIwWjVxQ3NZeTFYUHNHV09TUQ?oc=5",
-      "fuente": "Letra P",
-      "fecha_publicacion": "2026-11-07",
-      "seccion": "provincial",
-      "etiquetas": [
-        "Política"
-      ],
-      "imagen": "",
-      "descripcion": "Alberto Weretilneck, María Emilia Soria y LLA recalculan la estrategia tras las elecciones en Bariloche&nbsp;&nbsp;Letra P",
-      "relevancia": 3
-    },
-    {
-      "titulo": "Súper domingo patagónico: Chubut, Río Negro y Neuquén evalúan sincronizar sus elecciones",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVVhva0VQclFWT1ZBMmwxbTRtaWpZVHZXUUc5SW5naEtoOGhNMU9ZVi1QUWw4RVYyVnRWaFMwTS03TEdsb2FXdFZoUDdyZjdlU3dCdk9WclVSc0NZYXI5TVM4TnNQMDFvV2N2aW1IVmhLNnRMSE5ldTYxWWNyUUd5dTB0QU9kUDFRQWtpQjRMMDFKcmwyRnF1d3hmekdiRnpMaXFaZ3NLeVNaOGho?oc=5",
-      "fuente": "19640 Noticias",
-      "fecha_publicacion": "2026-11-07",
-      "seccion": "provincial",
-      "etiquetas": [
-        "Política"
-      ],
-      "imagen": "",
-      "descripcion": "Súper domingo patagónico: Chubut, Río Negro y Neuquén evalúan sincronizar sus elecciones&nbsp;&nbsp;19640 Noticias",
-      "relevancia": 3
-    },
-    {
-      "titulo": "➡️ El trabajo, elaborado sobre datos del Fondo Monetario Internacional (FMI), el INDEC y el Banco Central, compara la evolución de los precios y del tipo de cambio de 176 países entre diciembre de 2023 y septiembre de 2026. 🌐 Link de la nota completa e",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE53VThGX3M1WE1UdWNOTXBPSnNiR2lFTWtINEVrcmg2cGFCbTUwTDRxbHRWNDk5YW8xdmdNcVpDbDd5MmN5OHB6X2JHVnB0MDlvQ3c?oc=5",
-      "fuente": "Instagram",
-      "fecha_publicacion": "2026-11-07",
-      "seccion": "nacional",
-      "etiquetas": [
-        "Economia",
-        "Empleo"
-      ],
-      "imagen": "",
-      "descripcion": "➡️ El trabajo, elaborado sobre datos del Fondo Monetario Internacional (FMI), el INDEC y el Banco Central, compara la evolución de los precios y del tipo de cambio de 176 países entre diciembre de 202",
-      "relevancia": 5
-    },
-    {
-      "titulo": "Caputo y las elecciones 2027: \"La única persona que garantiza el orden económico es Milei\"",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPM0dUZUhPSzB0N3pkWHhPLUtqSVdPcUNPZlFWVDl5ZVB4M0VDMS1wcjhsQmN3RFNObDdKS1lVS1JCSFUwNkczaWRDSGwzdlhKYnNfVjMwclU1RExCeGJPdnNZemJGeFpNR0pCWG9vWVpTMXJPUl95bUNrUUZtLTB4c0FUdGtyUUVRNjg2M0NsMFJpOVpfRDVlVlZqcUNDQVVBRWI2UU84bFQxOEZBb3kxWWNlanF5Z2dlemlySmZtM0xxVDExT0RzdlhXeEPSAdIBQVVfeXFMUHd1Zy1CemhPNmtvMzl6ZlJaY3llY09jbWNDUk83Y2dIOE84b0E4cEt4TU9LY0FlX3U2QUw5Qk52VVU3M090d0tYbnVranIzSjFnT0NSYWd1LTdTMmpGSzZaYXZHbTlhNXExNFVCTTlXRlJTc2wwWnBBR3hMRjMwX1kzVWUwTXBxeElOWTRDUVBxMHRxNmJnR3lIaHU0SEw5NFhJTWxiSzNGazZ3NmN4VWo1N19oRlRCZGZzc3REM1lxWUJOWHV1bERscmw3SjdBRWNn?oc=5",
-      "fuente": "iProfesional",
-      "fecha_publicacion": "2026-11-07",
-      "seccion": "nacional",
-      "etiquetas": [
-        "Política"
-      ],
-      "imagen": "",
-      "descripcion": "Caputo y las elecciones 2027: \"La única persona que garantiza el orden económico es Milei\"&nbsp;&nbsp;iProfesional",
-      "relevancia": 3
-    },
-    {
-      "titulo": "Crece la dolarización de carteras rumbo a las elecciones",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORHU4S3pkT2NzLWN5OE8xcEJrZ1VrVk1nSzVSeGZWWUJsRk1OWEZobDdYZ254Z19DcE02TDRQVDQzZThRcnFiWFFwWGRqcDhkWTlrb0xRUFEyb3B4SnlERWVvVWxjSlJZNGZnMVJWc2RRMWg5Z2hEeUZsSV9JdHAxUzhqOElSRWNEZjk5aDd5VFpNeThjQW5tSjZGSXQ?oc=5",
-      "fuente": "laGacetaOnline",
-      "fecha_publicacion": "2026-11-07",
-      "seccion": "nacional",
-      "etiquetas": [
-        "Economia",
-        "Política",
-        "Finanzas"
-      ],
-      "imagen": "",
-      "descripcion": "Crece la dolarización de carteras rumbo a las elecciones&nbsp;&nbsp;laGacetaOnline",
-      "relevancia": 3
-    },
-    {
-      "titulo": "Minería y energía: Grupo L busca crecer al ritmo de las inversiones en Argentina",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONVdkdDMyMDVfcHFvSmE0TXN0cWZGSy0welV2RzV5YVpwSWlRNHl5cFp2TTQ5UWpodUxnSG5FQUNSek54TGh0bVNHMXBZZks0MmtacHNNaWw0Rk8wOEdsOXdBeUhldC11YXNTdDByc1l6R2s1cWlVTHZ3QUZwM0dhaHZsOTdXeXJVUkNJU0swTjBmTTFCX2VBMUJVZ2NSaE4xTlhKVkotbXgtLWZVbnhCdTBvM2dRWVJWWDVDdnRvLVMxd9IBxwFBVV95cUxOZXpBZ2pKOHJuTHhxcF9uM0Exd0YzQ3MyaTlhYWZkSjBncTRoU0h4VXZwUnpVUF9aNkh2czlhNS1UZndFVndYcVZZSDN6TFROYWxjYl9Lc0xBUU5EY2lONUwyT3JibWRmajdrVlVHbmRTYTdZS1BKbVB2SUl3enNLb3d1YzFEbG82VmppTHZwY05zengxay1vTjI3REM5UWZoaHJSNS05TnJ2LWowWmdJNl80WDdaU0dUZ2ZSM3o4cFA4S0h5dThz?oc=5",
-      "fuente": "iProfesional",
-      "fecha_publicacion": "2026-11-07",
-      "seccion": "nacional",
-      "etiquetas": [
-        "Producción",
-        "Finanzas",
-        "Ambiente"
-      ],
-      "imagen": "",
-      "descripcion": "Minería y energía: Grupo L busca crecer al ritmo de las inversiones en Argentina&nbsp;&nbsp;iProfesional",
-      "relevancia": 3
-    },
-    {
-      "titulo": "La industria argentina acumula una caída del 2,6% en 2026 y crece la preocupación por el empleo",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRDg0WVVvLWhSc3Byb1V2M2dXMWVtRXljVThRbXdBYkNvdEhmbUY2TnJENTdnQ1IyQ2JZbGNTbHpVNnRnS3ZJX2VDZElkNXdMellvOU1mT0Z2aTVmdTFKOF9iVUN2Q1liSDBjVlRmU0pYOC1sYWJjeG5ST0wtbjVYQ21wUWo0cGZjMUhyc05RaTdQdldjMk1ISkZ6YjJzaHZ3RU9GWDJMcXZVSEVzZk02dzhLNXZ0clV2OXZTYzFEZ0QxYV8tQ1BuY3BrZ9IB0AFBVV95cUxNUkMyU2djTTc1Qm52VmJQLUlOS1ZtZTAtN3loZGgwelFFdHRTLWlWWVA4VEszQlJJOVVnX0ZsaFJEMThPTGVoSmxVMmtyNkpLdGoySXVJa2Nzbldzbml0bDgzaHYzQUdzdGpvWkJCa29vVHV5b0dKTmFDeVdhcG5fS2tGWGE1OUs2a0NuaENFdkZ4czVUYldqX1o0aGNwZ2I1RmdOQ3BSS2pRTzZ6XzlGclJCbURTRGxDaDJzWGI2c1d6YjU3Qk92VkJBS0JiclhN?oc=5",
-      "fuente": "La Gaceta",
-      "fecha_publicacion": "2026-11-07",
-      "seccion": "nacional",
-      "etiquetas": [
-        "Producción",
-        "Empleo"
-      ],
-      "imagen": "",
-      "descripcion": "La industria argentina acumula una caída del 2,6% en 2026 y crece la preocupación por el empleo&nbsp;&nbsp;La Gaceta",
-      "relevancia": 2
-    },
-    {
-      "titulo": "La Economía del Papa: del milagro reactivador al impacto de las restricciones para circular",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUjJMRjZZOXdiU1VPYjZudEtiREpKUllGc0JtY2Z4RUR5LXVTYkwtWGpBcnNYSDVyR09oS3hNVG9LN0JRM3FtYklPSmVDeC1pUGR0Ym1oYUxBeXVaTU5hSV8xaVoyNEhRSFRZTHhFOWVXaWppcXU1cnduZlExOXgxazRyUENuZUc3M2t5eVkyWl9kZ3VhUzMxNHFjLXFhT3drMXFWMzVDZlhYaG83cklqWW95RnB3S0pVVmFyMTZFdEwyM19zUU0yTEJEM0NhYU3SAeoBQVVfeXFMT3NUMEFuamlIaVFfRF83UUtQWngwNDBuS09mcHRqaUVaRllGdjFIUjBBcUlTZGY3YlhnZDNyZmlEUnUyY2J0TkNNdTl2UjVRRmFMTnU3eENXNmJqV0RzdTFEVnZCVUlidkZwQ190NTNzNWpOM1Y5ZnFzVDFnVzZjVk9sWEQ5RGFORXEwc2ljeV8wMlFoTWRlQjhTWkNMRWtmcUZJcDJ1TncyblV6SkdyQThLZk1XbXcwa0JhTkF1dWRfQm1YaW9UVzd4N0Nzak1ScWstOG81MHFkTFQyWWlGMmF4MHhSVGJVaVl3?oc=5",
-      "fuente": "El Cronista",
-      "fecha_publicacion": "2026-11-07",
-      "seccion": "nacional",
-      "etiquetas": [
-        "Economia",
-        "Producción"
-      ],
-      "imagen": "",
-      "descripcion": "La Economía del Papa: del milagro reactivador al impacto de las restricciones para circular&nbsp;&nbsp;El Cronista",
-      "relevancia": 2
-    },
-    {
-      "titulo": "La trampa argentina: polarización política frena inversiones a largo plazo",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMEt4VGVad1o0TTJDYnlNdmNnRXFzeDgzZEt0dy1oRnBZUG9UYkpZZmtvZ29sTkhETWl3QWpRZi1BaHU2MGRZcmpMNkhEblRuX3lLRWQ1M3I4RVZ4amNoazV4TnUwMzJlSnhSdC1QM3NBb0VodjJuVWx6ZXV2S1ZQSUl2YjFBVVhfX0VvNEk3YkRoc3pzZDdQT1E1SFhVY2ZZQUNtWEMzUkhMT0hxOWc?oc=5",
-      "fuente": "Rosario Finanzas",
-      "fecha_publicacion": "2026-11-07",
-      "seccion": "nacional",
-      "etiquetas": [
-        "Política",
-        "Finanzas"
-      ],
-      "imagen": "",
-      "descripcion": "La trampa argentina: polarización política frena inversiones a largo plazo&nbsp;&nbsp;Rosario Finanzas",
-      "relevancia": 2
-    },
-    {
-      "titulo": "Los deberes económicos tras el 29-N: vivienda, infraestructuras, Presupuestos y  pensiones, entre los más urgentes",
-      "url": "https://elpais.com/economia/negocios/2026-11-07/los-deberes-economicos-tras-el-29-n-vivienda-infraestructuras-presupuestos-y-pensiones-entre-los-mas-urgentes.html",
-      "fuente": "El Pais Economia",
-      "fecha_publicacion": "2026-11-07",
-      "seccion": "internacional",
-      "etiquetas": [
-        "Economia",
-        "Política",
-        "Finanzas",
-        "Social"
-      ],
-      "imagen": "https://imagenes.elpais.com/resizer/v2/7JDSY2W5BJFARK5MQVWSJXPTR4.jpg?auth=89a693f930d826c7c0dd78989a3122c3d25055efb9258bdaeabc945948c0efef",
-      "descripcion": "El partido o la coalición que logre formar un Gobierno tras las elecciones se encontrará un país que crece, con menos paro y deuda, pero que ofrece también grietas estructurales que hay que afrontar c",
-      "relevancia": 2
-    },
-    {
-      "titulo": "Natalia Cote-Muñoz analiza el cambio de estrategia de China en América Latina | Políticas Públicas",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNY1dzeUY0dFB2VUVhcm5SRTVmQU04ZENWOWx1bFFiYnJwZV9QM0pmVEFmOFUzZDFPdlNfdFlzNEhTWTZJcFlQQlBlVUpzMTNQMXUxMF9YTzh5R3FKVWZKY2ZOSHZzM1FEb1BoRlBDM1V1YkE4MTJFYXNjdjVjeXpuUGlPam93RTlhYlB0UWJtUGt0cHdsdFpPN09GNHVGUEhsQmpodGJxWmtNMjBXWlZVRVZLdGZXb0FZV1NQdEo1YVBzVExHZ3d3S0N0elFLRjE3cXljTUdwN0NULXdnekh0b1B4NA?oc=5",
-      "fuente": "CAMBIO Colombia",
-      "fecha_publicacion": "2026-11-07",
-      "seccion": "internacional",
-      "etiquetas": [
-        "Política"
-      ],
-      "imagen": "",
-      "descripcion": "Natalia Cote-Muñoz analiza el cambio de estrategia de China en América Latina | Políticas Públicas&nbsp;&nbsp;CAMBIO Colombia",
-      "relevancia": 1
-    },
-    {
-      "titulo": "Panamá será sede del encuentro que reunirá a líderes de la industria de parques y atracciones en 2027",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPaWd0NnlycFQzdWlpb3MyTERoT2tYU3JOWVhFT0l4RTJWeHhkTXd6Q3VfQV9mUDJiYkhxaXdZaGdWX0Z3QUFERGVTbm1EVUUtY3V3ZzRYRk9Ba3dONkcxR25MOEk2YU4xWW95aVZEZ00tSGhvTVR6ZEtfMTNKMEo5UWtpNjZLOXhBZ3NZQXN4NW4weDJScDhNejRfb0RreEV6bkI2WmlsTkNEU0lxMTBFNUhiQUpHY3lvVzZ5TUJnRFppNU83OWRQY3BOOXkxQWhfRTB0eFBMczMzdExhNkx6Ukhn?oc=5",
-      "fuente": "www.metrolibre.com",
-      "fecha_publicacion": "2026-11-07",
-      "seccion": "internacional",
-      "etiquetas": [
-        "Producción",
-        "Finanzas"
-      ],
-      "imagen": "",
-      "descripcion": "Panamá será sede del encuentro que reunirá a líderes de la industria de parques y atracciones en 2027&nbsp;&nbsp;www.metrolibre.com",
-      "relevancia": 1
-    },
-    {
-      "titulo": "El nuevo péndulo de la política internacional",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQajJWMlpvVkRad1Z5MUd2WkxTYS1WSUZCX2tOVHlLMV9QX3FXeUlWaWpUOGJjSjkwZnFCU1JtNmhvRXRoNE4zUnFBeTkwMDB2UlhGVDVwMVFQcThWUnhQTFViS2Z4MXJsamNDWjRsa2xxVVdRcHMwZXdoYzRKeC12dg?oc=5",
-      "fuente": "El Nuevo Diario",
-      "fecha_publicacion": "2026-11-07",
-      "seccion": "internacional",
-      "etiquetas": [
-        "Política"
-      ],
-      "imagen": "",
-      "descripcion": "El nuevo péndulo de la política internacional&nbsp;&nbsp;El Nuevo Diario",
       "relevancia": 1
     }
   ]
